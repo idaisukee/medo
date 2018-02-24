@@ -1,0 +1,4527 @@
+# derived from http://www.medo.jp/anatomy_la.htm # derived from http://www.medo.jp/anatomy_la.htm
+# 1.rb によつて原稿を書きやすい形にした．
+
+- 下歯槽動脈 A alveolaris inferior
+- 前上歯槽動脈 Aa. alveolares superiores anteriores
+- 後上歯槽動脈 A alveolaris superior posterior
+- 眼角動脈 A angularis
+- 虫垂動脈 A appendicularis
+- 弓状動脈 A arcuata
+- 上行枝 A ascendens
+- 後耳介動脈 A auricularis posterior
+- 深耳介動脈 A auricularis profunda
+- 腋窩動脈 A axillaris
+- 脳底動脈 A basilaris
+- 上腕動脈 A brachialis
+- 浅上腕動脈 A brachialis superficialis
+- 頬動脈 A buccalis
+- 尿道球動脈 A bulbi penis
+- 膣前庭球動脈 A bulbi vestibuli vaginae
+- 脳梁縁動脈 A callosomarginalis
+- 翼突管動脈 A canalis pterygoidei
+- 総頚動脈 A carotis communis
+- 外頚動脈 A carotis externa
+- 内頚動脈 A carotis interna
+- 膵尾動脈 A caudae pancreatis
+- 前内側中心動脈 Aa. centrales anteromediales
+- 網膜中心動脈 A centralis retinae
+- 前下小脳動脈 A cerebelli inferior anterior
+- 後下小脳動脈 A cerebelli inferior posterior
+- 上小脳動脈 A cerebelli superior
+- 前盲腸枝 A cecalis anterior
+- 後盲腸枝 A cecalis posterior
+- 前下小脳動脈 A cerebelli inferior anterior
+- 大脳動脈 Aa. cerebri
+- 前大脳動脈 A cerebri anterior
+- 中大脳動脈 A cerebri media
+- 後大脳動脈 A cerebri posterior
+- 上行頚動脈 A cervicalis ascendens
+- 深頚動脈 A cervicalis profunda
+- 浅頚動脈 A cervicalis superficialis
+- 前脈絡叢動脈 A choroidea anterior
+- 内側大腿回旋動脈 A circumflexa femoris medialis
+- 後上腕回旋動脈 A circumflexa humeri posterior
+- 深腸骨回旋動脈 A circumflexa ilium profunda
+- 肩甲回旋動脈 A circumflexa scapulae
+- 総蝸牛動脈 A cochlearis communis
+- 結腸動脈 A colica
+- 中結腸動脈 A colica media
+- 左結腸動脈 A colica sinistra
+- 中側副動脈 A collateralis media
+- 橈側側副動脈 A collateralis radialis
+- 上尺側側副動脈 A collateralis ulnaris superior
+- 正中交通動脈 A commissuralis mediana
+- 右冠状動脈 A coronaria dextra
+- 左冠状動脈 A coronaria sinistra
+- 胆嚢動脈 A cystica
+- 背側指動脈|背側趾動脈 Aa. digitales dorsales
+- 総掌側指動脈 Aa. digitales palmares communes
+- 固有掌側指動脈 Aa. digitales palmares propriae
+- 総底側趾動脈 Aa. digitales plantares communes
+- 固有底側趾動脈 Aa. digitales plantares propriae
+- 陰核背動脈 A dorsalis clitoridis
+- 鼻背動脈 A dorsalis nasi
+- 足背動脈 A dorsalis pedis
+- 陰茎背動脈 A dorsalis penis
+- 肩甲背動脈 A dorsalis scapulae
+- 精管動脈 A ductus deferentis
+- 脳の動脈 Aa. encepali
+- 下腹壁動脈 A epigastrica inferior
+- 浅腹壁動脈 A epigastrica superficialis
+- 上腹壁動脈 A epigastrica superior
+- 強膜上動脈 Aa. episclerales
+- 前篩骨動脈 A ethmoidalis anterior
+- 後篩骨動脈 A ethmoidalis posterior
+- 顔面動脈 A facialis
+- 大腿動脈 A femoralis
+- 腓骨動脈 A fibularis
+- 外側前頭底動脈 A frontobasalis lateralis
+- 短胃動脈 Aa. gastricae breves
+- 右胃動脈 A gastrica dextra
+- 左胃動脈 A gastrica sinistra
+- 胃十二指腸動脈 A gastroduodenalis
+- 右胃大網動脈 A gastro-epiploica dextra
+- 左胃大網動脈 A gastroepiploica sinistra
+- 左胃大網動脈 A gastroomentalis sinistra
+- 下行膝動脈 A genus descendens
+- 外側下膝動脈 A genus inferior lateralis
+- 内側下膝動脈 A genus inferior medialis
+- 中膝動脈 A genus media
+- 外側上膝動脈 A genus superior lateralis
+- 内側上膝動脈 A genus superior medialis
+- 下殿動脈 A glutea inferior
+- 上殿動脈 A glutea superior
+- ラセン動脈 Aa. helicinae
+- 総肝動脈 A hepatica communis
+- 固有肝動脈 A hepatica propria
+- 硝子体動脈 A hyaloidea
+- 回腸動脈 Aa. ilei
+- 回結腸動脈 A ileocolica
+- 腸腰動脈 A iliolumbalis
+- 総腸骨動脈 A iliaca communis
+- 外腸骨動脈 A iliaca externa
+- 内腸骨動脈 A iliaca interna
+- 最上肋間動脈 A intercostalis suprema
+- 前骨間動脈 A interossea anterior
+- 総骨間動脈 A interossea communis
+- 反回骨間動脈 A interossea recurrens
+- 空腸動脈 Aa. jejunales
+- 下唇動脈 A labialis inferior
+- 上唇動脈 A labialis superior
+- 迷路動脈 A labyrinthi
+- 涙腺動脈 A lacrimalis
+- 下喉頭動脈 A laryngea inferior
+- 上喉頭動脈 A laryngea superior
+- 脾動脈 A lienalis
+- 子宮円索動脈 A ligamenti teretis uteri
+- 舌動脈 A lingualis
+- 上葉動脈 Aa. lobares superiores
+- 尾状葉動脈 A lobi caudati
+- 腰動脈 Aa. lumbales
+- 最下腰動脈 A lumbalis ima
+- 前外果動脈 A malleolaris anterior lateralis
+- 前内果動脈 A malleolaris anterior medialis
+- 咬筋動脈 A masseterica
+- 顎動脈 A maxillaris
+- 正中動脈 A mediana
+- 前硬膜動脈 A meningea anterior
+- 中硬膜動脈 A meningea media
+- 後硬膜動脈 A meningea posterior
+- オトガイ動脈 A mentalis
+- 下腸間膜動脈 A mesenterica inferior
+- 上腸間膜動脈 A mesenterica superior
+- 背側中手動脈 Aa. metacarpales dorsales
+- 掌側中手動脈 Aa. metacarpales palmares
+- 背側中足動脈 Aa. metatarseae dorsales
+- 足底中足動脈 Aa. metatarseae plantares
+- 総蝸牛軸静脈 A modioli communis
+- 筋横隔動脈 A musculophrenica
+- 外側後鼻枝 Aa. nasales posteriores laterales
+- 大腿骨栄養動脈 Aa. nutriciae femoris
+- 閉鎖動脈 A obturatoria
+- 副閉鎖動脈 A obturatoria accessoria
+- 後頭動脈 A occipitalis
+- 外側後頭動脈 A occipitalis lateralis
+- 眼動脈 A ophthalmica
+- 卵巣動脈 A ovarica
+- 上行口蓋動脈 A palatina ascendens
+- 下行口蓋動脈 A palatina descendens
+- 大口蓋動脈 A palatina major
+- 小口蓋動脈 Aa. palatinae minores
+- 外側眼瞼動脈 Aa. palpebrales laterales
+- 内側眼瞼動脈 Aa. palpebrales mediales
+- 後膵動脈 A pancreatica dorsalis
+- 後頭頂動脈 A parietalis posterior
+- 脳梁周囲動脈 A pericallosa
+- 心膜横隔動脈 A pericardiophrenica
+- 会陰動脈 A perinealis
+- 陰茎貫通動脈 Aa. perforantes penis
+- 放線貫通動脈 Aa. perforantes radiatae
+- 腓骨動脈 A peronea
+- 上行咽頭動脈 A pharyngea ascendens
+- 下横隔動脈 A phrenica inferior
+- 上横隔動脈 Aa. phrenicae superiores
+- 外側足底動脈 A plantaris lateralis
+- 内側足底動脈 A plantaris medialis
+- 深足底動脈 A plantaris profunda
+- 前頭極動脈 A polaris frontalis
+- 側頭極動脈 A polaris temporalis
+- 膝窩動脈 A poplitea
+- 前頭前動脈 A prefrontalis
+- 母指主動脈 A princeps pollicis
+- 上腕深動脈 A profunda brachii
+- 陰核深動脈 A profunda clitoridis
+- 大腿深動脈 A profunda femoris
+- 舌深動脈 A profunda linguae
+- 陰茎深動脈 A profunda penis
+- 翼突硬膜動脈 A pterygomeningea
+- 外陰部動脈 Aa. pudendae externae
+- 内陰部動脈 A pudenda interna
+- 右肺動脈 A pulmonalis dextra
+- 左肺動脈 A pulmonalis sinistra
+- 橈骨動脈 A radialis
+- 示指橈側動脈 A radialis indicis
+- 前根動脈 A radicularis anterior
+- 後根動脈 A radicularis posterior
+- 下直腸動脈 A rectalis inferior
+- 中直腸動脈 A rectalis media
+- 上直腸動脈 A rectalis superior
+- 橈側反回動脈 A recurrens radialis
+- 前脛骨反回動脈 A recurrens tibialis anterior
+- 後脛骨反回動脈 A recurrens tibialis posterior
+- 尺側反回動脈 A recurrens ulnaris
+- 腎動脈 A renalis
+- 腎の動脈 Aa. renis
+- 十二指腸後動脈 Aa. retroduodenales
+- 外側仙骨動脈 Aa. sacrales laterales
+- 正中仙骨動脈 A sacralis mediana
+- 下行肩甲動脈 A scapularis descendens
+- 前区動脈 A segamenti anterioris
+- 後区動脈 A segamenti posterioris
+- Ｓ結腸動脈 Aa. sigmoideae
+- 蝶口蓋動脈 A sphenopalatina
+- 前脊髄動脈 A spinalis anterior
+- 後脊髄動脈 A spinalis posterior
+- 蝸牛軸ラセン動脈 A spiralis modioli
+- 鎖骨下動脈 A subclavia
+- 肩甲下動脈 A subscapularis
+- 中心溝動脈 A sulci centralis
+- 視交叉上動脈 A suprachiasmatica
+- 中副腎動脈 A suprarenalis media
+- 上副腎動脈、上腎上体動脈 Aa. suprarenales superiores
+- 肩甲上動脈 A suprascapularis
+- 滑車上動脈 A supratrochlearis
+- 腓腹動脈 Aa. surales
+- 外側足根動脈 A tarsea lateralis
+- 前側頭動脈 A temporalis anterior
+- 中側頭動脈 A temporalis media
+- 前深側頭動脈 A temporalis profunda anterior
+- 後深側頭動脈 A temporalis profunda posterior
+- 浅側頭動脈 A temporalis superficialis
+- 精巣動脈 A testicularis
+- 内胸動脈 A thoracica interna
+- 外側胸動脈 A thoracica lateralis
+- 最上胸動脈 A thoracica suprema
+- 胸背動脈 A thoracodorsalis
+- 最下甲状腺動脈 A thyroidea ima
+- 下甲状腺動脈 A thyroidea inferior
+- 上甲状腺動脈 A thyroidea superior
+- 前脛骨動脈 A tibialis anterior
+- 後脛骨動脈 A tibialis posterior
+- 頚横動脈 A transversa colli
+- 顔面横動脈 A transversa faciei
+- 前鼓室動脈 A tympanica anterior
+- 下鼓室動脈 A tympanica inferior
+- 後鼓室動脈 A tympanica posterior
+- 上鼓室動脈 A tympanica superior
+- 尺骨動脈 A ulnaris
+- 尿道動脈 A urethralis
+- 膣動脈 A vaginalis
+- 椎骨動脈 A vertebralis
+- 前前庭動脈|前庭動脈 A vestibularis anterior/*A vestibularis
+- 前庭蝸牛動脈 A vestibulocochlearis
+- 上膀胱動脈 Aa vesicales superiores
+- 頬骨眼窩動脈 A zygomaticoorbitalis
+- 腹|腹部 abdomen
+- 外転筋 abductor
+- 寛骨臼 acetabulum
+- アキレス腱 Achilis
+- 肩峰 acromion
+- 視床間質 adhesio interthalamica
+- 口、入口 aditus
+- 乳突洞口 aditus ad antrum
+- 喉頭口 aditus laryngis
+- 眼窩口 aditus orbitalis
+- 白線補束 adminiculum linea alba
+- 翼 ala
+- 鶏冠翼 ala cristae galli
+- 中心小葉翼 ala lobuli centralis
+- 大翼 ala major
+- 小翼 ala minor
+- 鼻翼 ala nasi
+- 腸骨翼 ala ossis ilii
+- 仙骨翼 ala ossis sacri
+- 鋤骨翼 ala vomeris
+- 胞∥槽 alveolus
+- 歯槽 alveolus dentalis
+- 肺胞 alveoli pulmonis
+- 半関節 amphiarthrosis
+- 膨大部 ampulla
+- 涙小管膨大部 ampulla canaliculi lacrimalis
+- 精管膨大部 ampulla ductus deferentis
+- 胆膵管膨大部 ampulla hepatopancreatica
+- 膨大部 ampullae membranaceae
+- 前膜膨大部 ampulla membranacea anterior
+- 外側膜膨大部 ampulla membranacea lateralis
+- 後膜膨大部 ampulla membranacea posterior
+- 骨膨大部 ampullae osseae
+- 前骨膨大部 ampulla ossea anterior
+- 外側骨膨大部 ampulla ossea lateralis
+- 後骨膨大部 ampulla ossea posterior
+- 直腸膨大部 ampulla recti
+- 卵管膨大部 ampulla tubae uterinae
+- 吻合∥交通 anastomosis
+- 動静脈吻合 anastomosis arterivenosa
+- 角 angulus
+- 肩峰角 angulus acromialis
+- 肋骨角 angulus costae
+- 前頭角 angulus frontalis
+- 下角 angulus inferior
+- 胸骨下角 angulus infrasternalis
+- 虹彩角膜角 angulus iridocornealis
+- 下顎角 angulus mandibulae
+- 乳突角 angulus mastoideus
+- 後頭角 angulus occipitalis
+- 外眼角 angulus oculi lateralis
+- 内眼角 angulus oculi medialis
+- 口角 angulus oris
+- 橋小脳三角 angulus pontocerebellaris
+- 蝶形骨角 angulus sphenoidalis
+- 胸骨角 angulus sterni
+- 恥骨下角 angulus subpubicus
+- 上角 angulus superior
+- ワナ ansa
+- 頚神経ワナ ansa cervicalis
+- 鎖骨下ワナ ansa subclavia
+- 洞 antrum
+- 乳突洞 antrum mastoideum
+- 幽門洞 antrum pyloricum
+- 輪 anulus
+- 結膜輪 anulus conjunctivae
+- 線維軟骨輪 anulus fibrocartilagineus
+- 線維輪 anulus fibrosus
+- 深鼠径輪 anulus inguinalis profundus
+- 浅鼠径輪 anulus inguinalis superficialis
+- 大虹彩輪 anulus iridis major
+- 小虹彩輪 anulus iridis minor
+- 噴門リンパ輪 anulus lymphaticus cardiae
+- 鼓室輪 anulus tympanicus
+- 臍輪 anulus umbilicalis
+- 肛門 anus
+- 大動脈 aorta
+- 腹大動脈 aorta abdominalis
+- 上行大動脈 aorta ascendens
+- 下行大動脈 aorta descendens
+- 胸大動脈 aorta thoracica
+- 口|開口 apertura
+- 中脳水道口 apertura aqueductus cerebri
+- 中脳水道口 apertura aqueductus mesencephali
+- 蝸牛小管外口 apertura externa canaliculi cochleae
+- 前庭小管外口 apertura externa canaliculi vestibuli
+- 蝸牛小管内口 apertura interna canaliculi cochleae
+- 前庭小管内口 apertura interna canaliculi vestibuli
+- 骨盤上口 apertura pelvis superior
+- 梨状口 apertura piriformis
+- 前頭洞口 apertura sinus frontalis
+- 胸郭下口 apertura thoracis inferior
+- 胸郭上口 apertura thoracis superior
+- 鼓索小管鼓室口 apertura tympanica canaliculi chordae tympani
+- 尖 apex
+- 耳介尖 apex auriculae
+- 腓骨頭尖 apex capitis fibulae
+- 披裂軟骨尖 apex cartilaginis arytenoideae
+- 心尖 apex cordis
+- 後角尖 apex cornus posterioris
+- 咬頭尖 apex cuspidis
+- 歯突起尖 apex dentis
+- 舌尖 apex linguae
+- 鼻尖 apex nasi
+- 仙骨尖 apex ossis sacralis/*apex ossis sacri
+- 錐体尖 apex partis petrosae
+- 膝蓋骨尖 apex patellae
+- 前立腺尖 apex prostatae
+- 肺尖 apex pulmonis
+- 歯根尖|根尖 apex radicis dentis
+- 膀胱尖 apex vesicae
+- 腱膜 aponeurosis
+- 上腕二頭筋腱膜 aponeurosis bicipitalis
+- 帽状腱膜 aponeurosis epicranialis
+- 臀筋腱膜 aponeurosis glutea
+- 舌腱膜 aponeurosis linguae
+- 上腕二頭筋腱膜 aponeurosis musculi bicipitis brachii
+- 脊柱起立筋腱膜 aponeurosis musculi erectoris spinae
+- 口蓋腱膜 aponeurosis palatina
+- 手掌腱膜 aponeurosis palmaris
+- 足底腱膜 aponeurosis plantaris
+- 消化器 apparatus digestorius
+- 涙器 apparatus lacrimalis
+- 垂 appendix
+- 精巣上体垂 appendix epididymis
+- 線維付着 appendix fibrosa hepatis
+- 精巣垂 appendix testis
+- 虫垂 appendix vermiformis
+- 水管|水道 aqueductus
+- 中脳水道 aqueductus cerebri
+- 蝸牛水管 aqueductus cochleae
+- 前庭水管 aqueductus vestibuli
+- 脊髄クモ膜 arachnoidea mater spinalis
+- 樹 arbor
+- 気管支樹 arbor bronchialis
+- 小脳活樹 arbor vitae
+- 弓 arcus
+- 歯槽弓 arcus alveolaris
+- 前弓 arcus anterior atlantis
+- 大動脈弓 arcus aortae
+- 肋骨弓 arcus costalis
+- 輪状軟骨弓 arcus cartilaginis cricoideae
+- 下歯列弓 arcus dentalis inferior
+- 下歯列弓 arcus dentalis mandibularis
+- 上歯列弓 arcus dentalis maxillaris
+- [[解]]上歯列弓 arcus dentalis superior
+- 胸管弓 arcus ductus thoracici
+- 腸恥筋膜弓 arcus iliopectineus
+- 鼠径靭帯 arcus inguinalis
+- 口蓋舌弓 arcus palatoglossus
+- 口蓋咽頭弓 arcus palatopharyngeus
+- 深掌動脈弓 arcus palmaris profundus
+- 浅掌動脈弓 arcus palmaris superficialis
+- 下眼瞼動脈弓 arcus palpebralis inferior
+- 上眼瞼動脈弓 arcus palpebralis superior
+- 横足弓 arcus pedis transversus
+- 遠位横足弓 arcus pedis transversus distalis
+- 近位横足弓 arcus pedis transversus proximalis
+- 足底動脈弓 arcus plantaris
+- 深足底動脈弓 arcus plantaris profundus
+- 浅足底動脈弓 arcus plantaris superficialis
+- 後弓 arcus posterior atlantis
+- 恥骨弓 arcus pubis
+- 眉弓 arcus superciliaris
+- 腱弓 arcus tendineus
+- 肛門挙筋腱弓 arcus tendineus musculi levator ani
+- 骨盤筋膜腱弓 arcus tendineus fasciae pelvis
+- 奇静脈弓 arcus venae azygos
+- 足背静脈弓 arcus venosus dorsalis pedis
+- 頚静脈弓 arcus venosus juguli
+- 深掌静脈弓 arcus venosus palmaris profundus
+- 浅掌静脈弓 arcus venosus palmaris superficialis
+- 足底静脈弓 arcus venosus plantaris
+- 椎弓 arcus vertebrae
+- 頬骨弓 arcus zygomaticus
+- 野∥区 area
+- 蝸牛野 area cochleae
+- 篩状野 area cribrosa
+- 胃小区 area gastricae
+- 視床下部外側野 area hypothalamica lateralis
+- 視床下部後野、視床下部後域 area hypothalamica posterior
+- 視床下部前野 area hypothalamica rostralis
+- 前顆間区 area intercondylaris anterior
+- 無漿膜野 area nuda
+- 最後野 area postrema
+- 視索前野、視索前域 area preoptica
+- 中隔部、中隔野 area septalis
+- 梁下野 area subcallosa
+- 下前庭野 area vestibularis inferior
+- 上前庭野 area vestibularis superior
+- 乳輪 areola mammae
+- 立筋 arrector
+- 動脈 arteria
+- 輸出糸球体細動脈 arteriola glomerularis efferens
+- 網膜内側動脈 arteriola medialis retinae
+- 関節 articulatio
+- 肩鎖関節 articulatio acromioclavicularis
+- 外側環軸関節 articulatio atlantoaxialis lateralis
+- 環軸後頭関節 articulatio atlantooccipitalis
+- 踵立方関節 articulatio calcaneocuboidea
+- 肋骨頭関節 articulatio capitis costae
+- 手根関節 articulationes carpi
+- 肋椎関節 articulationes costovertebrales
+- 股関節 articulatio coxae/*articulatio coxofemoralis
+- 輪状披裂関節 articulatio cricoarytenoidea
+- 輪状甲状関節 articulatio cricothyroidea
+- 肘関節 articulatio cubiti
+- 楔立方関節 articulatio cuneocuboidea
+- 膝関節 articulatio genus
+- 肩関節 articulatio glenohumeralis
+- 肩関節 articulatio humeri
+- 腕橈関節 articulatio humeroradialis
+- 腕尺関節 articulatio humeroulnaris
+- 手根間関節 articulationes intercarpales
+- 中足間関節 articulationes intermetatarsales
+- 腰仙関節 articulatio lumbosacralis
+- 中手指節関節 articulationes metacarpophalangeae
+- 中足趾節関節 articulationes metatarsophalangeae
+- 耳小骨関節 articulationes ossiculorum auditus
+- 豆状骨関節 articulatio ossis pisiformis
+- 足の関節 articulationes pedis
+- 平面関節 articulatio plana
+- 橈骨手根関節 articulatio radiocarpalis
+- 下橈尺関節 articulatio radioulnaris distalis
+- 上橈尺関節 articulatio radioulnaris proximalis
+- 仙腸関節 articulatio sacroiliaca
+- 鞍関節 articulatio sellaris
+- 単関節 articulatio simplex
+- 胸鎖関節 articulatio sternoclavicularis
+- 距骨下関節 articulatio subtalaris
+- 距骨下関節 articulatio talocalcanea
+- 距踵舟関節 articulatio talocalcaneonavicularis
+- 距腿関節 articulatio talocruralis
+- 横足根関節 articulatio tarsi transversa
+- 足根中足関節 articulationes tarsometatarsales
+- 顎関節 articulatio temporomandibularis
+- 脛腓関節 articulatio tibiofibularis
+- 車軸関節 articulatio trochoidea
+- 椎間関節 articulationes zygapophysiales
+- 心房∥前房 atrium
+- 心房 atrium cordis
+- 左心房 atrium cordis sinistrum//atrium sinistrum
+- 右心房 atrium dextrum
+- 中鼻道前房 atrium meatus medii
+- 耳介 auricula
+- 心耳 auricula atrii
+- 耳 auris
+- 外耳 auris externa
+- 内耳 auris interna
+- 中耳 auris media
+- 腋窩 axilla
+- 軸 axis
+- 外眼球軸 axis bulbi externus
+- 内眼球軸 axis bulbi internus
+- 水晶体軸 axis lentis
+- 視軸 axis opticus
+- 骨盤軸 axis pelvis
+-  
+-  
+- 底 basis
+- 蝸牛底 basis cochleae
+- 心底 basis cordis
+- 頭蓋底 basis cranii
+- 外頭蓋底 basis cranii externa
+- 内頭蓋底 basis cranii interna
+- 下顎底 basis mandibulae
+- 蝸牛軸底 basis modioli
+- 仙骨底 basis ossis sacri
+- 膝蓋骨底 basis patellae
+- 肺底 basis pulmonis
+- アブミ骨底 basis stapedis
+- 二分 bifurcatio
+- 大動脈分岐部 bifurcatio aortae
+- 気管分岐部 bifurcatio tracheae
+- 上腕 brachium
+- 呼吸細気管支 bronchioli respiratorii
+- 終末細気管支 bronchioli terminales
+- 気管支 bronchus
+- 左上葉気管支 bronchus lobaris superior sinister
+- 右主気管支 bronchus principalis dexter
+- 頬 bucca
+- 球 bulbus
+- 大動脈球 bulbus aortae
+- 後角球 bulbus cornus posterior
+- 十二指腸球部 bulbus duodeni
+- 眼球 bulbus oculi
+- 嗅球 bulbus olfactorius
+- 尿道球 bulbus penis
+- 毛球 bulbus pili
+- 頚静脈下球 bulbus venae jugularis inferior
+- 頚静脈上球 bulbus venae jugularis superior
+- 前庭球 bulbus vestibuli
+- 胞 bulla
+- 篩骨胞 bulla ethmoidalis
+- 包、嚢† bursa
+- 鵞足包 bursa anserina
+- 頚の滑液包 bursae colli
+- 舌骨下包 bursa infrahyoidea
+- 殿筋の筋間包 bursae intermusculares musculorum gluteorum
+- 上肢の滑液包 bursae membri superioris
+- 烏口腕筋の滑液包 bursa musculi coracobrachialis
+- 網嚢 bursa omentalis
+- 咽頭嚢 bursa pharyngealis
+- 舌骨後包 bursa retrohyoidea
+- 肩峰下包 bursa subacromialis
+- 肩峰皮下包 bursa subcutanea acromialis
+- 踵骨皮下包 bursa subcutanea calcanea
+- 膝蓋下皮下包 bursa subcutanea infrapatellaris
+- 膝蓋前皮下包 bursa subcutanea prepatellaris
+- 皮下転子包 bursa subcutanea trochanterica
+- 膝蓋前筋膜下包 bursa subfascialis prepatellaris
+- 腱下滑液包 bursa subtendinea
+- 棘下筋の腱下包 bursa subtendinea musculi infraspinati
+- 広背筋の腱下包 bursa subtendinea musculi latissimi dorsi
+- 肩甲下筋の腱下包 bursa subtendinea musculi subscapularis
+- 大円筋の腱下包 bursa subtendinea musculi teretis majoris
+- 膝蓋前腱下包 bursa subtendinea prepatellaris
+- 縫工筋の腱下包 bursae subtendineae musculi sartorii
+- 膝蓋上包 bursa suprapatellaris
+- 滑液包 bursa synovialis
+- 皮下滑液包 bursa synovialis subcutanea
+- 筋膜下滑液包 bursa synovialis subfascialis
+- 筋下滑液包 bursa synovialis submuscularis
+- 大殿筋の転子包 bursa trochanterica musculi glutei maximi
+-  
+-  
+- 頂盲端 caecum cupulare
+- 前庭盲端 caecum vestibulare
+- 踵骨 calcaneus
+- 大腎杯 calyces renales majores
+- 房 camera
+- 眼房 camerae bulbi
+- 前眼房 camera anterior (bulbi)
+- 後眼房 camera posterior (bulbi)
+- 硝子体眼房 camera postrema
+- 硝子体眼房 camera vitrea
+- 小管 canaliculus
+- 頚鼓小管 canaliculi caroticotympanici
+- 蝸牛小管 canaliculus cochleae
+- 涙小管 canaliculus lacrimalis
+- 乳突小管 canaliculus mastoideus
+- 鼓室神経小管 canaliculus tympanicus
+- 前庭小管 canaliculus vestibuli
+- 管 canalis
+- 内転筋管 canalis adductorius
+- 消化管 canalis alimentarius
+- 肛門管 canalis analis
+- 顆管 canalis condylaris
+- 頚動脈管 canalis caroticus
+- 手根管 canalis carpi
+- 中心管 canalis centralis
+- 子宮頚管 canalis cervicis uteri
+- 顔面神経管 canalis facialis
+- 大腿管 canalis femoralis
+- 胃体管 canalis gastricus
+- 硝子体管 canalis hyaloideus
+- 舌下神経管 canalis hypoglossi
+- 切歯管 canalis incisivus
+- 眼窩下管 canalis infraorbitalis
+- 鼠径管 canalis inguinalis
+- 蝸牛軸縦管 canales longitudinales modioli
+- 下顎管 canalis mandibulae
+- 筋耳管管 canalis musculotubarius
+- 鼻涙管 canalis nasolacrimalis
+- 顔面神経管 canalis nervi facialis
+- 閉鎖管 canalis obturatorius
+- 視神経管 canalis opticus
+- 大口蓋管 canalis palatinus major
+- 小口蓋管 canales palatini minores
+- 翼突管 canalis pterygoideus
+- 陰部神経管 canalis pudendalis
+- 幽門管 canalis pyloricus
+- 仙骨管 canalis sacralis
+- 蝸牛ラセン管 canalis spiralis cochleae
+- 蝸牛軸ラセン管 canalis spiralis modioli
+- 胃体管 canalis ventriculi
+- 脊柱管 canalis vertebralis
+- 鋤骨吻管 canalis vomerorostralis
+- 鋤骨鞘突管 canalis vomerovaginalis
+- 小頭 capitulum
+- 被膜 capsula
+- 脂肪被膜 capsula adiposa
+- 関節包 capsula articularis
+- 輪状披裂関節包 capsula articularis cricoarytenoidea
+- 輪状甲状関節包 capsula articularis cricothyroidea
+- 最外包 capsula extrema
+- 胎嚢 capsula foetalis
+- 精索被膜 capsula funiculi spermatici
+- 糸球体包 capsula glomeruli
+- 内包 capsula interna
+- 水晶体包 capsula lentis
+- 小頭 capitulum
+- 上腕骨小頭 capitulum humeri
+- 頭∥筋頭 caput
+- 短頭 caput breve
+- 後角頭 caput cornus posterioris
+- 肋骨頭 caput costae
+- 精巣上体頭 caput epididymidis
+- 大腿骨頭 caput femoris
+- 腓骨頭 caput fibulae
+- 上腕頭 caput humerale
+- 上腕骨頭 caput humeri
+- 上腕尺骨頭 caput humeroulnare
+- 下頭 caput inferius
+- 外側頭 caput laterale
+- 長頭 caput longum
+- ツチ骨頭 caput mallei
+- 下顎頭 caput mandibulae
+- 内側頭 caput mediale
+- 尾状核頭 caput nuclei caudati
+- 斜頭 caput obliquum
+- 膵頭 caput pancreatis
+- 橈骨頭 caput radiale
+- 橈骨頭 caput radii
+- 直頭 caput rectum
+- アブミ骨頭 caput stapedis
+- 上頭 caput superius
+- 距骨頭 caput tali
+- 横頭 caput transversum
+- 尺骨頭 caput ulnae
+- 尺骨頭 caput ulnare
+- 噴門 cardia
+- 手根 carpus
+- 軟骨 cartilago
+- 大鼻翼軟骨 cartilago alaris major
+- 小鼻翼軟骨 cartilagines alares minores
+- 関節軟骨 cartilago articularis
+- 披裂軟骨 cartilago arytenoidea
+- 耳介軟骨 cartilago auriculae
+- 耳管軟骨 cartilago tubae auditivae/*cartilago tubae auditoriae
+- 小角軟骨 cartilago corniculata
+- 肋軟骨 cartilago costalis
+- 輪状軟骨 cartilago cricoidea
+- 楔状軟骨 cartilago cuneiformis
+- 喉頭蓋軟骨 cartilago epiglottica
+- 骨端軟骨 cartilago epiphysialis
+- 硝子軟骨 cartilago hyalina
+- 喉頭軟骨 cartilagines laryngis
+- 外耳道軟骨 cartilago meatus acustici
+- 鼻軟骨 cartilago nasi
+- 外側鼻軟骨 cartilago nasi lateralis
+- 種子軟骨 cartilago sesamoidea
+- 鼻中隔軟骨 cartilago septi nasi
+- 気管軟骨 cartilagines tracheales
+- 麦粒軟骨 cartilago triticea
+- 鋤骨軟骨 cartilago vomeronasalis
+- 小丘 caruncula
+- 処女膜痕 carunculae hymenales
+- 涙丘 caruncula lacrimalis
+- 舌下小丘 caruncula sublingualis
+- 尾 cauda
+- 精巣上体尾 cauda epididymis
+- 馬尾 cauda equina
+- 耳輪尾 cauda helicis
+- 尾状核尾 cauda nuclei caudati
+- 膵尾 cauda pancreatis
+- 尿道海綿体洞 cavernae corporis spongiosi
+- 陰茎海綿体洞 cavernae corporum cavernosorum
+- 腔 cavitas
+- 腹腔 cavitas abdominis
+- 関節腔 cavitas articulare
+- 頭蓋腔 cavitas cranii
+- 歯髄腔 cavitas dentis
+- 声門下腔 cavitas infraglottica
+- 喉頭腔 cavitas laryngis
+- 髄腔 cavitas medullare
+- 鼻腔 cavitas nasi
+- 口腔 cavitas oris
+- 固有口腔 cavitas oris propria
+- 骨盤腔 cavitas pelvis
+- 心膜腔 cavitas pericardiaca
+- 腹膜腔 cavitas peritonei
+- 咽頭腔 cavitas pharyngis
+- 胸膜腔 cavitas pleurae
+- 歯髄腔 cavitas pulparis
+- 胸腔 cavitas thoracis
+- 鼓室 cavitas tympani
+- 子宮腔 cavitas uteri
+- 三叉神経腔 cavitum trigeminalis
+- 腔 cavum
+- 盲腸 cecum
+- 篩骨洞 cellulae ethmoidales
+- 中篩骨蜂巣 cellulae ethmoidales mediae
+- 後篩骨蜂巣 cellulae ethmoidales posteriores
+- 乳突蜂巣 cellulae mastoideae
+- 耳管蜂巣 cellulae pneumaticae
+- 鼓室蜂巣 cellulae tympanicae
+- セメント質 cementum
+- 会陰腱中心 centrum perinei
+- 腱中心 centrum tendineum
+- 小脳 cerebellum
+- 大脳 cerebrum
+- 頚 cervix
+- 歯頚 cervix dentis
+- 子宮頚 cervix uteri
+- 膀胱頚 cervix vesicae
+- 交叉 chiasma
+- 視神経交叉 chiasma opticum
+- 腱交叉 chiasma tendinum
+- 索 chorda
+- 臍動脈索 chorda arteriae umbilicalis
+- 脊索 chorda dorsalis
+- 斜索 chorda obliqua
+- 腱索 chordae tendineae
+- 鼓索神経 chorda tympani
+- 帯状束 cingulum
+- 上肢帯 cingulum membri superioris
+- 上肢帯 cingulum pectorale
+- 動脈輪 circulus arteriosus
+- 大脳動脈輪 circulus arteriosus cerebri
+- 大虹彩動脈輪 circulus arteriosus iridis major
+- 小虹彩動脈輪 circulus arteriosus iridis minor
+- 関節環状面 circumferentia articularis
+- 槽 cisterna
+- 外側小脳延髄槽 cisterna cerebellomedullaris lateralis
+- 後小脳延髄槽 cisterna cerebellomedullaris posterior
+- 交叉槽 cisterna chiasmatica
+- 大脳外側窩槽 cisterna fossae lateralis cerebri
+- 脚間槽 cisterna interpeduncularis
+- 腰椎槽 cisterna lumbalis
+- 脳梁周[囲]槽 cisterna pericallosa
+- 橋小脳槽 cisterna pontocerebellaris
+- 全障 claustrum
+- 鎖骨 clavicula
+- 陰核 clitoris
+- 斜台 clivus
+- 小丘 colliculus
+- 顔面神経丘 colliculus facialis
+- 精丘 colliculus seminalis
+- 頚 collum
+- 肋骨頚 collum costae
+- 大腿骨頚 collum femoris
+- 腓骨頚 collum fibulae
+- 亀頭頚 collum glandis
+- ツチ骨頚 collum mallei
+- 下顎頚 collum mandibulae
+- 膀胱頚 collum vesicae
+- 胆嚢頚 collum vesicae biliaris/*collum vesicae felleae
+- 結腸 colon
+- 上行結腸 colon ascendens
+- 下行結腸 colon descendens
+- Ｓ状結腸 colon sigmoideum
+- 横行結腸 colon transversum
+- 柱 columna
+- 肛門柱 columnae anales
+- 前柱 columna anterior
+- 脳弓柱 columna fornicis
+- 灰白柱 columnae griseae
+- 中間柱 columna intermedia
+- 後柱 columna posterior
+- 腎柱 columnae renales
+- 前皺柱 columna rugarum anterior
+- 後皺柱 columna rugarum posterior
+- 脊柱 columna vertebralis
+- 交連 commissura
+- 白交連 commissura alba
+- 前交連 commissura anterior
+- 前庭球交連部、前庭球中間部 commissura bulborum
+- 小脳交連 commissura cerebelli
+- 脳弓交連 commissura fornicis
+- 後灰白交連 commissura grisea posterior
+- 手綱交連 commissura habenularum
+- 唇交連 commissura labiorum
+- 前陰唇交連 commissura labiorum anterior
+- 後陰唇交連 commissura labiorum posterior
+- 内側眼瞼交連 commissura medialis palpebrarum
+- 後交連 commisura posterior//commisura epithalamica
+- 峡部 commissura prostatae
+- 浅会陰隙 compartmentum superficiale perinei
+- 甲介 concha
+- 耳甲介 concha auriculae
+- 鼻甲介 concha nasalis
+- 下鼻甲介 concha nasalis inferior
+- 中鼻甲介 concha nasalis media
+- 上鼻甲介 concha nasalis superior
+- 最上鼻甲介 concha nasalis suprema
+- 蝶形骨甲介 concha sphenoidalis
+- 顆 condylus
+- 上腕骨顆 condylus humeri
+- 外側顆 condylus lateralis
+- 内側顆 condylus medialis
+- 下顎頭 condylus mandibulae
+- 内側顆 condylus medialis
+- 後頭顆 condylus occipitalis
+- 解剖学的直径 conjugata anatomica
+- 対角径 conjugata diagonalis
+- 外結合線 conjugata externa
+- 直径 conjugata recta
+- 咽頭食道狭窄 constrictio pharyngo-oesophagealis
+- 円錐 conus
+- 動脈円錐 conus arteriosus
+- 弾性円錐 conus elasticus
+- 精巣上体小葉円錐 coni epididymis
+- 脊髄円錐 conus medullaris
+- 心、心臓 cor
+- 真皮 corium
+- 角膜 cornea
+- 角 cornu
+- 前角 cornu anterius
+- 尾骨角 cornu coccygeum
+- 〔解〕前頭角 cornu frontale
+- 下角 cornu inferius
+- 側角 cornu laterale
+- 脊髄円錐 conus medullaris
+- 大角 cornu majus
+- 小角 cornu minus
+- 後頭角 cornu occipitale
+- 後角 cornu posterius
+- 仙骨角 cornu sacrale
+- 上角 cornu superius
+- 側頭角 cornu temporale
+- 子宮角 cornu uteri
+- 毛様体冠 corona ciliaris
+- 臨床歯冠 corona clinica
+- 歯冠 corona dentis
+- 亀頭冠 corona glandis
+- 放線冠 corona radiata
+- 体 corpus
+- 頬脂肪体 corpus adiposum buccae
+- 坐骨肛門窩脂肪体 corpus adiposum fossae ischioanalis
+- 膝蓋下脂肪体 corpus adiposum infrapatellare
+- 眼窩脂肪体 corpus adiposum orbitae
+- 前喉頭蓋脂肪体 corpus adiposum preepiglotticum
+- 眼窩脂肪体 corpus adiposum orbitae
+- 白体 corpus albicans
+- 扁桃体 corpus amygdaloideum
+- 肛門尾骨靭帯 corpus anococcygeum
+- 脳梁 corpus callosum
+- 陰核海綿体 corpus cavernosum clitoridis
+- 陰茎海綿体 corpus cavernosum penis
+- 小脳体 corpus cerebelli
+- 毛様体 corpus ciliare
+- 鎖骨体 corpus claviculae
+- 陰核体 corpus clitoridis
+- 尾骨小体 corpus coccygeum
+- 肋骨体 corpus costae
+- 精巣上体体 corpus epididymidis
+- 大腿骨体 corpus femoris
+- 腓骨体 corpus fibulae
+- 脳弓体 corpus fornicis
+- 上腕骨体 corpus humeri
+- 舌体 corpus linguae
+- 黄体 corpus luteum
+- 乳頭体 corpus mamillare
+- 乳房体 corpus mammae
+- 下顎体 corpus mandibulae
+- 上顎体 corpus maxillae
+- 髄体 corpus medullare
+- 小脳白質 corpus medullare cerebelli
+- 尾状核体 corpus nuclei caudati
+- 舌骨体 corpus ossis hyoidei
+- 腸骨体 corpus ossis ilii
+- 坐骨体 corpus ossis ischii
+- 恥骨体 corpus ossis pubis
+- 膵体 corpus pancreatis
+- 大動脈傍体 corpora paraaortica
+- 陰茎体 corpus penis
+- 会陰体 corpus perineale
+- 松果体 corpus pineale
+- 橈骨体 corpus radii
+- 赤体 corpus rubrum
+- 尿道海綿体 corpus spongiosum penis
+- 胸骨体 corpus sterni
+- 線条体 corpus striatum
+- 腹側線条体 corpus striatum ventrale
+- 距骨体 corpus tali
+- 脛骨体 corpus tibiae
+- 台形体 corpus trapezoideum
+- 尺骨体 corpus ulnae
+- 爪体 corpus unguis
+- 子宮体 corpus uteri
+- 胃体 corpus ventriculi
+- 膀胱体 corpus vesicae
+- 胆嚢体 corpus vesicae felleae
+- 硝子体 corpus vitreum
+- 小体 corpusculum
+- 腎小体 corpusculum renis
+- 触覚小体 corpusculum tactus
+- 皮質 cortex
+- 小脳皮質 cortex cerebelli
+- 大脳皮質 cortex cerebri
+- 水晶体皮質 cortex lentis
+- 卵巣皮質 cortex ovarii
+- 腎皮質 cortex renalis
+- 肋骨 costa
+- 頚肋|頚肋骨 costa cervicalis/*costa colli
+- 腰肋 costa lumbalis
+- 頭蓋骨 cranium
+- 殿裂 crena analis//crena ani//crena interglutealis
+- 稜 crista
+- 膨大部稜 crista ampullaris
+- 弓状稜 crista arcuata
+- 基底稜 crista basilaris
+- 肋骨頭稜 crista capitis costae
+- 鋤骨後鼻孔稜 crista choanalis vomeris
+- 肋骨頚稜 crista colli costae
+- 鼻甲介稜 crista conchalis
+- 篩骨稜 crista ethmoidalis
+- 前頭稜 crista frontalis
+- 鶏冠 crista galli
+- 腸骨稜 crista iliaca
+- 側頭下稜 crista infratemporalis
+- 転子間稜 crista intertrochanterica
+- 前涙嚢稜 crista lacrimalis anterior
+- 後涙嚢稜 crista lacrimalis posterior
+- 辺縁隆線 crista marginalis
+- 内側稜 crista medialis
+- 回外筋稜 crista musculi supinatoris
+- 鼻稜 crista nasalis
+- 閉鎖稜 crista obturatoria
+- 口蓋稜 crista palatina
+- 口蓋咽頭稜 crista palatopharyngea
+- 恥骨稜 crista pubica
+- 腎稜 crista renalis
+- 外側仙骨稜 crista sacralis lateralis
+- 中間仙骨稜 crista sacralis medialis
+- 蝶形骨稜 crista sphenoidalis
+- 基底稜 crista spiralis
+- 外側顆上稜 crista supraepicondylaris lateralis
+- 乳突上稜 crista supramastoidea
+- 弁上稜 crista supravalvularis
+- 室上稜 crista supraventricularis
+- 側頭稜 crista temporalis
+- 分界稜 crista terminalis
+- 横稜 crista transversa
+- 小結節稜 crista tuberculi minoris
+- 尿道稜 crista urethralis
+- 前庭稜 crista vestibuli
+- 脚 crus
+- 内包前脚 crus anterius
+- 短脚 crus breve
+- 大脳脚 crus cerebri
+- 陰核脚 crus clitoridis
+- 右脚 crus dextrum
+- 脳弓脚 crus fornicis
+- 耳輪脚 crus helicis
+- 水平脚 crus horizontale
+- 外側脚 crus laterale
+- 長脚 crus longum
+- 内側脚 crus mediale
+- 半規管脚 crura membranacea
+- 膨大部脚 crura membranacea ampullaria
+- 総脚 crus membranaceum commune
+- 単脚 crus membranaceum simplex
+- 陰茎脚 crus penis
+- 左脚 crus sinistrum
+- 垂直脚 crus verticale
+- 肘 cubitus
+- 頂 cupula
+- 膨大部頂 cupula ampullaris
+- 蝸牛頂 cupula cochleae
+- 眼杯 cupula optica
+- 胸膜頂 cupula pleurae
+- 彎曲 curvatura
+- 一次彎曲 curvatura primaria
+- 二次彎曲 curvaturae secondariae
+- 大彎 curvatura ventriculi major
+- 小彎 curvatura ventriculi minor
+- 尖 cuspis
+- 歯冠尖頭 cuspis dentis
+- 皮膚 cutis
+- 亀頭皮膚 cutis glandis
+- 陰茎皮膚 cutis penis
+- 陰嚢皮膚 cutis scroti
+- 耳甲介舟 cymba conchae
+-  
+-  
+- 交叉 decussatio
+- 被蓋交叉 decussationes tegmentales
+- 歯 dens
+- 犬歯 dens caninus
+- 切歯 dens incisivus
+- 真皮 dermis
+- 靭帯頭蓋 desmocranium
+- 斜径 diameter obliqua
+- 横径 diameter transversa
+- 隔膜∥横隔膜 diaphragma
+- 鞍隔膜 diaphragma sellae
+- 骨盤隔膜 diaphragma pelvis
+- 鞍隔膜 diaphragma sellae
+- 尿生殖隔膜 diaphragma urogenitale
+- 可動関節 diarthrosis
+- 円板 discus
+- 関節円板 discus articularis
+- 恥骨間円板 discus interpubicus
+- 椎間円板 discus intervertebralis
+- 稜間径 distantia intercristalis
+- 棘間径 distantia interspinosa
+- 回腸憩室 diverticulum ilei
+- 自律神経系 divisio autonomica
+- 右外側区 divisio lateralis dextra
+- 左外側区 divisio lateralis sinistra
+- 右内側区 divisio medialis dextra
+- 左内側区 divisio medialis sinistra
+- 背 dorsum
+- 舌背 dorsum linguae
+- 手背 dorsum manus
+- 鼻背 dorsum nasi
+- 足背 dorsum pedis
+- 陰茎背 dorsum penis
+- 鞍背 dorsum sellae
+- 迷管 ductuli aberrantes
+- 上迷細管 ductulus aberrans superior
+- 肺胞管 ductuli alveolares
+- 精巣輸出管 ductuli efferentes testis
+- 前立腺管 ductuli prostatici
+- 管 ductus
+- 動脈管 ductus arteriosus
+- 総胆管 ductus biliaris
+- 静脈管 ductus venosus
+- 集合胆管 ducti biliferi
+- 小葉間胆管 ductus biliferi interlobulares
+- 総胆管 ductus choledochus
+- 蝸牛管 ductus cochlearis
+- 胆嚢管 ductus cysticus
+- 精管 ductus deferens
+- 痕跡精管 ductus deferens vestigialis
+- 内リンパ管 ductus endolymphaticus
+- 射精管 ductus ejaculatorius
+- 精巣上体管 ductus epididymidis
+- 排出管 ductus excretorius
+- 総肝管 ductus hepaticus communis
+- 右肝管 ductus hepaticus dexter
+- 左肝管 ductus hepaticus sinister
+- 切歯管 ductus incisivus
+- 乳管 ductus lactiferi
+- 膵管 ductus pancreaticus
+- 副膵管 ductus pancreaticus accessorius
+- 尿道傍管 ductus paraurethrales
+- 耳下腺管 ductus parotideus
+- 外リンパ管 ductus perilymphaticus
+- 結合管 ductus reuniens
+- 半規管 ductus semicirculares
+- 前半規管 ductus semicircularis anterior
+- 外側半規管 ductus semicircularis lateralis
+- 後半規管 ductus semicircularis posterior
+- 大舌下腺管 ductus sublingualis major
+- 顎下腺管 ductus submandibularis
+- 胸管 ductus thoracicus
+- 右胸管 ductus thoracicus dexter
+- 甲状舌管 ductus thyroglossus
+- 卵形嚢管 ductus utricularis
+- 連嚢管 ductus utriculosaccularis
+- 静脈管 ductus venosus
+- 十二指腸 duodenum
+- 硬膜 dura mater
+- 脳硬膜 dura mater encephali
+- 脊髄硬膜 dura mater spinalis
+-  
+-  
+- 隆起 eminentia
+- 側副隆起 eminentia collateralis
+- 十字隆起 eminentia cruciformis
+- 前頭結節 eminentia frontalis
+- 小指球 eminentia hypothenaris
+- 腸恥隆起 eminentia iliopubica
+- 顆間隆起 eminentia intercondylaris
+- 上顎結節 eminentia maxillae
+- 内側隆起 eminentia medialis
+- 正中隆起 eminentia mediana
+- 錐体隆起 eminentia pyramidalis
+- 舟状窩隆起 eminentia scaphae
+- 脳 encephalon
+- 心内膜 endocardium
+- 上衣 ependyma
+- 上顆 epicondylus
+- 外側上顆 epicondylus lateralis
+- 内側上顆 epicondylus medialis
+- 表皮 epidermis
+- 精巣上体 epididymis
+- 喉頭蓋 epiglottis
+- 視床上部 epithalamus
+- 角膜上皮 epithelium anterius
+- 水晶体上皮 epithelium lentis
+- 赤道 equator
+- 水晶体赤道 equator lentis
+- 食道 esophagus
+- 陥凹 excavatio
+- 円板陥凹|乳頭陥凹 excavatio disci
+- 直腸子宮窩 excavatio rectouterina
+- 直腸膀胱窩 excavatio rectovesicalis
+- 端 extremitas
+- 肩峰端 extremitas acromialis
+- 前端 extremitas anterior
+- 下端 extremitas inferior
+- 後端 extremitas posterior
+- 胸骨端 extremitas sternalis
+- 上端 extremitas superior
+- 卵管端 extremitas tubaria
+- 子宮端 extremitas uterina
+-  
+-  
+- 顔 facies
+- 面 facies
+- 前前腕面 facies antebrachialis anterior
+- 眼瞼前面 facies anterior palpebrae
+- 前内側面 facies anteromedialis
+- 肩峰関節面 facies articularis acromialis
+- 前関節面 facies articularis anterior
+- 披裂関節面 facies articularis arytenoidea
+- 前踵骨関節面 facies articularis calcanea anterior
+- 中踵骨関節面 facies articularis calcanea media
+- 肋骨頭関節面 facies articularis capitis costae
+- 腓骨頭関節面 facies articularis capitis fibulae
+- 手根関節面 facies articularis carpalis
+- 鎖骨関節面 facies articularis clavicularis
+- 腓骨関節面 facies artiuclaris fibularis
+- 下関節面 facies articularis inferior
+- 底側踵舟靭帯関節面 facies articularis ligamenti calcaneonavicularis plantaris
+- 内果関節面 facies articularis malleoli medialis
+- 舟状骨関節面 facies articularis navicularis
+- 後関節面 facies articularis posterior
+- 上関節面 facies articularis superior
+- 上関節面 facies articularis superior
+- 前距骨関節面 facies articularis talaris anterior
+- 中距骨関節面 facies articularis talaris media
+- 後距骨関節面 facies articularis talaris posterior
+- 甲状関節面 facies articularis thyroidea
+- 肋骨結節関節面 facies articularis tuberculi costae
+- 耳状面 facies auricularis
+- 前上腕面 facies brachialis anterior
+- 外側上腕面 facies brachialis lateralis
+- 内側上腕面 facies brachialis medialis
+- 後上腕面 facies brachialis posterior
+- 頬側面 facies buccalis
+- 大脳面 facies cerebralis
+- 肋骨面 facies costalis
+- 前下腿面 facies cruralis anterior
+- 外側下腿面 facies cruralis fibularis
+- 外側下腿面 facies cruralis lateralis
+- 内側下腿面 facies cruralis medialis
+- 後下腿面 facies cruralis posterior
+- 内側下腿面 facies cruralis tibialis
+- 横隔面 facies diaphragmatica
+- 遠心面 facies distalis
+- 外面 facies externa
+- 前大腿面 facies femoralis anterior
+- 外側大腿面 facies femoralis lateralis
+- 内側大腿面 facies femoralis medialis
+- 後大腿面 facies femoralis posterior
+- 胃面 facies gastrica
+- 殿筋面 facies glutea
+- 大脳下面 facies inferior cerebri
+- 側頭下面 facies infratemporalis
+- 葉間面 facies interlobaris
+- 後面 facies intestinalis
+- 口唇面 facies labialis
+- 外側面 facies lateralis
+- 月状面 facies lunata
+- 外果面 facies malleolaris lateralis
+- 内果面 facies malleolaris medialis
+- 上顎面 facies maxillaris
+- 内側面 facies medialis
+- 大脳内側面 facies medialis cerebri
+- 縦隔面 facies mediastinalis
+- 近心面 facies mesialis
+- 鼻腔面 facies nasalis
+- 口蓋面 facies palatina
+- 膝蓋面 facies patellaris
+- 前面 facies pelvica
+- 膝窩面 facies poplitea
+- 背側面 facies posterior
+- 眼瞼後面 facies posterior palpebrae
+- 右肺面 facies pulmonalis dextra
+- 左肺面 facies pulmonalis sinistra
+- 仙骨盤面 facies sacropelvica
+- 胸肋面 facies sternocostalis
+- 上面 facies superior
+- 大脳上外側面 facies superolateralis cerebri
+- 大脳上外側面 facies superolateralis hemispherii cerebri
+- 尿道面 facies urethralis
+- 臓側面 facies visceralis
+- 鎌 falx
+- 小脳鎌 falx cerebelli
+- 大脳鎌 falx cerebri
+- 鼠径鎌 falx inguinalis
+- 中隔鎌 falx septi
+- 筋膜 fascia
+- 腹部筋膜 fascia abdominis
+- 腹部の腹壁筋膜 fascia abdominis visceralis
+- 前腕筋膜 fascia antebrachii
+- 上腕筋膜 fascia brachii
+- 頬咽頭筋膜 fascia buccopharyngea
+- 頚筋膜 fascia cervicalis/*fascia colli
+- 鎖骨胸筋筋膜 fascia clavipectoralis
+- 陰核筋膜 fascia clitoridis
+- 精巣挙筋膜 fascia cremasterica
+- 篩状筋膜 fascia cribrisa
+- 三角筋膜 fascia deltoidea
+- 横隔面 facies diaphragmatica
+- 手背筋膜 fascia dorsalis manus
+- 足背筋膜 fascia dorsalis pedis
+- 骨盤内筋膜 fascia endopelvina
+- 胸内筋膜 fascia endothoracica
+- 腹膜外筋膜 fascia extroperitonealis
+- 腸骨筋筋膜 fascia iliaca
+- 腸腰筋筋膜 fascia iliopsoas
+- 棘下筋膜 fascia infraspinata
+- 浅会陰筋膜 fascia investiens perinei superficialis
+- 大腿筋膜 fascia lata
+- 咬筋筋膜 fascia masseterica
+- 眼筋筋膜 fasciae musculares
+- 梨状筋筋膜 fascia musculi piriformis
+- 項筋膜 fascia nuchae
+- 閉鎖筋膜 fascia obturatoria
+- 閉鎖筋膜 fascia obturatoria
+- 眼窩筋膜 fasciae orbitales
+- 耳下腺筋膜 fascia parotidea
+- 胸筋筋膜 fascia pectoralis
+- 骨盤部の筋膜 fascia pelvis/*fascia pelvica
+- 壁側骨盤筋膜 fascia pelvis parietalis
+- 深陰茎筋膜 fascia penis profunda
+- 浅会陰筋膜 fascia perinei
+- 咽頭頭底板 fascia pharyngobasilaris
+- 盲結腸前筋膜 fascia precaecocolica
+- 仙骨前筋膜 fascia presacralis
+- 直腸前立腺筋膜 fascia rectoprostatica
+- 直腸仙骨筋膜 fascia rectosacralis
+- 直腸膣筋膜 fascia rectovaginalis
+- 腎被膜 fascia renalis
+- 棘上筋膜 fascia supraspinata
+- 側頭筋膜 fascia temporalis
+- 横筋筋膜 fascia transversalis
+- 臓側筋膜 fascia visceralis
+- 束 fasciculus
+- 前束 fasciculus anterior
+- 上縦束 fasciculus arcuatus
+- 房室束 fasciculus atrioventricularis
+- 瞼縁束 fasciculus ciliaris
+- 楔状束 fasciculus cuneatus
+- 薄束 fasciculus gracilis
+- 背側縦束 fasciculus longitudinalis dorsalis
+- 下縦束 fasciculus longitudinalis inferior
+- 内側縦束 fasciculus longitudinalis medialis
+- 後縦束 fasciculus longitudinalis posterior
+- 上縦束 fasciculus longitudinalis superior
+- 水平後頭束 fasciculi occipitales horizontales
+- 垂直後頭束 fasciculi occipitales verticales
+- 脚束 fasciculus peduncularis
+- 後束 fasciculus posterior
+- 後神経束 fasciculus posterior
+- 梁下束 fasciculus subcallosus
+- 鈎状束 fasciculus uncinatus
+- 大腿骨 femur
+- 卵円窓 fenestra ovalis
+- 弓状線維 fibrae arcuatae cerebri
+- 後外弓状線維 fibrae arcuatae externae posteriores
+- 連合線維 fibra associationis
+- 終脳内の連合神経 fibrae associationis telencephali
+- 輪状線維 fibrae circulares
+- 脳梁線維 fibrae corporis callosi
+- 終脳交連線維[群] fibrae commissurales telencephali
+- 脚間線維 fibrae intercrurales
+- 水晶体線維 fibrae lentis
+- 舌状回線維 fibrae linguales
+- 縦走線維 fibrae longitudinales
+- 橋小脳線維 fibrae pontocerebellares
+- 交連後線維 fibrae postcommissurales
+- 交連前線維 fibrae precommissurales
+- 放線状線維 fibrae radiales
+- 視蓋網様体線維 fibrae tectoreticulares
+- 終糸 filum terminale
+- 外終糸 filum terminale externum
+- 海馬采 fimbria hippocampi
+- 卵管采 fimbriae tubae
+- 裂 fissura
+- 前下裂 fissura anterior inferior
+- 小脳裂 fissurae cerebelli
+- 脈絡裂 fissura choroidea
+- 水平裂 fissura horizontalis
+- 脚間裂 fissura intercruralis
+- 二腹小葉内裂 fissura intrabiventralis
+- 静脈管索裂 fissura ligamenti venosi
+- 大脳縦裂 fissura longitudinalis cerebri
+- 薄月状裂 fissura lunogracilis
+- 前正中裂 fissura mediana anterior
+- 斜裂 fissura obliqua
+- 錐体後頭裂 fissura petrooccipitalis
+- 錐体鼓室裂 fissura petrotympanica
+- 主門裂 fissura portalis principalis
+- 後外側裂 fissura posterolateralis
+- 中心小葉前裂 fissura precentralis
+- 翼上顎裂、蝶顎裂 fissura pterygomaxillaris
+- 蝶錐体裂 fissura sphenopetrosa
+- 扁桃裂 fissura tonsillaris
+- 大脳横裂 fissura transversa cerebri
+- 鼓室乳突裂 fissura tympanomastoidea
+- 鼓室鱗裂 fissura tympanosquamosa
+- 臍裂 fissura umbilicalis
+- 曲 flexura
+- 肛門会陰曲 flexura anorectalis
+- 左結腸曲 flexura coli sinistra
+- 左結腸曲 flexura coli splenica
+- 下十二指腸曲 flexura duodeni inferior
+- 十二指腸空腸曲 flexura duodenojejunalis
+- 外側中間曲、外側中間左曲 flexura intermedia lateralis
+- 外側曲 flexurae laterales
+- 外側下曲、外側下右曲 flexura superior inferioris
+- 会陰曲 flexura perinealis
+- 仙骨曲 flexura sacralis
+- 小脳回 folia cerebelli
+- 葉 folium
+- 膝状体間葉、膝状体間小葉 folium intergeniculatum
+- 虫部葉 folium vermis
+- 小胞 folliculus
+- 歯小嚢 folliculus dentis
+- 毛包 folliculus pili
+- 頭蓋泉門 fonticuli cranii
+- 大泉門 fonticulus anterior
+- 後側頭泉門 fonticulus mastoideus
+- 小泉門 fonticulus posterior
+- 前側頭泉門 fonticulus sphenoidalis
+- 網様体 formatio reticularis
+- 脊髄網様体 formatio reticularis spinalis
+- 孔 foramen
+- 歯槽孔 foramen alveolare
+- 下歯槽孔 foramen alveolare inferius
+- 上歯槽孔 foramen alveolare superius
+- 盲孔 foramen caecum
+- 舌盲孔 foramen caecum linguae
+- 肋横突孔 foramen costotransversarium
+- 篩板孔 foramina cribrosa
+- 篩骨孔 foramen ethmoidale
+- 後篩骨孔 foramen ethmoidale posterius
+- 前頭孔 foramen frontale
+- 眼窩下孔 foramen infraorbitale
+- 室間溝 foramen interventriculare
+- 椎間孔 foramen intervertebrale
+- 椎間孔 foramina intervertebralia
+- 大坐骨孔 foramen ischiadicum majus
+- 小坐骨孔 foramen ischiadicum minus
+- 頚静脈孔 foramen jugulare
+- 破裂孔 foramen lacerum
+- 下顎孔 foramen mandibulae
+- 乳突孔 foramen mastoideum
+- オトガイ孔 foramen mentale
+- 鼻骨孔 foramina nasalia
+- 神経孔 foramina nervosa
+- 栄養孔 foramen nutricium
+- 閉鎖孔 foramen obturatum
+- 卵円孔 foramen ovale
+- 乳頭孔 foramina papillaria
+- 頭頂孔 foramen parietale
+- 大口蓋孔 foramen palatinum majus
+- 小口蓋孔 foramina palatina minora
+- 錐体孔 foramen petrosum
+- 歯根尖孔 foramen radicis dentis
+- 正円孔 foramen rotundum
+- 前仙骨孔 foramina sacralia anteriora
+- 後仙骨孔 foramina sacralia posteriora
+- 蝶口蓋孔 foramen sphenopalatinum
+- 棘孔 foramen spinosum
+- 茎乳突孔 foramen stylomastoideum
+- 眼窩上孔 foramen supraorbitalis
+- 甲状孔 foramen thyroideum
+- 肋横突孔 foramen costotransversarium
+- 大静脈孔 foramen venae cavae
+- 細小静脈孔 foramina venarum minimarum
+- 頬骨顔面孔 foramen zygomaticofaciale
+- 頬骨眼窩孔 foramen zygomaticoorbitale
+- 頬骨側頭孔 foramen zygomaticotemporale
+- 構成 formatio
+- 網様体 formatio reticularis
+- 脊髄網様体 formatio reticularis spinalis
+- 1.円蓋；2.脳弓 fornix
+- 下結膜円蓋 fornix conjunctivae inferior
+- 上結膜円蓋 fornix conjunctivae superior
+- 胃円蓋 fornix gastricus
+- 咽頭円蓋 fornix pharyngis
+- 涙嚢円蓋 fornix sacci lacrimalis
+- 膣円蓋 fornix vaginae
+- 窩 fossa
+- 寛骨臼窩 fossa acetabuli
+- 腋窩 fossa axillaris
+- 犬歯窩 fossa canina
+- 小脳窩 fossa cerebellaris
+- 大脳窩 fossa cerebralis
+- 鈎突窩 fossa coronoidea
+- 前頭蓋窩 fossa cranii anterior
+- 中頭蓋窩 fossa cranii media
+- 後頭蓋窩 fossa cranii posterior
+- 肘窩 fossa cubitalis
+- 二腹筋窩 fossa digastrica
+- ミズオチ fossa epigastrica
+- 硝子体窩 fossa hyaloidea
+- 下垂体窩 fossa hypophysialis
+- 腸骨窩 fossa iliaca
+- 切歯窩 fossa incisiva
+- キヌタ骨窩 fossa incudis
+- 鎖骨下窩 fossa infraclavicularis
+- 棘上窩 fossa infraspinata
+- 側頭下窩 fossa infratemporalis
+- 外側鼠径窩 fossa inguinalis lateralis
+- 内側鼠径窩 fossa inguinalis medialis
+- 顆間窩 fossa intercondylaris
+- 坐骨肛門窩 fossa ischioanalis
+- 坐骨直腸窩 fossa ischiorectalis
+- 頚静脈窩 fossa jugularis
+- 外果窩 fossa malleoli lateralis
+- 下顎窩 fossa mandibularis
+- 尿道舟状窩 fossa navicularis urethrae
+- 肘頭窩 fossa olecrani
+- 卵円窩 fossa ovalis
+- 卵巣陥凹 fossa ovarica
+- 直腸傍陥凹 fossa pararectalis
+- 膝窩 fossa poplitea
+- 翼突窩 fossa pterygoidea
+- 翼口蓋窩 fossa pterygopalatina
+- 橈骨窩 fossa radialis
+- 菱形窩 fossa rhomboidea
+- 舟状窩 fossa scaphoidea
+- 肩甲下窩 fossa subscapularis
+- 棘上窩 fossa supraspinata
+- 扁桃上窩 fossa supratonsillaris
+- 橈骨窩 fossa radialis
+- 臼後窩 fossa retromolaris
+- 側頭窩 fossa temporalis
+- 三角窩 fossa triangularis
+- 転子窩 fossa trochanterica
+- 膣前庭窩 fossa vestibuli vaginae
+- 錐体小窩 fossura petrosa
+- 窩 fovea
+- 大腿骨頭窩 fovea capitis femoris
+- 中心窩 fovea centralis
+- 下肋骨窩 fovea costalis inferior
+- 横突肋骨窩 fovea costalis processus transversi
+- 上肋骨窩 fovea costalis superior
+- 歯突起窩 fovea dentis
+- 遠心小窩 fovea distalis
+- 近心小窩 fovea mesialis
+- 翼突筋窩 fovea pterygoidea
+- 舌下腺窩 fovea sublingualis
+- 顎下腺窩 fovea submandibularis
+- 滑車窩 fovea trochlearis
+- 小窩 foveola
+- 尾骨窩 foveola coccygea
+- 胃小窩 foveolae gastricae
+- 小帯 frenulum
+- 頬小帯 frenulum buccae
+- 陰核小帯 frenulum clitoridis
+- 下唇小帯 frenulum labii inferioris
+- 上唇小帯 frenulum labii superioris
+- 陰唇小帯 frenulum labiorum pudendi
+- 舌小帯 frenulum linguae
+- 回腸口小帯 frenulum ostii ilealis
+- 包皮小帯 frenulum preputii
+- 回盲弁小帯 frenulum valvae ileocecalis
+- 帆小帯 frenulum veli
+- 上髄帆小帯 frenulum veli medullaris superioris
+- 底 fundus
+- 胃底 fundus gastricus
+- 内耳道底 fundus meatus acustici interni
+- 眼底 fundus oculi
+- 子宮底 fundus uteri
+- =fundus gastricus fundus ventriculi
+- 胆嚢底 fundus vesicae biliaris
+- 膀胱底 fundus vesicae urinariae
+- 帯|索|束 funiculus
+- 前索 funiculus anterior
+- 後索 funiculus posterior
+- 後索固有束 funiculus proprius posterior
+- 精索 funiculus spermaticus
+- 臍帯 funiculus umbilicalis
+-  
+-  
+- 神経節 ganglion
+- 神経節 ganglion autonomicum
+- 大動脈腎動脈神経節 ganglia aorticorenalia
+- 心臓神経節 ganglia cardiaca
+- 中頚神経節 ganglion cervicale medium
+- 上頚神経節 ganglion cervicale superius
+- 頚胸神経節 ganglion cervicothoracicum
+- 毛様体神経節 ganglion ciliare
+- 蝸牛神経節 ganglion cochleare
+- 腹腔神経節 ganglia coeliaca
+- 膝神経節 ganglion geniculi
+- 不対神経節 ganglion impar
+- 下神経節 ganglion inferius
+- 中間神経節 ganglia intermedia
+- 腰神経節 ganglia lumbalia
+- 下腸間膜動脈神経節 ganglion mesentericum inferius
+- 上腸間膜動脈神経節 ganglion mesentericum superius
+- 耳神経節 ganglion opticum
+- 骨盤神経節 ganglia pelvica
+- 横隔神経節 ganglia phrenica
+- 翼口蓋神経節 ganglion pterygopalatinum
+- 腎神経節 ganglion renalis
+- 仙骨神経節 ganglia sacralia
+- 脊髄神経節 ganglion spinale
+- ラセン神経節 ganglion spirale cochleae
+- 星状神経節 ganglion stellatum
+- 舌下神経節 ganglion sublinguale
+- 顎下神経節 ganglion submandibulare
+- 上神経節 ganglion superius
+- 終神経節 ganglion terminale
+- 胸神経節 ganglia thoracica
+- 内臓神経神経節 ganglion thoracicum splanchnicum
+- 三叉神経節 ganglion trigeminale
+- 胸神経節 ganglia thoracica
+- 三叉神経節 ganglion trigeminale
+- 交感幹神経節|幹神経節 ganglia trunci sympathici
+- 鼓室神経節 ganglion tympanicum
+- 椎骨動脈神経節 ganglion vertebrale
+- 前庭神経節 ganglion vestibulare
+- 胃 gaster
+- 膝 genu
+- 脳梁膝 genu corporis callosi
+- 顔面神経膝 genu nervi facialis
+- 腺 glandula
+- 乳輪腺 glandulae areolares
+- 頬腺 glandulae buccales
+- 尿道球腺 glandula bulbo-urethralis
+- 噴門腺 glandulae cardiacae
+- 耳道腺 glandula ceruminosa
+- 子宮頚腺 glandulae cervicales
+- 睫毛腺 glandulae ciliares
+- 肛門周囲腺 glandula circumanalis
+- 結膜腺 glandulae conjunctivales
+- 十二指腸腺 glandulae duodenales
+- 固有胃腺 glandulae gastricae propriae
+- 腸腺 glandulae intestinales
+- 口唇腺 glandulae labiales
+- 涙腺 glandula lacrimalis
+- 副涙腺 glandulae lacrimales accessoriae
+- 喉頭腺 glandulae laryngeales
+- 舌腺 glandulae linguales
+- 乳腺 glandula mammaria
+- 臼歯腺 glandulae molares
+- 粘液腺 glandula mucosa
+- 食道腺 glandulae oesophageae
+- 嗅腺 glandulae olfactoriae
+- 口腔腺 glandulae oris
+- 副上皮小体、副副甲状腺 glandulae parathyroideae accessoriae
+- 下上皮小体、下副甲状腺 glandula parathyroidea inferior
+- 上上皮小体、上副甲状腺 glandula parathyroidea superior
+- 耳下腺 glandula parotis
+- 副耳下腺 glandula parotidea accessoria
+- 咽頭腺 glandulae pharyngeae
+- 松果体 glandula pinealis
+- 下垂体 glandula pituitaria
+- 口蓋腺 glandulae palatinae
+- 包皮腺 glandulae preputiales
+- 幽門腺 glandulae pyloricae
+- 脂腺、皮脂腺† glandulae sebaceae
+- 精嚢腺 glandula seminalis
+- 混合腺 glandula seromucosa
+- 漿液腺 glandula serosa
+- 舌下腺 glandula sublingualis
+- 顎下腺 glandula submandibularis
+- 副腎、腎小体 glandula suprarenalis
+- 汗腺 glandula sudorifera
+- 副腎 glandula suprarenalis
+- 瞼板腺 glandulae tarsales
+- 甲状腺 glandula thyroidea
+- 耳管腺 glandulae tubariae
+- 尿道腺 glandula urethralis
+- 子宮腺 glandula uterinae
+- 精嚢腺 glandula vesiculosa
+- 大前庭腺 glandula vestibularis major
+- 小前庭腺 glandula vestibularis minor
+- 陰核亀頭 glans clitoridis
+- 陰茎亀頭 glans penis
+- 球 globus
+- 淡蒼球内節 globus pallidus medialis
+- (腎)糸球体 glomerulus
+- 糸球 glomus
+- 頚動脈小体 glomus caroticum
+- 頚静脈小体 glomus jugulare
+- 声門 glottis
+- 回 gyrus
+- 角回 gyrus angularis
+- 帯状回 gyrus cinguli
+- 歯状回 gyrus dentatus
+- 下前頭回 gyrus frontalis inferior
+- 内側前頭回 gyrus frontalis medialis
+- 中前頭回 gyrus frontalis medius
+- 上前頭回 gyrus frontalis superior
+- 舌状回 gyrus lingualis
+- 海馬傍回 gyrus parahippocampalis
+- 中心前回 gyrus precentralis
+- 直回 gyrus rectus
+- 縁上回 gyrus supramarginalis
+- 下側頭回 gyrus temporalis inferior
+- 中側頭回 gyrus temporalis medius
+- 上側頭回 gyrus temporalis superior
+-  
+-  
+- 手綱 habenula
+- 鈎 hamulus
+- 涙骨鈎 hamulus lacrimalis
+- ラセン板鈎 hamulus laminae spiralis
+- 有鈎骨鈎 hamulus ossis hamati
+- 翼突鈎 hamulus pterygoideus
+- 蝸牛孔 helicotrema
+- 耳輪|ラセン helix
+- 半球 hemispherium
+- 大脳半球 hemispherium cerebri
+- 小脳半球 hemispherium cerebelli
+- 裂孔 hiatus
+- 内転筋腱裂孔|腱裂孔 hiatus adductorius
+- 大動脈裂孔 hiatus aorticus
+- 大錐体神経管裂孔 hiatus canalis nervi petrosi majoris
+- 小錐体神経管裂孔 hiatus canalis nervi petrosi minoris
+- 食道裂孔 hiatus esophageus
+- 上顎洞裂孔 hiatus maxillaris
+- 仙骨裂孔 hiatus sacralis
+- 伏在裂孔 hiatus saphenus
+- 半月裂孔 hiatus semilunaris
+- 尿生殖裂孔 hiatus urogenitalis
+- 門 hilum
+- 脾門 hilum liene
+- 歯状核門 hilum nuclei dentati
+- 下オリーブ核門 hilum nuclei olivaris inferioris
+- 卵巣門 hilum ovarii
+- 肺門 hilum pulmonis
+- 腎門 hilum renale
+- 脾門 hilum splenicum
+- 海馬 hippocampus
+- 上腕骨 humerus
+- 液 humor
+- 眼房水 humor aquosus
+- 処女膜 hymen
+- 下爪皮 hyponychium
+- 下垂体 hypophysis
+- 視床下部 hypothalamus
+- 小指球 hypothenar
+-  
+-  
+- 回腸 ileum
+- 圧痕 impressio
+- 心圧痕 impressio cardiaca
+- 結腸圧痕 impressio colica
+- 指圧痕 impressiones digitatae
+- 十二指腸圧痕 impressio duodenalis
+- 食道圧痕 impressio (o)esophagea
+- 胃圧痕 impressio gastrica
+- 肋鎖靭帯圧痕 impressio ligamenti costoclavicularis
+- 腎圧痕 impressio renalis
+- 副腎圧痕 impressio suprarenalis
+- 三叉神経圧痕 impressio trigeminalis
+- 切痕 incisura
+- 寛骨切痕 incisura acetabuli
+- 角切痕 incisura angularis
+- 前切痕 incisura anterior
+- 心尖切痕 incisura apicis cordis
+- 左肺心切痕 incisura cardiaca pulmonis sinistri
+- 噴門切痕 incisura cardialis
+- 外耳道軟骨切痕 incisura cartilaginis meatus acustici
+- 鎖骨切痕 incisura clavicularis
+- 肋骨切痕 incisurae costales
+- 篩骨切痕 incisura ethmoidalis
+- 腓骨切痕 incisura fibularis
+- 前頭切痕 incisura frontalis
+- 披裂間切痕 incisura interarytenoidea
+- 球間切痕 incisura intertragica
+- 大坐骨切痕 incisura ischiadica major
+- 小坐骨切痕 incisura ischiadica minor
+- 頚切痕 incisura jugularis
+- 涙嚢切痕 incisura lacrimalis
+- 肝円索切痕 incisura ligamenti teretis
+- 下顎切痕 incisura mandibulae
+- 乳突切痕 incisura mastoidea
+- 鼻切痕 incisura nasalis
+- 膵切痕 incisura pancreatis
+- 頭頂切痕 incisura parietalis
+- 後頭前切痕 incisura preoccipitalis
+- 翼突切痕 incisura pterygoidea
+- 橈骨切痕 incisura radialis
+- 肩甲切痕 incisura scapulae
+- 蝶口蓋切痕 incisura sphenopalatina
+- 眼窩上切痕 incisura supraorbitalis
+- テント切痕 incisura tentorii
+- 分界切痕 incisura terminalis auricularis
+- 下甲状切痕 incisura thyroidea inferior
+- 上甲状切痕 incisura thyroidea superior
+- 滑車切痕 incisura trochlearis
+- 鼓膜切痕 incisura tympanica
+- 尺骨切痕 incisura ulnaris
+- 椎切痕 incisura vertebralis
+- 下椎切痕 incisura vertebralis inferior
+- 上椎切痕 incisura vertebralis superior
+- 骨盤傾斜 inclinatio pelvis
+- 漏斗 infundibulum
+- 篩骨漏斗 infundibulum ethmoidale
+- 卵管漏斗 infundibulum tubae uterinae
+- 腱画 intersectiones tendineae
+- 腸 intestinum
+- 盲腸 intestinum caecum
+- 結腸 intestinum colon
+- 大腸 intestinum crassum
+- 十二指腸 intestinum duodenum
+- 回腸 intestinum ileum
+- 空腸 intestinum jejunum
+- 小腸 intestinum tenue
+- 峡 isthmus
+- 大動脈峡部 isthmus aortae
+- 耳軟骨峡 isthmus cartilaginis auris
+- 口峡峡部 isthmus faucium
+- 甲状腺峡部 isthmus glandulae thyroideae
+- 帯状回峡 isthmus gyri cinguli
+- (前立腺)峡部 isthmus prostatae
+- 耳管峡 isthmus tubae auditivae//isthmus tubae auditoriae
+- 卵管峡部 isthmus tubae uterinae
+- 子宮峡部 isthmus uteri
+- 膨大 intumescentia
+- 頚膨大 intumescentia cervicalis
+- 腰仙膨大|腰膨大 intumescentia lumbosacralis
+- 鼓室膨大 intumescentia tympanica
+-  
+-  
+- 空回腸 jejunoileum
+- 空腸 jejunum
+- 歯槽隆起 juga alveolaria
+- 蝶形骨隆起 jugum sphenoidale
+- 肛門直腸結合 junctio anorectalis
+- 連結 junctura
+-  
+-  
+- 仙骨部後彎 kyphosis sacralis
+- 胸部後彎 kyphosis thoracica
+-  
+-  
+- 唇 labium
+- 前唇 labium anterius
+- 外唇 labium externum
+- 下唇 labium inferius
+- 内唇 labium internum
+- 外側唇 labium laterale
+- 鼓室唇 labium limbi tympanicum
+- 前庭唇 labium limbi vestibulare
+- 大陰唇 labium majus pudendi
+- 内側唇 labium mediale
+- 小陰唇 labium minus pudendi
+- 後唇 labium posterius
+- 上唇 labium superius
+- 鼓室唇 labium tympanicum
+- 関節唇 labrum acetabuli
+- 関節唇 labrum glenoidale
+- 回盲唇 labrum ileocaecale
+- 回結腸唇 labrum ileocolicum
+- 蝸牛迷路 labyrinthus cochlearis
+- 篩骨迷路 labyrinthus ethmoidalis
+- 膜迷路 labyrinthus membranaceus
+- 前庭迷路 labyrinthus vestibularis
+- 外側直筋制動靭帯 lacertus musculi recti lateralis
+- lacuna (??) lacuna (??)
+- 外側裂孔 lacunae laterales
+- 筋裂孔 lacuna musculorum
+- 尿道凹窩 lacunae urethrales
+- 血管裂孔 lacuna vasorum
+- 涙湖 lacus lacrimalis
+- 腹側板 lamella anterior
+- 鼓室板 lamella tympanica
+- 前庭板 lamella vestibularis
+- 板 lamina
+- 翼板 lamina alaris
+- 椎弓板 lamina arcus vertebrae
+- 基板 lamina basalis
+- 脈絡膜毛細管板 lamina choroidocapillaris
+- 輪状軟骨板 lamina cartilaginis cricoideae
+- 絨毛膜板 lamina chorionica
+- 脈絡膜毛細管板 lamina choroidocapillaris
+- 篩板 lamina cribrosa
+- 蓋板 lamina dorsalis
+- 骨端板 lamina epiphysialis
+- 強膜上板 lamina episcleralis
+- 強膜褐色板 lamina fusca sclerae
+- 水平板 lamina horizontalis
+- 内板 lamina interna
+- 外側板 lamina lateralis
+- 前境界板 lamina limitans anterior
+- 後境界板 lamina limitans posterior
+- 内側板 lamina medialis
+- 副髄板 lamina medullaris accessoria
+- 外側髄板 lamina medullaris externa
+- 内側髄板 lamina medullaris interna
+- 外側髄板 lamina medullaris lateralis
+- 内側髄板 lamina medullaris medialis
+- 蝸牛軸板 lamina modioli
+- 眼窩板 lamina orbitalis
+- 口蓋板 lamina palatina
+- 壁側板 lamina parietalis
+- 垂直板 lamina perpendicularis
+- 後葉 lamina posterior
+- 気管前葉 lamina pretrachealis
+- 椎前葉 lamina prevertebralis
+- 深葉 lamina profunda
+- 透明中隔板 lamina septi pellucidi
+- 脈絡上板 lamina suprachoroidea
+- 浅葉∥浅板 lamina superficialis
+- 蓋板 lamina tecti
+- 終板 lamina terminalis
+- 耳珠板 lamina tragi
+- 臓側板 lamina visceralis
+- 生毛 lanugo
+- 喉頭 larynx
+- 側腹部 latus
+- 肋骨挙筋 levatores costarum
+- 靭帯∥間膜 ligamentum
+- 肩鎖靭帯 ligamentum acromioclaviculare
+- 翼状靭帯 ligamenta alaria
+- 肛門尾骨靭帯 ligamentum anococcygeum
+- 橈骨輪状靭帯 ligamentum anulare radii
+- アブミ骨輪状靭帯 ligamentum anulare stapediale
+- 輪状靭帯 ligamenta anularia
+- 外側弓状靭帯 ligamentum arcuatum laterale
+- 内側弓状靭帯 ligamentum arcuatum mediale
+- 正中弓状靭帯 ligamentum arcuatum medianum
+- 恥骨弓靭帯 ligamentum arcuatum pubis
+- 動脈管索 ligamentum arteriosum
+- 上耳介靭帯 ligamentum auriculare superius
+- 踵立方靭帯 ligamentum calcaneocuboideum
+- 背側踵立方靭帯 ligamentum calcaneocuboideum dorsale
+- 踵腓靭帯 ligamentum calcaneofibulare
+- 踵舟靭帯 ligamentum calcaneonaviculare
+- 底側踵舟靭帯 ligamentum calcaneonaviculare plantare
+- 関節内肋骨頭靭帯 ligamentum capitis costae intraarticulare
+- 放線状肋骨頭靭帯 ligamentum capitis costae radiatum
+- 大腿骨頭靭帯 ligamentum capitis femoris
+- 前腓骨頭靭帯 ligamentum capitis fibulae anterius
+- 後腓骨頭靭帯 ligamentum capitis fibulae posterius
+- 放線状手根靭帯 ligamentum carpi radiatum
+- 背側手根中手靭帯 ligamenta carpometacarpalia dorsalia
+- 下角輪状靭帯 ligamentum ceratocricoideum
+- 側副靭帯 ligamenta collateralia
+- 外側側副靭帯 ligamentum collaterale fibulare
+- 内側側副靭帯 ligamentum collaterale tibiale
+- 円錐靭帯 ligamentum conoideum
+- 烏口肩峰靭帯 ligamentum coracoacromiale
+- 烏口鎖骨靭帯 ligamentum coracoclaviculare
+- 冠状間膜 ligamentum coronarium
+- 肋横突靭帯 ligamentum costotransversarium
+- 外側肋横突靭帯 ligamentum costotransversarium laterale
+- 上肋横突靭帯 ligamentum costotransversarium superius
+- 肋剣靭帯 ligamenta costoxiphoidea
+- 後輪状披裂靭帯 ligamentum cricoarytenoideus
+- 輪状咽頭靭帯 ligamentum cricopharyngeum
+- 輪状甲状靭帯 ligamentum cricothyroideum
+- 正中輪状甲状靭帯 ligamentum cricothyroideum medianum
+- 輪状気管靭帯 ligamentum cricotracheale
+- 膝十字靭帯 ligamenta cruciata genus
+- 前十字靭帯 ligamentum cruciatum anterius
+- 後十字靭帯 ligamentum cruciatum posterius
+- 環椎十字靭帯 ligamentum cruciforme atlantis
+- 背側立方舟靭帯 ligamentum cuboideonaviculare dorsale
+- 底側立方舟靭帯 ligamentum cuboideonaviculare plantare
+- 背側楔立方靭帯 ligamentum cuneocuboideum dorsale
+- 底側楔立方靭帯 ligamentum cuneocuboideum plantare
+- 背側楔舟靭帯 ligamenta cuneonavicularia dorsalia
+- 三角靭帯 ligamentum deltoideum
+- 歯状靭帯 ligamentum denticulatum
+- 下精巣上体間膜 ligamentum epididymidis inferius
+- 上精巣上体間膜 ligamentum epididymidis superius
+- 腹膜外靭帯 ligamentum extraperitoneale
+- 鎌状間膜 ligamentum falciforme
+- 肝鎌状間膜 ligamentum falciforme hepatis
+- 黄色靭帯 ligamentum flavum
+- 陰核ワナ靭帯 ligamentum fundiforme clitoridis
+- 陰茎ワナ靭帯 ligamentum fundiforme penis
+- 胃肝靭帯 ligamentum gastrohepaticum
+- 胃脾間膜 ligamentum gastrolienale
+- 胃横隔間膜 ligamentum gastrophrenicum
+- 胃脾間膜 ligamentum gastrosplenicum
+- 関節上腕靭帯 ligamenta glenohumeralia
+- 肝結腸間膜 ligamentum hepatocolicum
+- 肝十二指腸間膜 ligamentum hepatoduodenale
+- 肝食道間膜 ligamentum hepatoesophageale
+- 肝胃間膜 ligamentum hepatogastricum
+- 肝横隔間膜 ligamentum hepatophrenicum
+- 肝腎間膜 ligamentum hepatorenale
+- 舌骨喉頭蓋靭帯 ligamentum hyoepiglotticum
+- 上キヌタ骨靭帯 ligamentum incudis superius
+- 鼠径靭帯 ligamentum inguinale
+- 骨間手根間靭帯 ligamenta intercarpalia interossea
+- 背側楔間靭帯 ligamenta intercuneiformia dorsalia
+- 底側楔間靭帯 ligamenta intercuneiformia plantaria
+- 窩間靭帯 ligamentum interfoveolare
+- 坐骨大腿骨靭帯 ligamentum ischiofemorale
+- 裂孔靭帯 ligamentum lacunare
+- 外側靭帯 ligamentum laterale
+- 膀胱外側靭帯 ligamentum laterale vesicae
+- 子宮広間膜 ligamentum latum uteri
+- 脾腎ヒダ/襞/ ligamentum lienorenale
+- 前縦靭帯 ligamentum longitudinale anterius
+- 後縦靭帯 ligamentum longitudinale posterius
+- 腰肋靭帯 ligamentum lumbocostale
+- 外側ツチ骨靭帯 ligamentum mallei laterale
+- 上ツチ骨靭帯 ligamentum mallei superius
+- 内側靭帯 ligamentum mediale
+- 前半月大腿靭帯 ligamentum meniscofemorale anterius
+- 後半月大腿靭帯 ligamentum meniscofemorale posterius
+- 深横中手靭帯 ligamentum metacarpale transversum profundum
+- 浅横中足靭帯 ligamentum metatarsale transversum superficiale
+- 背側中手靭帯 ligamenta metacarpalia dorsalia
+- 骨間中手靭帯 ligamenta metacarpalia interossea
+- 掌側中手靭帯 ligamenta metacarpalia palmaria
+- 骨間中足靭帯 ligamenta metatarsalia interossea
+- 背側中足靭帯 ligamenta metatarsalia dorsalia
+- 底側中足靭帯 ligamenta metatarsalia plantaria
+- 項靭帯 ligamentum nuchae
+- 耳小骨靭帯 ligamenta ossiculorum auditus
+- 固有卵巣索 ligamentum ovarii propium
+- 外側眼瞼縫線 ligamentum palpebrale laterale
+- 内側眼瞼靭帯 ligamentum palpebrale mediale
+- 膵結腸間膜 ligamentum pancreaticocolicum
+- 膵脾間膜 ligamentum pancreaticosplenicum
+- 膝蓋靭帯 ligamentum patellae
+- 恥骨櫛靭帯 ligamentum pectineum
+- 横隔結腸間膜 ligamentum phrenicocolicum
+- 正中弓状靭帯 ligamentum phrenicooesophageale
+- 横隔脾間膜 ligamentum phrenicosplenicum
+- 豆鈎靭帯 ligamentum pisohamatum
+- 長足底靭帯 ligamentum plantare longum
+- 底側靭帯 ligamenta plantaria
+- 弓状膝窩靭帯 ligamentum popliteum arcuatum
+- 斜膝窩靭帯 ligamentum popliteum obliquum
+- 下恥骨靭帯 ligamentum pubicum inferius
+- 上恥骨靭帯 ligamentum pubicum superius
+- 恥骨頚靭帯 ligamentum pubocervicale
+- 恥骨大腿骨靭帯 ligamentum pubofemorale
+- 肺間膜 ligamentum pulmonale
+- 方形靱帯 ligamentum quadratum
+- 背側橈骨手根靭帯 ligamentum radiocarpale dorsale
+- 外側直腸靭帯 ligamentum recti laterale
+- 直腸子宮靭帯 ligamentum rectouterium
+- 反転靭帯 ligamentum reflexum
+- 前仙腸靭帯 ligamentum sacroiliacum anterior
+- 骨間仙腸靭帯 ligamentum sacroiliacum interosseum
+- 後仙腸靭帯 ligamentum sacroiliacum posterior
+- 仙棘靭帯 ligamentum sacrospinale
+- 仙結節靭帯 ligamentum sacrotuberale
+- 蝶下顎靭帯 ligamentum sphenomandibulare
+- 脾結腸間膜 ligamentum splenocolicum
+- 脾腎ヒダ(襞) ligamentum splenorenale
+- 前胸鎖靭帯 ligamentum sternoclaviculare anterius
+- 後胸鎖靭帯 ligamentum sternoclavicularis posterior
+- 放線状胸肋靭帯 ligamenta sternocostalia radiata
+- 胸骨心膜靭帯 ligamenta sternopericardiaca
+- 茎突下顎靭帯 ligamentum stylomandibulare
+- 腋窩提靭帯 ligamentum suspensorium axillae
+- 眼球提靭帯 ligamentum suspensorium bulbi
+- 陰核提靭帯 ligamentum suspensorium clitoridis
+- 十二指腸提筋 ligamentum suspensorium duodeni
+- 甲状腺提靭帯 ligamentum suspensorium glandulae thyreoideae
+- 乳房提靭帯 ligamenta suspensoria mammaria
+- 卵巣堤索 ligamentum suspensorium ovarii
+- 陰茎提靭帯 ligamentum suspensorium penis
+- 外側距踵靭帯 ligamentum talocalcaneum laterale
+- 内側距踵靭帯 ligamentum talocalcaneum mediale
+- 後距踵靭帯 ligamentum talocalcaneum posterius
+- 前距腓靭帯 ligamentum talofibulare anterius
+- 後距腓靭帯 ligamentum talofibulare posterius
+- 距舟靭帯 ligamentum talonaviculare
+- 足根靭帯 ligamenta tarsi
+- 骨間足根靭帯 ligamenta tarsi interossea
+- 肝円索 ligamentum teres hepatis
+- 子宮円索 ligamentum teres uteri
+- 甲状喉頭蓋靭帯 ligamentum thyroepiglotticum
+- 外側甲状舌骨靭帯 ligamentum thyrohyoideum laterale
+- 正中甲状舌骨靭帯 ligamentum thyrohyoideum medianum
+- [[解]]輪状靭帯 ligamenta trachealia
+- 寛骨臼横靭帯 ligamentum transversum acetabuli
+- 環椎横靭帯 ligamentum transversum atlantis
+- 子宮頚横靭帯 ligamentum transversum cervicis
+- 膝横靭帯 ligamentum transversum genus
+- 会陰横靭帯 ligamentum transversum perinei
+- 菱形靭帯 ligamentum trapezoideum
+- 右三角間膜 ligamentum triangulare dextrum
+- 左三角間膜 ligamentum triangulare sinistrum
+- 正中臍索 ligamentum umbilicale medianum
+- 固有卵巣索 ligamentum uteroovaricum
+- 静脈管索 ligamentum venosum
+- 前庭靭帯 ligamentum vestibulare
+- 声帯靭帯 ligamentum vocale
+- 縁 limbus
+- 寛骨臼縁 limbus acetabuli
+- 前眼瞼縁 limbus anterior palpebrae
+- 角膜縁 limbus cornae
+- 卵円窩縁 limbus fossae ovalis
+- 後眼瞼縁 limbus posterior palpebrae
+- 蝶形骨縁 limbus sphenoidalis
+- ラセン板縁 limbus spiralis
+- 線条縁 limbus striatus
+- 鼻限 limen nasi
+- 線 linea
+- 白線 linea alba
+- 肛門皮膚線 linea anocutanea
+- 肛門直腸線 linea anorectalis
+- 弓状線 linea arcuata
+- 粗線 linea aspera
+- 腋窩線 linea axillaris
+- 前腋窩線 linea axillaris anterior
+- 中腋窩線 linea axillaris media
+- 後腋窩線 linea axillaris posterior
+- 骨端線 linea epiphysialis
+- 臀筋線 linea glutea
+- 前殿筋線 linea glutea anterior
+- 下殿筋線 linea glutea inferior
+- 後殿筋線 linea glutea posterior
+- 顆間線 linea intercondylaris
+- 中間線 linea intermedia
+- 転子間線 linea intertrochanterica
+- 乳頭線 linea mamillaris
+- 前正中線 linea mediana anterior
+- 後正中線 linea mediana posterior
+- 鎖骨中線 linea medioclavicularis
+- 顎舌骨筋線 linea mylohyoidea
+- 斜線 linea obliqua
+- 椎骨傍線 linea paravertebral
+- 恥骨筋線 linea pectinea
+- 肩甲線 linea scapularis
+- 半月線 linea semilunaris
+- 胸骨線 linea sternalis
+- 側頭線 linea temporalis
+- 下側頭線 linea temporalis inferior
+- 上側頭線 linea temporalis superior
+- 分界線 linea terminalis
+- 横線 lineae transversae
+- 菱形靭帯線 linea trapezoidea
+- 舌 lingua
+- 小舌 lingula
+- 小脳小舌 lingula cerebelli
+- 下顎小舌 lingula mandibulae
+- 腋 liquor
+- 脳脊髄腋 liquor cerebrospinalis
+- 卵胞腋 liquor folliculi
+- 小葉 lobulus
+- 前内側小葉 lobulus anteromedialis
+- 耳垂 lobulus auriculae
+- 小脳中心小葉 lobulus centralis
+- 精巣上体小葉円錐 lobuli epididymis
+- 乳腺小葉 lobuli glandulae mammariae
+- 薄小葉 lobulus gracilis
+- 肝小葉 lobuli hepatis
+- 背側傍片葉 lobulus parafloccularis dorsalis
+- 下頭頂小葉 lobulus parietalis inferior
+- 上頭頂小葉 lobulus parietalis superior
+- 半月小葉 lobuli semilunares
+- 葉 lobus
+- 前葉 lobus anterior
+- 尾状葉 lobus caudatus
+- 小脳前葉 lobus cerebelli anterior
+- 小脳後葉 lobus cerebelli posterior
+- 大脳葉 lobi cerebri
+- 片葉小節葉 lobus flocculonodularis
+- 前頭葉 lobus frontalis
+- 肝葉 lobi hepatis
+- 右葉 lobus hepatis dexter
+- 左葉 lobus hepatis sinister
+- 辺縁葉 lobus limbicus
+- 乳腺葉 lobi glandulae mammariae
+- 神経葉 lobus nervosus
+- 後頭葉 lobus occipitalis
+- 頭頂葉 lobus parietal
+- 梨状葉 lobus piriformis
+- 後葉 lobus posterior
+- 錐体葉 lobus pyramidalis
+- 方形葉 lobus quadratus
+- 腎葉 lobi renales
+- 上葉 lobus superior
+- 側頭葉 lobus temporalis
+- 青斑 locus caeruleus
+- 腰部前彎 lordosis lumbalis
+- 半月 lunula
+-  
+-  
+- 腹部の筋 Mm abdomins
+- 短内転筋 M adductor brevis
+- 小指外転筋 M abductor digiti minimi
+- 母指外転筋、母趾外転筋 M abductor hallucis
+- 長内転筋 M adductor longus
+- 大内転筋 M adductor magnus
+- 小内転筋 M adductor minimus
+- 母指内転筋 M adductor pollicis
+- 短母指外転筋 M abductor pollicis brevis
+- 肘筋 M anconeus
+- 肛門会陰筋 M anoperinealis
+- 対珠筋 M antitragicus
+- 立毛筋 Mm arrectores pilorum
+- 関節筋 M articularis
+- 肘関節筋 M articularis cubiti
+- 披裂喉頭蓋筋 M aryepiglotticus
+- 斜披裂筋 M arytenoideus obliquus
+- 横披裂筋 M arytenoideus transversus
+- 前耳介筋 M auricularis anterior
+- 後耳介筋 M auricularis posterior
+- 上耳介筋 M auricularis superior
+- 上腕二頭筋 M biceps brachii
+- 大腿二頭筋 M biceps femoris
+- 羽状筋 M bipennatus
+- 上腕筋 M brachialis
+- 腕橈骨筋 M brachioradialis
+- 気管支食道筋 M bronchoesophageus
+- 頬筋 M buccinator
+- 眼筋 Mm bulbi
+- 球海綿体筋 M bulbospongiosus
+- 頭部の筋 Mm capitis
+- 下角輪状筋 M ceratocricoideus
+- 大角舌筋 M ceratoglossus
+- 頚部の筋 Mm cervicis
+- 小角舌筋 M chondroglossus
+- 毛様体筋 M ciliaris
+- 尾骨の筋 Mm coccygei
+- 尾骨筋 M coccygeus
+- 頚部の筋 Mm colli
+- 鼻孔圧迫筋 M compressor naris
+- 下咽頭収縮筋 M constrictor pharyngis inferior
+- 中咽頭収縮筋 M constrictor pharyngis medius
+- 上咽頭収縮筋 M constrictor pharyngis superior
+- 烏口腕筋 M coracobrachialis
+- 皺眉筋 M corrugator supercilii
+- 精巣挙筋 M cremaster
+- 外側輪状披裂筋 M cricoarytenoideus lateralis
+- 後輪状披裂筋 M cricoarytenoideus posterior
+- 輪状甲状筋 M cricothyroideus
+- 輪状咽頭部 M cricopharyngeus
+- 皮筋 M cutaneus
+- 三角筋 M deltoideus
+- 口角下制筋 M depressor anguli oris
+- 下唇下制筋 M depressor labii inferior
+- 鼻中隔下制筋 M depressor septi nasi
+- 眉毛下制筋 M depressor supercilii
+- 顎ニ腹筋 M digastricus
+- 鼻孔開大筋、鼻孔散大筋 M dilator naris
+- 瞳孔散大筋 M dilator pupillae
+- 背部の筋 Mm dorsi
+- 頭蓋表筋 M epicranius
+- 脊柱起立筋 M erector spinae
+- 短橈側手根伸筋 M extensor carpi radialis brevis
+- 長橈側手根伸筋 M extensor carpi radialis longus
+- 尺側手根伸筋 M extensor carpi ulnaris
+- 小指伸筋 M extensor digiti minimi (manus)
+- 指伸筋 M extensor digitorum
+- 短指伸筋 M extensor digitorum brevis
+- 長指伸筋 M extensor digitorum longus
+- 短母趾伸筋 M extensor hallucis brevis
+- 長母趾伸筋 M extensor hallucis longus
+- 示指伸筋 M extensor indicis
+- 短母指伸筋 M extensor pollicis brevis
+- 長母指伸筋 M extensor pollicis longus
+- 橈側手根屈筋 M flexor carpi radialis
+- 尺側手根屈筋 M flexor carpi ulnaris
+- 深指屈筋 M flexor digitorum profundus (manus)
+- 浅指屈筋 M flexor digitorum superficialis manus
+- 紡錘状筋 M fusiformis
+- 腓腹筋 M gastrocnemius
+- 下双子筋 M gemellus inferior
+- 上双子筋 M gemellus superior
+- オトガイ舌筋 M genioglossus
+- オトガイ舌骨筋 M geniohyoideus
+- 大殿筋 M gluteus maximus
+- 中殿筋 M gluteus medius
+- 小殿筋 M gluteus minimus
+- 薄筋 M gracilis
+- 大耳輪筋 M helicis major
+- 小耳輪筋 M helicis minor
+- 舌骨舌筋 M hyoglossus
+- 腸骨筋 M iliacus
+- 腸骨尾骨筋 M iliococcygeus
+- 腸肋筋 M iliocostalis
+- 頚腸肋筋 M iliocostalis cervicis
+- 腰腸肋筋 M iliocostalis lumborum
+- 胸腸肋筋 M iliocostalis thoracis
+- 腸腰筋 M iliopsoas
+- 下唇切歯筋 Mm incisivi labii inferior
+- 舌骨下筋 Mm infrahyoidei
+- 棘下筋 M infraspinatus
+- 外肋間筋 Mm intercostales externi
+- 内肋間筋 Mm intercostales interni
+- 棘間筋 Mm interspinales
+- 頚棘間筋 Mm interspinales cervicis
+- 腰棘間筋 Mm interspinales lumborum
+- 胸棘間筋 Mm interspinales thoracis
+- 横突間筋 Mm intertransversarii
+- 坐骨海綿体筋 M ischiocavernosus
+- 喉頭筋 Mm laryngis
+- 広背筋 M latissimus dorsi
+- 口角挙筋 M levator anguli oris
+- 肛門挙筋 M levator ani
+- 上唇挙筋 M levator labii superioris
+- 上唇鼻翼挙筋 M levator labii superioris alaeque nasi
+- 上眼瞼挙筋 M levator palpebrae superioris
+- 肩甲挙筋 M levator scapulae
+- 口蓋帆挙筋 M levator veli palatini
+- 最長筋 M longissimus
+- 頭最長筋 M longissimus capitis
+- 頚最長筋 M longissimus cervicis
+- 胸最長筋 M longissimus thoracis
+- 下縦舌筋 M longitudinalis inferior
+- 上縦舌筋 M longitudinalis superior
+- 頭長筋 M longus capitis
+- 頚長筋 M longus cervicis
+- 頚長筋 M longus colli
+- 咬筋 M masseter
+- 咀嚼筋 Mm masticatorii
+- オトガイ筋 M mentalis
+- 多裂筋 Mm multifidi
+- 顎舌骨筋 M mylohyoideus
+- 鼻筋 M nasalis
+- 耳介斜筋 M obliquus auriculae
+- 下頭斜筋 M obliquus capitis inferior
+- 上頭斜筋 M obliquus capitis superior
+- 外腹斜筋 M obliquus externus abdominis
+- 下斜筋 M obliquus inferior
+- 眼球下斜筋 M obliquus inferior bulbi
+- 内腹斜筋 M obliquus internus abdominis
+- 上斜筋 M obliquus superior
+- 眼球上斜筋 M obliquus superior bulbi
+- 外閉鎖筋 M obturatorius externus
+- 内閉鎖筋 M obturatorius internus
+- 後頭前頭筋 M occipitofrontalis
+- 肩甲舌骨筋 M omohyoideus
+- 母指対立筋 M opponens pollicis
+- 輪筋 M orbicularis
+- 眼輪筋 M orbicularis oculi
+- 口輪筋 M orbicularis oris
+- 眼窩筋 M orbitalis
+- 耳小骨筋 Mm ossiculorum auditus
+- 口蓋舌筋 M palatoglossus
+- 口蓋咽頭筋 M palatopharyngeus
+- 短掌筋 M palmaris brevis
+- 長掌筋 M palmaris longus
+- 櫛状筋 Mm pectinati
+- 恥骨筋 M pectineus
+- 大胸筋 M pectoralis major
+- 小胸筋 M pectoralis minor
+- 会陰筋 Mm perinei
+- 短腓骨筋 M peroneus brevis
+- 長腓骨筋 M peroneus longus
+- 第三腓骨筋 M peroneus tertius
+- 梨状筋 M piriformis
+- 足底筋 M plantaris
+- 扁平筋 M planus
+- 胸膜食道筋 M pleuroesophageus
+- 膝窩筋 M popliteus
+- 鼻根筋 M procerus
+- 円回内筋 M pronator teres
+- 小腰筋 M psoas minor
+- 恥骨肛門筋 M puboanalis
+- 恥骨尾骨筋 M pubococcygeus
+- 恥骨直腸筋 M puborectalis
+- 恥骨膀胱筋 M pubovesicalis
+- 円回内筋 M pronator teres
+- 外側翼筋 M pterygoideus lateralis
+- 内側翼筋 M pterygoideus medialis
+- 錐体筋 M pyramidalis
+- 耳介錐体筋 M pyramidalis auriculae
+- 大腿方形筋 M quadratus femoris
+- 腰方形筋 M quadratus lumborum
+- 足底方形筋 M quadratus plantae
+- 大腿四頭筋 M quadriceps femoris
+- 直腸尾骨筋 M rectococcygeus
+- 直腸尿道筋 M rectourethralis
+- 下直腸尿道筋 M rectourethralis inferior
+- 上直腸尿道筋 M rectourethralis superior
+- 直腸子宮筋 M rectouterinus
+- 直腸膀胱筋 M rectovesicalis
+- 腹直筋 M rectus abdominis
+- 前頭直筋 M rectus capitis anterior
+- 外側頭直筋 M rectus capitis lateralis
+- 大後頭直筋 M rectus capitis posterior major
+- 小後頭直筋 M rectus capitis posterior minor
+- 大腿直筋 M rectus femoris
+- 下直筋 M rectus inferior
+- 外側直筋 M rectus lateralis
+- 上直筋 M rectus superior
+- 内側直筋 M rectus medialis
+- 大菱形筋 M rhomboideus major
+- 小菱形筋 M rhomboideus minor
+- 笑筋 M risorius
+- 回旋筋 M rotator
+- 仙棘筋 M sacrospinalis
+- 縫工筋 M sartorius
+- 前斜角筋 M scalenus anterior
+- 中斜角筋 M scalenus medius
+- 最小斜角筋 M scalenus minimus
+- 後斜角筋 M scalenus posterior
+- 肩甲骨下筋 M scapularis
+- 半棘筋 M semispinalis
+- 頭半棘筋 M semispinalis capitis
+- 頚半棘筋 M semispinalis cervicis//M. semispinalis colli
+- 胸半棘筋 M semispinalis thoracis
+- 前鋸筋 M serratus anterior
+- 下後鋸筋 M serratus posterior inferior
+- 上後鋸筋 M serratus posterior superior
+- ヒラメ筋 M soleus
+- 括約筋 M sphincter
+- 外肛門括約筋 M sphincter ani externus
+- 内肛門括約筋 M sphincter ani internus
+- 膵管括約筋 M sphincter ductus pancreatici
+- 下括約筋 M sphincter inferior
+- 上括約筋 M sphincter superior
+- 瞳孔括約筋 M sphincter pupillae
+- 外尿道括約筋 M sphincter urethrae externus
+- 内尿道括約筋 M sphincter urethrae internus
+- 頭板状筋 M splenius capitis
+- 頚板状筋 M splenius cervicis
+- 棘筋 M spinalis
+- 頭棘筋 M spinalis capitis
+- 頚棘筋 M spinalis cervicis//M. spinalis colli
+- 胸棘筋 M spinalis thoracis
+- あぶみ骨筋 M stapedius
+- 胸骨筋 M sternalis
+- 胸鎖乳突筋 M sternocleidomastoideus
+- 胸骨舌骨筋 M sternohyoideus
+- 胸骨甲状筋 M sternothyroideus
+- 茎突舌筋 M styloglossus
+- 茎突舌骨筋 M stylohyoideus
+- 茎突咽頭筋 M stylopharyngeus
+- 鎖骨下筋 M subclavius
+- 肋下筋 Mm subcostales
+- 肩甲下筋 M subscapularis
+- 回外筋 M supinator
+- 棘上筋 M supraspinatus
+- 十二指腸提筋 M suspensorius duodeni
+- 下瞼板筋 M tarsalis inferior
+- 上瞼板筋 M tarsalis superior
+- 側頭筋 M temporalis
+- 側頭頭頂筋 M temporoparietalis
+- 大腿筋膜張筋 M tensor fasciae latae
+- 口蓋帆張筋 M tensor veli palatini
+- 大円筋 M teres major
+- 小円筋 M teres minor
+- 胸部の筋 Mm thoracis
+- M thyroarytenoideus M thyroarytenoideus
+- 甲状披裂筋 
+- 甲状喉頭蓋筋 M thyroepiglotticus
+- 甲状舌骨筋 M thyrohyoideus
+- 甲状咽頭部 M thyropharyngeus
+- 前脛骨筋 M tibialis anterior
+- 後脛骨筋 M tibialis posterior
+- 舌筋 Mm linguae
+- 気管筋 M trachealis
+- 耳珠筋 M tragicus
+- 横突棘筋 M transversospinalis
+- 腹横筋 M transversus abdominis
+- 横舌筋 M transversus linguae
+- 項横筋 M transversus nuchae
+- 浅会陰横筋 M transversus perinei superficialis
+- 胸横筋 M transversus thoracis
+- 僧帽筋 M trapezius
+- 上腕三頭筋 M triceps brachii
+- 下腿三頭筋 M triceps surae
+- 膀胱三角筋 Mm trigoni vesicae
+- 深膀胱三角筋 M trigoni vesicae profundus
+- 浅膀胱三角筋 M trigoni vesicae superficialis
+- 半羽状筋 M unipennatus
+- 口蓋垂筋 M uvulae
+- 中間広筋 M vastus intermedius
+- 外側広筋 M vastus lateralis
+- 内側広筋 M vastus medialis
+- 垂直舌筋 M verticalis linguae
+- 直腸膣筋 M vesicovaginalis
+- 声帯筋 M vocalis
+- 大頬骨筋 M zygomaticus major
+- 小頬骨筋 M zygomaticus minor
+- 斑 macula
+- 篩状斑 maculae cribrisae
+- 下篩状斑 macula cribrosa inferior
+- 中篩状斑 macula cribrosa media
+- 上篩状斑 macula cribrosa superior
+- 黄斑 macula lutea
+- 外果 malleolus lateralis
+- 内果 malleolus medialis
+- ツチ骨 malleus
+- 副乳|副乳房 mamma accessoria
+- 下顎骨 mandibula
+- 柄 manubrium
+- ツチ骨柄 manubrium mallei
+- 胸骨柄 manubrium sterni
+- 縁 margo
+- 寛骨臼縁 margo acetabuli
+- 前縁 margo anterior
+- 毛様体縁 margo ciliaris
+- 鎌状縁 margo falciformis
+- 歯肉縁 margo gingivalis
+- 切縁 margo incisalis
+- 下縁 margo inferior
+- 眼窩下縁 margo infraorbitalis
+- 骨間縁 margo interosseus
+- 涙骨縁 margo lacrimalis
+- 外側縁 margo lateralis
+- 涙骨縁 margo lacrimalis
+- 自由縁 margo liber
+- 舌縁 margo linguae
+- 間膜縁 margo mesovaricus
+- 乳突縁 margo mastoideus
+- 鼻骨縁 margo nasalis
+- 後頭縁 margo occipitalis(1)
+- 後頭縁 margo occipitalis(2)
+- 潜入縁 margo occultus
+- 眼窩縁 margo orbitalis
+- 頭頂縁 margo parietalis
+- 後縁 margo posterior
+- 瞳孔縁 margo pupillaris
+- 橈側縁 margo radialis
+- 矢状縁 margo sagittalis
+- 蝶形骨縁 margo sphenoidalis
+- 鱗縁 margo squamosus
+- 上縁 margo superior
+- 眼窩上縁 margo supraorbitalis
+- 尺側縁 margo ulnaris
+- 子宮縁 margo uteri
+- 頬骨縁 margo zygomaticus
+- 外側塊 massa lateralis atlantis
+- 爪床 matrix unguis
+- 上顎骨 maxilla
+- 道 meatus
+- 外耳道 meatus acusticus externus
+- 内耳道 meatus acusticus internus
+- 総鼻道 meatus nasi communis
+- 下鼻道 meatus nasi inferior
+- 中鼻道 meatus nasi medius
+- 上鼻道 meatus nasi superior
+- 鼻咽道 meatus nasopharyngeus
+- 縦隔 mediastinum
+- 前縦隔 mediastinum anterius
+- 下縦隔 mediastinum inferius
+- 中縦隔 mediastinum medium
+- 後縦隔 mediastinum posterius
+- 上縦隔 mediastinum superius
+- 精巣縦隔 mediastinum testis
+- 髄|髄質 medulla
+- 延髄 medulla oblongata
+- 骨髄 medulla ossium
+- 黄色骨髄 medulla ossium flava
+- 赤色骨髄 medulla ossium rubra
+- 腎髄質 medulla renis
+- 脊髄 medulla spinalis
+- 膜 membrana
+- 喉頭弾性膜 membrana fibroelastica laryngis
+- 前腕骨間膜 membrana interossea antebrachii
+- 下腿骨間膜 membrana interossea cruris
+- 会陰膜 membrana perinei
+- 半規管固有膜 membrana properia ductus semicircularis
+- 四角膜 membrana quadrangularis
+- 網状膜 membrana reticularis
+- アブミ骨膜 membrana stapedialis
+- 上滑膜 membrana synovialis superior
+- 蓋膜 membrana tectoria
+- 甲状舌骨膜 membrana thyroideum
+- 前庭膜 membrana vestibularis
+- 硝子体膜 membrana vitrea
+- 肢 membrum
+- 下肢 membrum inferius
+- 上肢 membrum superius
+- 髄膜 meninx
+- 関節半月 meniscus articularis
+- 外側半月 meniscus lateralis
+- 内側半月 meniscus medialis
+- 中脳 mesencephalon
+- 腸間膜 mesenterium
+- 虫垂間膜 mesoappendix
+- 結腸間膜 mesocolon
+- 上行結腸間膜 mesocolon ascendens
+- 下行結腸間膜 mesocolon descendens
+- Ｓ結腸間膜 mesocolon sigmoideum
+- 横行結腸間膜 mesocolon transversum
+- 胃間膜 mesogastrium
+- 子宮間膜 mesometrium
+- 精巣間膜 mesorchium
+- 卵管間膜 mesosalpinx
+- 卵巣間膜 mesovarium
+- 視床後部 metathalamus
+- 後脳 metencephalon
+- 蝸牛軸 modiolus cochleae
+- 丘 mons
+- 恥丘 mons pubis
+- 筋肉、～筋  musculus
+- 髄脳 myelencephanon
+- 心筋層 myocardium
+- 筋学 myology
+- 子宮筋層 myometrium
+-  
+-  
+- 外転神経 N abducens
+- 副神経 N accessorius
+- 下歯槽神経 N alveolaris inferior
+- 後上歯槽神経 Nn alveolares superior posterior
+- 前膨大部神経 N ampullaris anterior
+- 外側膨大部神経 N ampullaris lateralis
+- 後膨大部神経 N ampullaris posterior
+- 下肛門神経 Nn anales inferiores
+- 上肛門神経 Nn anales superiores
+- 前耳介神経 Nn auriculares anteriores
+- 大耳介神経 N auricularis magnus
+- 後耳介神経 N auricularis posterior
+- 耳介側頭神経 N auriculotemporalis
+- 自律神経 N autonomicus
+- 腋窩神経 N axillaris
+- 頬筋神経 N buccalis
+- 翼突管神経 N canalis pterygoidei
+- 上頚心臓神経 N cardiacus cervicalis superior
+- 胸心臓神経 Nn cardiaci thoracici
+- 頚鼓神経 Nn caroticotympanici
+- 外頚動脈神経 Nn carotici externi
+- 内頚動脈神経 N caroticus internus
+- 陰核海綿体神経 Nn cavernosi clitoridis
+- 陰茎海綿体神経 Nn cavernosi penis
+- 頚神経 Nn cervicales
+- 短毛様体神経 Nn ciliares breves
+- 長毛様体神経 Nn ciliares longi
+- 中殿皮神経 Nn clunium medii
+- 尾骨神経 N coccygeus
+- 蝸牛神経 N cochlearis
+- 脳神経 N cranialis
+- 前小彎神経 N curvaturae minoris anterior
+- 皮神経 N cutaneus
+- 外側前腕皮神経 N cutaneus antebrachii lateralis
+- 内側前腕皮神経 N cutaneus antebrachii medialis
+- 後前腕皮神経 N cutaneus antebrachii posterior
+- 下外側上腕皮神経 N cutaneus brachii lateralis inferior
+- 内側上腕皮神経 N cutaneus brachii medialis
+- 後上腕皮神経 N cutaneus brachii posterior
+- 中間足背皮神経 N cutaneus dorsalis intermedius
+- 外側足背皮神経 N cutaneus dorsalis lateralis
+- 外側大腿皮神経 N cutaneus femoris lateralis
+- 後大腿皮神経 N cutaneus femoris posterior
+- 外側腓腹皮神経 N cutaneus surae lateralis
+- 内側腓腹皮神経 N cutaneus surae medialis
+- 足背指神経 Nn digitales dorsales pedis
+- 陰核背神経 N dorsalis clitoridis
+- 陰茎背神経 N dorsalis penis
+- 肩甲背神経 N dorsalis scapulae
+- 勃起神経 Nn erigentes
+- 前篩骨神経 N ethmidalis anterior
+- 後篩骨神経 N ethmidalis posterior
+- 顔面神経 N facialis
+- 大腿神経 N femoralis
+- 総腓骨神経 N fibularis communis
+- 深腓骨神経 N fibularis profundus
+- 浅腓骨神経 N fibularis superficialis
+- 前頭神経 N frontalis
+- 陰部大腿神経 N genitofemoralis
+- 舌咽神経 N glossopharyngeus
+- 下殿神経 N gluteus inferior
+- 上殿神経 N gluteus superior
+- 下腹神経 N hypogastricus
+- 舌下神経 N hypoglossus
+- 腸骨下腹神経 N iliohypogastricus
+- 腸骨鼠径神経 N ilioinguinalis
+- 眼窩下神経 N infraorbitalis
+- 滑車下神経 N infratrochlearis
+- 肋間神経 Nn intercostales
+- 中間神経 N intermedius
+- 下腿骨間神経 N interosseus cruris
+- 後前腕骨間神経|後骨間神経 N interosseus antebrachii posterior
+- 坐骨神経 N ischiadicus
+- 頚静脈神経 N jugularis
+- 前陰唇神経 Nn labiales anteriores
+- 後陰唇神経 Nn labiales posteriores
+- 涙腺神経 N lacrimalis
+- 下喉頭神経 N laryngeus inferior
+- 上喉頭神経 N laryngeus superior
+- 反回神経 N laryngeus recurrens
+- 舌神経 N lingualis
+- 腰神経 Nn lumbales
+- 下顎神経 N mandibularis
+- 咬筋神経 N massetericus
+- 上顎神経 N maxillaris
+- 外耳道神経 N meatus acustici externi
+- 正中神経 N medianus
+- 硬膜神経 N meningeus
+- オトガイ神経 N mentalis
+- 内閉鎖筋神経 N musculi obturatorii interni
+- 大腿方形筋神経 N musculi quadrati femoris
+- 筋皮神経 N musculocutaneus
+- 顎舌骨筋神経 N mylohyoideus
+- 鼻毛様体神経 N nasociliaris
+- 鼻口蓋神経 N nasopalatinus
+- 閉鎖神経 N obturatorius
+- 大後頭神経 N occipitalis major
+- 小後頭神経 N occipitalis minor
+- 第三後頭神経 N occipitalis tertius
+- 内耳神経 N octavus
+- 動眼神経 N oculomotorius
+- 嗅神経 N olfactorius
+- 眼神経 N ophthalmicus
+- 視神経 N opticus
+- 口蓋神経 N palatinus
+- 大口蓋神経 N palatinus major
+- 小口蓋神経 Nn palatini minores
+- 外側胸筋神経 N pectoralis lateralis
+- 内側胸筋神経 N pectoralis medialis
+- 会陰神経 Nn perineales
+- 総腓骨神経 N peroneus commuis
+- 総腓骨神経 N peroneus profundus
+- 浅腓骨神経 N peroneus superficialis
+- 大錐体神経 N petrosus major
+- 小錐体神経 N petrosus minor
+- 深錐体神経 N petrosus profundus
+- 横隔神経 N phrenicus
+- 副横隔神経 Nn phrenici accessorii
+- 梨状筋神経 N musculi piriformis
+- 内側足底神経 N plantaris medialis
+- 仙骨前神経 N presacralis
+- 外側翼突筋神経 N pterygoideus lateralis
+- 橈骨神経 N radialis
+- 下直腸神経 Nn rectales inferiores
+- 伏在神経 N saphenus
+- 前陰嚢神経 Nn scrotales anteriores
+- 後陰嚢神経 Nn scrotales posterior
+- 感覚神経 N sensorius
+- 大内臓神経 N splanchnicus major
+- 最下内臓神経 N splanchnicus imus
+- 小内臓神経 N splanchnicus minor
+- 骨盤内臓神経 Nn splanchnici pelvini
+- 仙骨内臓神経 Nn splanchnici sacrales
+- あぶみ骨筋神経 N stapedius
+- 胸骨舌骨筋神経 N sternohyoideus
+- 胸骨甲状筋神経 N sternothyroideus
+- 鎖骨下筋神経 N subclavius
+- 肋下神経 N subcostalis
+- 舌下部神経 N sublingualis
+- 後頭下神経 N suboccipitalis
+- 肩甲下神経 N subscapularis
+- 外側鎖骨上神経 Nn supraclaviculares laterales
+- 滑車上神経 N supratrochlearis
+- 腓腹神経 N suralis
+- 深側頭神経 Nn temporales profundi
+- 鼓膜張筋神経 Nn tensoris tympani
+- 口蓋帆張筋神経 Nn tensoris veli palatini
+- 終神経 Nn terminales
+- 胸神経 Nn thoracici
+- 長胸神経 N thoracicus longus
+- 胸背神経 N thoracodorsalis
+- 脛骨神経 N tibialis
+- 頚横神経 N transversus colli
+- 三叉神経 N trigeminus
+- 滑車神経 N trochlearis
+- 鼓室神経 N tympanicus
+- 尺骨神経 N ulnaris
+- 卵形嚢神経 N utricularis
+- 卵形嚢膨大部神経 N utriculoampullaris
+- 膣神経 Nn vaginales
+- 迷走神経 N vagus
+- 脈管神経 N vascularis
+- 椎骨動脈神経 N vertebralis
+- 前庭神経 N vestibularis
+- 内耳神経 N vestibulocochlearis
+- 頬骨顔面神経 N zygomaticofacialis
+- 頬骨側頭神経 N zygomaticotemporalis
+- 頬骨神経 N zygomaticus
+- 鼻 nasus
+- 外鼻 nasus externus
+- 新小脳 neocerebellum
+- 神経 nervus
+- 神経下垂体 neurohypophysis
+- 胃リンパ小節 noduli lymphatici gastrici
+- リンパ節∥結節 nodus
+- 副神経リンパ節 nodi accessorii
+- 虫垂リンパ節 nodi appendiculares
+- 房室結節 nodus atrioventricularis
+- 腕頭リンパ節 nodi brachiocephalici
+- 外側頚リンパ節 nodi cervicales laterales
+- 胆嚢リンパ節 nodus cysticus
+- 顔面リンパ節 nodi facialis
+- 大殿リンパ節 nodi gluteales
+- 回結腸リンパ節 nodi ileocolici
+- 下殿リンパ節 nodi inferiores
+- 浅鼠径リンパ節 nodi inguinales superficiales
+- 中間腸間膜リンパ節 nodi intermedii
+- 頚静脈二腹筋リンパ節 nodus jugulogastricus
+- 動脈管索リンパ節 nodus ligamenti arteriosi
+- 舌リンパ節 nodi linguales
+- 胸部のリンパ節 nodi lymphoidei thoracis
+- リンパ節 nodus lymphaticus
+- 前縦隔リンパ節 nodi mediastinales anteriores
+- 後縦隔リンパ節 nodi mediastinales posteriores
+- 下腸間膜動脈リンパ節|下腸間膜リンパ節 nodi mesenterici inferiores
+- 上腸間膜動脈リンパ節|上腸間膜リンパ節 nodi mesenterici superiores
+- 結腸間膜リンパ節 nodi mesocolici
+- 鼻唇リンパ節 nodus nasolabialis
+- 後頭リンパ節 nodi occipitales
+- 直腸傍リンパ節 nodi pararectales
+- 心膜前リンパ節 nodi prepericardiaci
+- 下横隔リンパ節 nodi phrenici inferiores
+- 上横隔リンパ節 nodi phrenici superiores
+- 膝窩リンパ節 nodi poplitei
+- 大静脈後リンパ節 nodi postcavales
+- 盲腸前リンパ節 nodi precaecales
+- 喉頭前リンパ節 nodi prelaryngei
+- 喉頭前リンパ節 nodi prepharyngei
+- 脊椎前リンパ節 nodi prevertebrales
+- 下深リンパ節 nodi profundi inferiores
+- 上深リンパ節 nodi profundi superiores
+- 幽門リンパ節 nodi pylorici
+- 盲腸後リンパ節 nodi retrocaecales
+- 大静脈後リンパ節 nodi retrocavales
+- 幽門後リンパ節 nodi retropylorici
+- 仙骨リンパ節 nodi sacrales
+- 洞房結節 nodus sinuatrialis
+- 顎下リンパ節 nodi submandibulares
+- 浅リンパ節 nodi superficiales
+- 幽門上リンパ節 nodi suprapylorici
+- 前面観 norma facialis
+- 前面観 norma frontalis
+- 側面観 norma lateralis
+- 上面観 norma superior
+- 上面観 norma verticalis
+- 項 nucha
+- 核 nucleus
+- 側坐核 nucleus accumbens
+- 疑核 nucleus ambiguus
+- 前核 nucleus anterior
+- 弓状核 nucleus arcuatus
+- 基底核 nucleus basalis
+- 尾状核 nucleus caudatus
+- 正中核 nucleus caudalis centralis
+- 小脳核 nuclei cerebelli
+- 蝸牛神経核 nuclei cochleares
+- 蝸牛神経前核 nucleus cochlearis anterior
+- 蝸牛神経後核 nucleus cochlearis posterior
+- 交連核 nucleus commisuralis
+- 迷走神経交連核 nucleus commissuralis nervi vagi
+- 菱形核 nucleus commissuralis rhomboidalis
+- 歯状核 nucleus dentatus
+- 栓状核 nucleus emboliformis
+- 室頂核 nucleus fastigii
+- 孤束膠様核 nucleus gelatinosus solitarius
+- 球状核 nucleus globosus
+- 外側手綱核 nucleus habenularis lateralis
+- 内側手綱核 nucleus habenularis medialis
+- 漏斗核 nucleus infundibularis
+- 介在核 nucleus intercalatus
+- 孤束中間核 nucleus intermedius solitarius
+- 脚間核 nucleus interpeduncularis
+- 孤束間質核 nucleus interstitialis solitarius
+- レンズ核 nucleus lentiformis
+- 水晶体核 nucleus lentis
+- 中間線状核 nucleus linearis intermedius
+- 乳頭体内側核 nucleus mamillaris medialis
+- 辺縁核 nucleus marginalis
+- 前内側核 nucleus medialis anterior
+- 小脳内側核 nucleus medialis cerebelli
+- 孤束内側核 nucleus medialis solitarius
+- 三叉神経運動核 nucleus motorius nervi trigemini
+- 外転神経核 nucleus nervi abducentis
+- 副神経核 nucleus nervi accessorii
+- 顔面神経核 nucleus nervi facialis
+- 舌下神経核 nucleus nervi hypoglossi
+- 動眼神経核 nucleus nervi oculomotorii
+- 迷走神経核 nucleus nervi vagi
+- 脳神経核 nucleus nervorum cranialium centralis
+- オリーブ核 nucleus olivaris
+- 主オリーブ核 nucleus olivaris principalis
+- 起始核 nucleus originis
+- 孤束交連傍核 nucleus paracommissuralis solitarius
+- 孤束傍核 nucleus parasolitarius
+- 前室傍核 nucleus paraventricularis anterior
+- 後室傍核 nucleus paraventricularis posterior
+- 脳弓周囲核 nucleus perifornicalis
+- 後核 nucleus posterior
+- 視床後核群 nuclei posteriores thalami
+- 迷走神経背側核 nucleus posterior nervi vagi
+- 背外側核 nucleus posterolateralis
+- 膝状体前核 nucleus pregeniculatus
+- 背側乳頭体前核 nucleus premammillaris dorsalis
+- 腹側乳頭体前核 nucleus premammillaris ventralis
+- 中心網様核 nucleus reticularis centralis
+- 中間網様核 nucleus reticularis intermedius
+- 外側網様核 nucleus reticularis lateralis
+- 内側網様核 nucleus reticularis medialis
+- 赤核 nucleus ruber
+- 下唾液核 nucleus salivatorius inferior
+- 交連前中隔核 nucleus septalis precommissuralis
+- 背側孤束核 nucleus solitarius posterior
+- 舌下神経下核 nucleus subhypoglossalis
+- 膝状体上核、膝上核 nucleus suprageniculatus
+- 乳頭体上核 nucleus supramammillaris
+- 孤束核 nuclei tractus solitarii
+- 隆起核 nuclei tuberales
+- 外側隆起核 nuclei tuberales laterales
+- 隆起乳頭体核 nucleus tuberomammillaris
+- 前庭神経下核 nucleus vestibularis inferior
+- 前庭神経外側核 nucleus vestibularis lateralis
+- 前庭神経内側核 nucleus vestibularis medialis
+- 前庭神経上核 nucleus vestibularis superior
+-  
+-  
+- 眼 oculus
+- 大網 omentum majus
+- 小網 omentum minus
+- 弁蓋 operculum
+- 前頭弁蓋 operculum frontale
+- 前頭頭頂弁蓋 operculum frontoparietale
+- 頭頂弁蓋 operculum parietale
+- 側頭弁蓋 operculum temporale
+- 鋸状縁 ora serrata
+- 輪 orbiculus
+- 毛様体輪 orbiculus ciliaris
+- 眼窩 orbita
+- 器官 organum
+- [[解]]女性の外生殖器 organa genitalia feminina externa
+- 味覚器 organum gustatorium//organum gustus
+- 口腔傍器官 organum juxtaorale
+- 感覚器 organa sensuum
+- ラセン器 organum spirale
+- 交連下器官 organum subcommiccurale
+- 脳弓下器官 organum subfornicale
+- 視覚器 organum visus
+- 骨 os
+- 短骨 os breve
+- 踵骨 os calcis
+- 有頭骨 os capitatum
+- 手根骨 ossa carpi
+- 中心骨 os centrale
+- 尾骨 os coccygis
+- 寛骨 os coxae
+- 頭蓋骨 ossa cranii
+- 立方骨 os cuboideum
+- 中間楔状骨 os cuneiforme intermedium
+- 外側楔状骨 os cuneiforme laterale
+- 内側楔状骨 os cuneiforme mediale
+- 指骨|指節骨 ossa digitorum
+- 指骨 ossa digitorum manus
+- 趾骨 ossa digitorum pedis
+- 篩骨 os ethmoidale
+- 顔面骨 ossa faciei
+- 大腿骨 os femoris
+- 頭頂骨 os frontale
+- 有鈎骨 os hamatum
+- 舌骨 os hyoideum
+- 腸骨 os ilium
+- 切歯骨 os incisivum
+- 頭頂間骨 os interparietale
+- 坐骨 os ischii
+- 涙骨 os lacrimale
+- 長骨 os longus
+- 月状骨 os lunatum
+- 手の骨 ossa manus
+- 鼻骨 os nasale
+- 舟状骨 os naviculare
+- 後頭骨 os occipitale
+- 口蓋骨 os palatinum
+- 頭頂骨 os parietale
+- 豆状骨 os pisiforme
+- 扁平骨 os planum
+- 含気骨 os pneumaticum
+- 恥骨 os pubis
+- 仙骨 os sacrum
+- 種子骨 ossa sesamoidea
+- 蝶形骨 os sphenoidale
+- 胸上骨 ossa suprasternalia
+- 縫合骨 os suturale
+- 足根骨 ossa tarsalia//ossa tarsi
+- 側頭骨 os temporale
+- 大菱形骨 os trapezium
+- 小菱形骨 os trapezoideum
+- 三角骨 os trigonum
+- 三角骨 os triquetrum
+- 頬骨 os zygomaticum
+- 耳小骨 ossicula auditus
+- 小骨 ossiculum 
+- 口 ostium
+- 卵管腹腔口 ostium abdominale tubae uterinae
+- 大動脈口 ostium aortae
+- 虫垂口 ostium appendicis vermiformis
+- 右房室口 ostium atrioventriculare dextrum
+- 左房室口 ostium atrioventriculare sinistrum
+- 噴門口 ostium cardiacum
+- 回腸口 ostium ileale
+- 回盲結腸口 ostium ileocaecocolicum
+- 回盲口 ostium ileocecale
+- 乳頭口 ostium papillare
+- 耳管咽頭口 ostium pharyngeum tubae auditivae
+- 幽門口 ostium pyloricum
+- 肺動脈口 ostium trunci pulmonalis
+- 耳管鼓室口 ostium tympanicum tubae auditivae
+- 耳管鼓室口 ostium tympanicum tubae auditivae
+- 尿管口 ostium ureteris
+- 外尿道口 ostium urethrae externum
+- 内尿道口 ostium urethrae internum
+- 排尿時内尿道口 ostium urethrae internum evacuans
+- 外子宮口 ostium uteri
+- 卵管子宮口 ostium uterinum tubae (uterinae)
+- 膣口 ostium vaginae
+- 下大静脈口 ostium venae cavae inferioris
+- 上大静脈口 ostium venae cavae superioris
+- 肺静脈口 ostia veranum pulmonalium
+- 卵巣 ovarium
+- 卵 ovum
+-  
+-  
+- 口蓋 palatum
+- 硬口蓋 palatum durum
+- 軟口蓋 palatum molle
+- 骨口蓋 palatum osseum
+- 旧脳 paleencephalon
+- 手掌 palma manus
+- 眼瞼 palpebra
+- 下眼瞼 palpebra inferior
+- 上眼瞼 palpebra superior
+- 膵臓 pancreas
+- 脂肪組織層∥脂肪層 panniculus adiposus
+- 乳頭 papilla
+- 円錐乳頭 papillae conicae
+- 歯乳頭 papilla dentis
+- 耳下腺乳頭 papilla ductus parotidei
+- 大十二指腸乳頭 papilla duodeni major
+- 小十二指腸乳頭 papilla duodeni minor
+- 糸状乳頭 papilla filiformis
+- 茸状乳頭 papilla fungiformis
+- 回盲乳頭 papilla ilealis
+- 切歯乳頭 papilla incisiva
+- 涙乳頭 papilla lacrimalis
+- 舌乳頭 papillae linguales
+- 乳頭 papilla mammae
+- =papilla ductus parotidei papilla parotidea
+- 毛乳頭 papilla pili
+- 腎乳頭 papilla renalis
+- 有郭乳頭 papilla vallata
+- 精巣傍体 paradidymis
+- 子宮傍組織 parametrium
+- 実質 parenchyma
+- 壁 paries
+- 前壁 paries anterior
+- 頚動脈壁 paries caroticus
+- 外壁 paries externus
+- 頚静脈壁 paries jugularis
+- 外側壁 paries lateralis
+- 乳突壁 paries mastoideus
+- 内側壁 paries medialis
+- 鼓膜壁 paries membranaceus
+- 膜性壁 paries membranaceus
+- 後壁 paries posterior
+- 室蓋壁 paries tegmentalis
+- 鼓室階壁 paries tympanicus
+- 前庭階壁 paries vestibularis
+- =paries vestibularis paries vestibularis ductus cochlearis
+- 卵巣傍体 paroophoron
+- 部 pars
+- 大動脈腹部、腹大動脈 pars abdominalis aortae
+- 鼻翼部 pars alaris
+- 歯槽部 pars alveolaris
+- 線維鞘の輪状部 pars anularis vaginae fibrosae
+- 前部 pars anterior
+- 披裂喉頭蓋部 pars aryepiglottica
+- 大動脈上行部 pars ascendens aortae
+- 環椎部 pars atlantica
+- 自律神経系 pars autonomica systematis nervosi peripherici
+- 前脳基底部 pars basalis telencephali
+- 底部 pars basilaris
+- 頬咽頭部 pars buccopharyngea
+- 網膜盲部 pars caeca retinae
+- 管内部 pars canalis
+- 耳管軟骨部 pars cartilaginea tubae auditoriae
+- 中心部 pars centralis
+- 頚部 pars cervicalis
+- 膀胱頚部 pars cervicis vesicae
+- 網膜毛様体部 pars ciliaris retinae
+- 曲尿細管 pars convoluta
+- 肋骨部 pars costalis
+- [[解]]頭部 pars cranialis
+- 頭頚部 pars craniocervicalis
+- 輪状咽頭部 pars cricopharyngea
+- 鋤骨楔状部 pars cuneiformis vomeris
+- 頂部 pars cupularis
+- 下行部 pars descendens
+- 遠位部 pars distalis
+- 硬膜部、尾骨靭帯、外終糸 pars duralis
+- 胎児部 pars fetalis
+- 舌咽頭部 pars glossopharyngea
+- 右肝部 pars hepatis dextra
+- 水平部 pars horizontalis
+- 下部 pars inferior
+- 鎖骨下部 pars infraclavicularis
+- 島部 pars insularis
+- 中間部 pars intermedia
+- 頭蓋内部 pars intracranialis
+- 篩板内部 pars intralaminaris
+- 壁内部 pars intramuralis
+- 眼球内部 pars intraocularis
+- 網膜虹彩部 pars iridica retinae
+- 唇部 pars labialis
+- 外側部 pars lateralis
+- 腰椎部 pars lumbalis diaphragmatis
+- 前庭神経下核の大細胞部 pars magnocellularis nuclei vestibularis inferioris
+- 縁部 pars marginalis
+- 鼻中隔可動部 pars mobilis septi nasi
+- 咽頭鼻部 pars nasalis pharyngis
+- ＝lobus nervosus[L]) pars nervosa
+- 閉塞部 pars occlusa
+- 網膜視部 pars optica retinae
+- 眼窩部 pars orbitalis
+- 耳管骨部 pars ossea tubae auditoriae
+- 眼瞼部 pars palpebralis
+- 副交感神経 pars parasympathetica
+- 末梢神経系 pars peripherica
+- 開存部 pars patens
+- 岩様部 pars petrosa
+- 軟膜部 pars pialis
+- 交通後部 pars postcommunicalis
+- 後部 pars posterior
+- 側索後部 pars posterior funiculi lateralis
+- 肝後部 pars posterior hepatis
+- 篩板後部 pars postlaminaris
+- 交通前部 pars precommunicalis
+- 篩板前部 pars prelaminaris
+- 椎骨前部 pars prevertebralis
+- 主部 pars principalis
+- 前立腺部 pars prostatica
+- 近位部 pars proximalis
+- 幽門部 pars pylorica
+- 方形部 pars quadrata
+- 蝶形骨部 pars sphenoidalis
+- 海綿体部 pars spongiosa
+- 鱗部 pars squamosa
+- 胸骨部 pars sternalis diaphragmatis
+- 皮下部 pars subcutanea
+- 上部 pars superior
+- 鎖骨上部 pars supraclavicularis
+- 交感神経 pars sympathetica
+- 十二指腸被蓋部 pars tecta duodeni
+- 緊張部 pars tensa
+- 終末部 pars terminalis
+- 回腸終末部 pars terminalis
+- 胸部 pars thoracica
+- 大動脈胸部 pars thoracica aortae
+- 甲状咽頭部 pars thyropharyngea
+- 隆起部 pars tuberalis
+- 鼓室部 pars tympanica
+- 子宮部 pars uterina
+- 子宮部 pars uterina
+- 膝蓋 patella
+- 櫛 pecten
+- 肛門櫛 pecten analis
+- 恥骨櫛 pecten ossis pubis
+- 胸 pectus
+- 足 pedis
+- 下小脳脚 pedunculus cerebellaris inferior
+- 中小脳脚 pedunculus cerebellaris medius
+- 上小脳脚 pedunculus cerebellaris superior
+- 片葉脚 pedunculus flocculi
+- 骨盤 pelvis
+- 大骨盤 pelvis major
+- 小骨盤 pelvis minor
+- 腎盂 pelvis renalis
+- 心膜 pericardium
+- 線維性心膜 pericardium fibrosum
+- 漿膜性心膜 pericardium serosum
+- 頭蓋骨膜 pericranium
+- 保護歯周組織 periodontium protectionis
+- 子宮外膜 perimetrium
+- 会陰 perineum
+- 眼窩骨膜 periorbita
+- 頭蓋骨膜 periosteum externum cranii
+- 腱周膜/腱鞘 peritendineum
+- 腹膜 peritoneum
+- 尿生殖腹膜 peritoneum urogenitale
+- 足 pes
+- 鵞足 pes anserinus
+- 海馬足 pes hippocampi
+- 基節骨 phalanx proximalis
+- 咽頭 pharynx
+- 人中 philtrum
+- 軟膜 pia mater
+- 脳軟膜 pia mater cranialis/*pia mater encephali
+- 脊髄軟膜 pia mater spinalis
+- 毛、毛髪 pilus
+- 胎盤 placenta
+- 足底 planta
+- 平面 planum
+- 冠状面 plana coronalia
+- 前頭面 plana frontalia
+- 水平面 plana horizontalia
+- 棘間平面 planum interspinale
+- 結節間平面 planum intertuberculare
+- 正中面 planum medianum
+- 後頭平面 planum occipitale
+- 傍正中面 plana paramediana
+- 矢状面 plana sagittalia
+- 肋骨下平面 planum subcostale
+- 稜上平面 planum supracristale
+- 側頭平面 planum temporale
+- 幽門平面 planum transpyloricum
+- 横断面 plana transverslia
+- 広頚筋 platysma
+- 胸膜 pleura
+- 横隔胸膜 pleura diaphragmatica
+- 縦隔胸膜 pleura mediastinalis
+- 肺胸膜 pleura pulmonalis
+- 臓側胸膜 pleura visceralis
+- 叢 plexus
+- 腹大動脈神経叢 plexus aorticus abdominalis
+- 胸大動脈神経叢 plexus aorticus thoracicus
+- 自律神経叢 plexus autonomicus
+- 脳底静脈叢 plexus basilaris
+- 腕神経叢 plexus brachialis
+- 心臓神経叢 plexus cardiacus
+- 総頚動脈神経叢 plexus caroticus communis
+- 内頚動脈神経叢 plexus caroticus internus
+- 海綿静脈洞神経叢 plexus cavernosus
+- 鼻甲介海綿叢 plexus cavernosus conchae
+- 頚神経叢 plexus cervicalis
+- 後頚神経叢 plexus cervicalis posterior
+- 脈絡叢 plexus choroideus
+- 第四脳室脈絡叢 plexus choroideus ventriculi quarti
+- 尾骨神経叢 plexus coccygeus
+- 腹腔神経叢 plexus coeliacus
+- 精管神経叢 plexus deferentialis
+- 腸管神経叢 plexus entericus
+- 食道叢 plexus esophageus
+- 大腿動脈神経叢 plexus femoralis
+- 胃神経叢 plexus gastricus
+- 肝神経叢 plexus hepaticus
+- 下下腹神経叢 plexus hypogastricus inferior
+- 上下腹神経叢 plexus hypogastricus superior
+- 腸間膜動脈間神経叢 plexus intermesentericus
+- 脾神経叢 plexus lienalis
+- 腰神経叢 plexus lumbalis
+- 腰仙骨神経叢 plexus lumbosacralis
+- 下腸間膜動脈神経叢 plexus mesentericus inferior
+- 上腸間膜動脈神経叢 plexus mesentericus superior
+- 筋層間神経叢 plexus myentericus
+- 膵神経叢 plexus pancreaticus
+- 咽頭静脈叢 plexus pharyngeus
+- 骨盤神経叢 plexus plevicus
+- 動脈周囲神経叢 plexus periarterialis
+- 前立腺神経叢 plexus prostaticus
+- 翼突筋静脈叢 plexus pteryoideus
+- 肺神経叢 plexus pulmonalis
+- 下直腸動脈神経叢 plexus rectalis inferior
+- 仙骨神経叢 plexus sacralis
+- 脾神経叢 plexus splenicus
+- 鎖骨下動脈神経叢 plexus subclavius
+- 副腎神経叢 plexus suprarenalis
+- 精巣動脈神経叢 plexus testicularis
+- 不対甲状腺静脈叢 plexus thyroideus impar
+- 鼓室神経叢 plexus tympanicus
+- 尿管神経叢 plexus uretericus
+- 子宮膣神経叢 plexus uterovaginalis
+- 血管神経叢 plexus vascularis
+- 静脈叢 plexus venosus
+- 乳輪静脈層 plexus venosus areolaris
+- 舌下神経管静脈叢 plexus venosus canalis nervi hypoglossi
+- 卵円孔静脈叢 plexus venosus foraminis ovalis
+- 前立腺静脈叢 plexus venosus prostaticus
+- 仙骨静脈叢 plexus venosus sacralis
+- 後頭下静脈叢 plexus venosus suboccipitalis
+- 子宮静脈叢 plexus venosus uterinus
+- 膀胱静脈叢 plexus venosus vesicalis
+- 前外椎骨静脈叢 plexus venosus vertebralis externus anterior
+- 後外椎骨静脈叢 plexus venosus vertebralis externus posterior
+- 前内椎骨静脈叢 plexus venosus vertebralis internus anterior
+- 後内椎骨静脈叢 plexus venosus vertebralis internus posterior
+- 椎骨動脈神経叢 plexus vertebralis
+- 膀胱神経叢 plexus vesicalis
+- 内臓神経叢 plexus visceralis
+- ヒダ(襞) plica
+- 翼状ヒダ(襞) plicae alares
+- 披裂喉頭蓋ヒダ(襞) plica aryepiglottica
+- 後腋窩ヒダ(襞) plica axillaris posterior
+- 盲腸ヒダ(襞) plicae caecales
+- 盲腸血管ヒダ(襞) plica caecalis vascularis
+- 鼓索ヒダ(襞) plica chorda tympani
+- 毛様体ヒダ(襞) plicae ciliares
+- 輪状ヒダ(襞) plicae circulares
+- 下十二指腸ヒダ(襞) plica duodenalis inferior
+- 上十二指腸ヒダ(襞) plica duodenalis superior
+- 胃粘膜ヒダ(襞) plicae gastricae
+- 胃膵ヒダ(襞) plica gastropancreatica
+- 肝膵ヒダ(襞) plica hepatopancreatica
+- キヌタ骨ヒダ(襞) plica incudialis
+- 披裂間ヒダ(襞) plica interarytenoidea
+- 尿管間ヒダ(襞) plica interureteric
+- 虹彩ヒダ(襞) plicae iridis
+- 鼻涙管ヒダ(襞) plica lacrimalis
+- 十二指腸縦ヒダ(襞) plica longitudinalis duodeni
+- 前ツチ骨ヒダ(襞) plica mallearis anterior
+- 後ツチ骨ヒダ(襞) plica mallearis posterior
+- 上喉頭神経ヒダ(襞) plica nervi laryngei superioris
+- 粽状ヒダ(襞) plicae palmatae
+- 瞼鼻ヒダ(襞) plica palpebronasalis
+- 十二指腸傍ヒダ(襞) plica paraduodenalis
+- 横口蓋ヒダ(襞) plicae palatinae transversae
+- 脾前間膜 plica presplenica
+- 直腸子宮ヒダ(襞) plica rectouterina
+- 耳管咽頭ヒダ(襞) plica salpingopharyngea
+- 結膜半月ヒダ(襞) plica semilunaris (conjunctiva)
+- 舌下ヒダ(襞) plica sublingualis
+- 膝蓋下滑膜ヒダ(襞) plica synovialis infrapatellaris
+- 直腸横ヒダ(襞) plicae transversae recti
+- 三角ヒダ(襞) plica triangularis
+- 卵管ヒダ(襞) plicae tubariae
+- 外側臍ヒダ(襞) plica umbilicalis lateralis
+- 正中臍ヒダ(襞) plica umbilicalis mediana
+- 直腸子宮ヒダ(襞) plica rectouterina
+- 前庭ヒダ(襞) plica vestibularis
+- 横膀胱ヒダ(襞) plica vesicalis transversa
+- 絨毛様ヒダ(襞) plica villosa
+- 声帯ヒダ(襞) plica vocalis
+- 極 polus
+- 前極 polus anterior
+- 前頭極 polus frontalis
+- 下端 polus inferior
+- 後頭極 polus occipitalis
+- 後極 polus posterior
+- 上端 polus superior
+- 側頭極 polus temporalis
+-  
+- 橋 pons
+- 脳橋 pons cerebelli
+- 橋小脳 pontocerebellum
+- 膝窩 poples
+- 門 porta
+- 肝門 porta hepatis
+- 部 portio
+- 孔 porus
+- 外耳孔 porus acusticus externus
+- 内耳孔 porus acusticus internus
+- 味孔 porus gustatorius
+- 汗孔 porus sudoriferus
+- 包皮 preputium
+- 陰核包皮 preputium clitoridis
+- 包皮 preputium penis
+- 突起 processus
+- 副突起 processus accessorius
+- 歯槽突起 processus alveolaris
+- 前突起 processus anterior
+- 下関節突起 processus articularis inferior
+- 上関節突起 processus articularis superior
+- 腋窩突起 processus axillaris
+- 踵骨突起 processus calcaneus
+- 尾状突起 processus caudatus
+- 毛様体突起 processus ciliares
+- 前床突起 processus clinoideus anterior
+- 中床突起 processus clinoideus medius
+- 後床突起 processus clinoideus posterior
+- 関節突起 processus condylaris
+- 烏口突起 processus coracoideus
+- 筋突起 processus coronoideus
+- 鈎状突起 processus coronoideus
+- 肋骨突起 processus costiformis//processus costalis
+- 篩骨突起 processus ethmoidalis
+- 鎌状突起 processus falciformis
+- 前頭突起 processus frontalis
+- 頚静脈孔内突起 processus intrajugularis
+- 頚静脈突起 processus jugularis
+- 涙骨突起 processus lacrimalis
+- 外側突起 processus lateralis
+- 距骨外側突起 processus lateralis tali
+- 豆状突起 processus lenticularis
+- 乳頭突起 processus mamillaris
+- 乳状突起|乳様突起 processus mastoideus
+- 上顎突起 processus maxillaris
+- 眼窩突起 processus orbitalis
+- 口蓋突起 processus palatus
+- 距骨後突起 processus posterior tali
+- 翼状突起 processus pterygoideus
+- 錐体突起 processus pyramidalis
+- 蝶形骨突起 processus sphenoidalis
+- 棘突起 processus spinosus
+- 茎状突起 processus styloideus
+- 顆上突起 processus supracondylaris
+- 側頭突起 processus temporalis
+- 横突起 processus transversus
+- 鈎状突起 processus uncinatus
+- 鞘状突起 processus vaginalis
+- 声帯突起 processus vocalis
+- 剣状突起 processus xyphoideus
+- 頬骨突起 processus zygomaticus
+- 隆起 prominentia
+- 顔面神経管隆起 prominentia canalis facialis
+- 外側半規管隆起 prominentia canalis semicircularis lateralis
+- 喉頭隆起 prominentia laryngea
+- ツチ骨隆起 prominentia mallearis
+- ラセン隆起 prominentia spiralis
+- 茎突隆起 prominentia styloidea
+- 前脳 prosencephalon
+- 隆起 protuberantia
+- オトガイ隆起 protuberantia mentalis
+- 外後頭隆起 protuberantia occipitalis externa
+- 内後頭隆起 protuberantia occipitalis interna
+- 肺 pulmo
+- 右肺 pulmo dexter
+- 左肺 pulmo sinister
+- 髄 pulpa
+- 歯冠髄 pulpa coronalis
+- 歯髄 pulpa dentis
+- 脾髄 pulpa lienalis
+- 歯根髄 pulpa radicularis
+- 脾髄 pulpa splenica
+- 視床枕 pulvinar thalami
+- 涙点 punctum lacrimale
+- 被殻 putamen
+- 幽門 pylorus
+- 延髄錐体 pyramis bulbi
+- 延髄錐体 pyramis medullae oblongatae
+- 腎錐体 pyramis renalis
+- 虫部錐体 pyramis vermis
+- 前庭錐体 pyramis vestibuli
+-  
+-  
+- 放線 radiatio
+- 聴放線 radiatio acustica
+- 脳梁放線 radiatio corporis callosi
+- 視放線 radiatio optica
+- 水晶体放線 radii lentis
+- 髄放線 radii medullares
+- 橈骨 radius
+- 根 radix
+- 前根 radix anterior
+- 頬側根 radix buccalis
+- 臨床歯根 radix clinica
+- 遠心根 radix distalis
+- 舌根 radix linguae
+- 腸間膜根 radix mesenterii
+- 近心頬側根 radix mesiobuccalis
+- 近心舌側根 radix mesiolingualis
+- 鼻根 radix nasi
+- 口蓋側根 radix palatinalis
+- 陰茎根 radix penis
+- 毛根 radix pili
+- 後根 radix posterior
+- 肺根 radix pulmonis
+- 感覚根 radix sensoria
+- 顎下神経節感覚根 radix sensoria ganglii submandibularis
+- 爪根 radix unguis
+- 枝 ramus
+- 副硬膜枝 ramus accessorius
+- 肩峰枝 ramus acromialis
+- 前上歯槽枝 rami alveolares superiores anteriores
+- 中上歯槽枝 ramus alveolaris superior medius
+- 後上歯槽枝 rami alveolares superiores posteriores
+- 前枝 ramus anterior
+- 心房枝 rami atriales
+- 前耳介枝 rami auriculares anteriores
+- 自律神経枝 ramus autonomicus
+- 下行枝 ramus descendens
+- 下頚心臓枝 rami cardiaci cervicales inferiores
+- 胸心臓枝 rami cardiaci thoracici
+- 帯状回枝 ramus cingularis
+- 蝸牛枝 ramus cochlearis
+- 側副枝 ramus collateralis
+- 腓側交通枝、腓腹交通枝 ramus communicans fibularis/*ramus communicans peroneus
+- 円錐枝 ramus coni arteriosi
+- 輪状甲状枝 ramus cricothyroideus
+- 内側下腿皮枝 rami cutanei cruris mediales
+- 前皮枝 ramus cutaneus anterior
+- 下行枝 ramus descendens
+- 右枝 ramus dexter
+- 後肢 rami dorsales
+- 舌背枝 rami dorsales linguae
+- 前内側前頭枝 ramus frontalis anteromedialis
+- 中間内側前頭枝 ramus frontalis intermediomedialis
+- 後内側前頭枝 ramus frontalis posteromedialis
+- 陰部枝 ramus genitalis
+- 腺枝 rami glandulares
+- 角回枝 ramus gyrus angularis
+- ラセン枝 rami helicini
+- 回腸枝 ramus ilealis
+- 腸骨枝 ramus iliacus
+- 恥骨下枝 ramus inferior ossis pubis
+- 膝蓋下枝 ramus infrapatellaris
+- 前室間枝 ramus interventricularis anterior
+- 後室間枝 ramus interventricularis posterior
+- 後陰唇枝 rami labiales posteriores
+- 喉頭咽頭枝 rami laryngopharyngei
+- 外側乳腺枝 rami mammarii laterales
+- 下顎枝 ramus mandibulae
+- 縁枝 ramus marginalis
+- 右縁枝 ramus marginalis dexter
+- 乳突枝 ramus mastoideus
+- 正中延髄枝 rami medullares mediani
+- 後延髄枝 rami medullares posteriores
+- 反回硬膜枝 ramus meningeus recurrens
+- テント枝 ramus tentorius
+- 茎突咽頭筋枝 ramus musculi stylopharyngei
+- 顎舌骨筋枝 ramus mylohyoideus
+- 外側前鼻枝 rami nasales anteriores laterales
+- 外側鼻枝 rami nasales laterales
+- 内側鼻枝 rami nasales mediales
+- 外側上後鼻枝 rami nasales posteriores superiores laterales
+- 房室結節枝 ramus nodi atrioventricularis
+- 後頭側頭枝 ramus occipitotemporalis
+- 眼窩枝 rami orbitales
+- 坐骨枝 ramus ossis ischii
+- 浅掌枝 ramus palmaris superficialis
+- 眼瞼枝 rami palpebrales
+- 下眼瞼枝 rami palpebrales inferiores
+- 会陰枝 rami perineales
+- 岩様部枝 ramus petrosus
+- 咽頭枝 rami pharyngeales
+- 後中心枝 ramus postcentralis
+- 後枝 rami posteriores
+- 深枝 ramus profundus
+- 前立腺枝 rami prostatici
+- 恥骨枝 ramus pubicus
+- 肺枝 rami pulmonales
+- 幽門枝 ramus pyloricus
+- 後陰嚢枝 rami scrotales posteriores
+- 中隔前鼻枝 rami septales anteriores
+- 中隔後鼻枝 rami septales posteriores
+- 鼻中隔枝 ramus septi nasi
+- 左枝 ramus sinister
+- 茎突舌骨筋枝 ramus stylohyoideus
+- 肩甲下枝 rami subscapulares
+- 恥骨上枝 ramus superior ossis pubis
+- 舌骨上枝 ramus suprahyoideus
+- 側頭枝 rami temporales
+- 前側頭枝 ramus temporalis anterior
+- 前側頭枝 rami temporales anteriores
+- 中側頭枝 ramus temporalis medius
+- 後側頭枝 ramus temporalis posterior
+- 浅側頭枝 rami temporales superficiales
+- テント枝 ramus tentorius
+- 胸腺枝 rami thymici
+- 後前庭枝 ramus vestibularis posterior
+- 縫線 raphe
+- 延髄縫線 raphe medullae oblogatae
+- 腸骨尾骨筋縫線 raphe musculi iliococcygei
+- 口蓋縫線 raphe palati
+- 外側眼瞼縫線 raphe palpebralis lateralis
+- 陰茎縫線 raphe penis
+- 会陰縫線 raphe perinei
+- 咽頭縫線 raphe pharyngis
+- 橋縫線 raphe pontis
+- 翼突下顎縫線 raphe pterygomandibularis
+- 陰嚢縫線 raphe scroti
+- 陥凹 recessus
+- 前鼓膜陥凹 recessus anterior
+- 関節陥凹 recessus articularis
+- 蝸牛陥凹 recessus cochlearis
+- 肋骨横隔洞 recessus costodiaphragmaticus
+- 肋骨縦隔洞 recessus costomediastinalis
+- 下十二指腸陥凹 recessus duodenalis inferior
+- 上十二指腸陥凹 recessus duodenalis superior
+- 鼓室上陥凹 recessus epitympanicus
+- 前頭陥凹 recessus frontalis
+- 肝腎陥凹 recessus hepatorenalis
+- 下回盲陥凹 recessus ileocaecalis inferior
+- 上回盲陥凹 recessus ileocaecalis superior
+- 下陥凹 recessus inferior
+- Ｓ状結腸間陥凹 recessus intersigmoideus
+- 脾陥凹 recessus lienalis
+- 視交叉陥凹 recessus opticus
+- 十二指腸傍陥凹 recessus paraduodenalis
+- 咽頭陥凹 recessus pharyngeus
+- 松果体陥凹 recessus pinealis
+- 梨状陥凹 recessus piriformis
+- 胸膜洞 recessus pleurales
+- 後鼓膜陥凹 recessus posterior
+- 盲腸後陥凹 recessus retrocaecalis
+- 卵形嚢陥凹 recessus saccularis
+- 卵形嚢陥凹 recessus sphericus
+- 膝窩筋下陥凹 recessus subpopliteus
+- 視索上陥凹 recessus supraopticus
+- 松果体上陥凹 recessus suprapinealis
+- 上陥凹 recessus superior
+- 嚢状陥凹 recessus sacciformis
+- 脾陥凹 recessus splenicus
+- 肝下陥凹 recessus subhepaticus
+- 横隔下陥凹 recessus subphrenicus
+- 膝窩筋下陥凹 recessus subpopliteus
+- 視索上陥凹 recessus supraopticus
+- 松果体上陥凹 recessus suprapinealis
+- 椎骨縦隔洞 recessus vertebromediastinalis
+- 部 regio
+- 肛門部 regio analis
+- 前腕部 regio antebrachialis
+- 前前腕部 regio antebrachii anterior
+- 後前腕部 regio antebrachii posterior//regio antebrachialis posterior
+- 耳介部 regio auricularis
+- 上腕部 regio brachialis
+- 後上腕部 regio brachii posterior//regio brachialis posterior
+- 頬部 regio buccalis
+- 踵部 regio calcanea
+- 手根部 regio carpalis
+- 後手根部 regio carpalis posterior
+- 前頚部 regio cervicalis anterior
+- 寛骨部 regio coxae
+- 下腿部 regio cruris
+- 前下腿部 regio cruris anterior
+- 後下腿部 regio cruris posterior
+- 肘部 regio cubitalis
+- 前肘部 regio cubitalis anterior
+- 後肘部 regio cubitalis posterior
+- 三角筋部 regio deltoidea
+- 手背部 regio dorsalis manus
+- 足背部 regio dorsalis pedis
+- 上胃部 regio epigastrica
+- 顔の部位 regiones faciales
+- 大腿部 regio femoris
+- 前大腿部 regio femoris anterior
+- 後大腿部 regio femoris posterior
+- 前頭部 regio frontalis
+- 前膝部 regio genu anterior
+- 後膝部 regio genu posterior
+- 殿部 regio glutealis
+- 肩甲下部 regio infrascapularis
+- 鼠径部 regio inguinalis
+- 側腹部 regio lateralis
+- 乳房部 regio mammaria
+- 手部 regio manus
+- 乳様突起部 regio mastoidea
+- 中手部 regio metacarpalis
+- オトガイ部 regio mentalis
+- 中足部 regio metatarsalis
+- 鼻部 regio nasalis
+- 後頭部 regio occipitalis
+- 口部 regio oralis
+- 眼窩部 regio orbitalis
+- 手掌部 regio palmaris
+- 胸筋部 regio pectoralis
+- 足部 regio pedis
+- 会陰の部位 regio perinealis
+- 足底部 regio plantaris
+- 恥骨部 regio pubica
+- 肩甲部 regio scapularis
+- 前距腿部 regio talocruralis anterior
+- 足跟部 regio tarsalis
+- 側頭部 regio temporalis
+- 尿生殖部 regio urogenitalis
+- 脊柱部 regio vertebralis
+- 頬骨部 regio zygomatica
+- 網 rete
+- 肩峰動脈網 rete acromiale
+- 動脈網 rete arteriosum
+- 肘関節動脈網 rete articulare cubiti
+- 膝関節動脈網 rete articulare genus
+- 踵骨動脈網 rete calcaneum
+- 背側手根動脈網 rete carpale dorsale
+- 怪網 rete mirabile
+- 膝蓋動脈網 rete patellae
+- 精巣網 rete testis
+- 静脈網 rete venosum
+- 手背静脈網 rete venosum dorsale manus
+- 足背静脈網 rete venosum dorsale pedis
+- 足底静脈網 rete venosum plantare
+- 網膜 retina
+- 支帯 retinaculum
+- 尾骨支帯 retinaculum caudale
+- 皮膚支帯 retinacula cutis
+- 乳房提靭帯 retinaculum cutis mammae
+- 下腓骨筋支帯 retinaculum musculorum fibularium inferius
+- 下腓骨筋支帯 retinaculum musculorum peroneorum inferius
+- 外側膝蓋支帯 retinaculum patellae laterale
+- 内側膝蓋支帯 retinaculum patellae mediale
+- 爪支帯 retinacula unguis
+- 菱脳 rhombencephalon
+- 裂 rima
+- 声門裂 rima glottidis
+- 口裂 rima oris
+- 眼瞼裂 rima palpebrarum
+- 陰裂 rima pudendi
+- 前庭裂 rima vestibuli
+- 声門裂 rima vocalis
+- 涙河 rivus lacrimalis
+- 吻 rostrum
+- 脳梁吻 rostrum corporis callosi
+- 蝶形骨吻 rostrum sphenoidale
+- 横口蓋ヒダ(襞) rugae palatinae
+-  
+-  
+- 小嚢 sacculus
+- 肺胞嚢 sacculi alveolares
+- 内リンパ嚢 saccus endolymphaticus
+- 喉頭小嚢 sacculus laryngis
+- 嚢 saccus
+- 結膜嚢 saccus conjunctivae
+- 内リンパ嚢 saccus endolymphaticus
+- 涙嚢 saccus lacrimalis
+- 深会陰隙 saccus profundus perinei
+- 会陰皮下嚢 saccus subcutaneus perinei
+- 血|血液 sanguis
+- 肩甲骨 scapula
+- 毛幹 scapus pili
+- 階 scala
+- 鼓室階 scala tympani
+- 前庭階 scala vestibuli
+- 強膜 sclera
+- 陰嚢 scrotum
+- 眼球前区∥前区 segmentum anterius
+- 眼球後区∥後区域 segmentum posterius
+- 腎区域 segmenta renalia
+- 肝区域 segmentatio hepatis
+- トルコ鞍 sella turcica
+- 鼓膜張筋半管 semicanalis musculi tensoris tympani
+- 耳管半管 semicanalis tubae auditivae/*semicanalis tubae auditoriae
+- 中隔 septulum
+- 精巣中隔 septula testis
+- 中隔 septum
+- 房室中隔 septum atrioventriculare
+- 筋耳管管中隔 septum canalis musculotubarii
+- 陰核海綿体中隔 septum corporum cavernosorum
+- 大腿輪中隔 septum femorale
+- 亀頭中隔 septum glandis
+- 槽間中隔 septa interalveolaria
+- 心房中隔 septum interatriale
+- 外側上腕筋間中隔 septum intermusculare brachii laterale
+- 内側上腕筋間中隔 septum intermusculare brachii mediale
+- 外側大腿筋間中隔 septum intermusculare femoris laterale
+- 内側大腿筋間中隔 septum intermusculare femoris mediale
+- 根間中隔 septa interradicularia
+- 心室中隔 septum interventriculare
+- 舌中隔 septum linguae
+- 後正中中隔 septum medianum posterius
+- 鼻中隔 septum nasi
+- 骨鼻中隔 septum nasi osseum
+- 透明中隔 septum pellucidum
+- 陰茎中隔 septum penis
+- 直腸膣中隔 septum rectovaginale
+- 直腸膀胱中隔 septum rectovesicale
+- 陰嚢中隔 septum scroti
+- 前頭洞中隔 septum sinuum frontalium
+- 蝶形骨洞中隔 septum sinuum sphenoidalium
+- 洞 sinus
+- 肛門洞 sinus anales
+- 大動脈洞 sinus aortae
+- 頚動脈洞 sinus caroticus
+- 海綿静脈洞 sinus cavernosus
+- 冠状静脈洞 sinus coronarius
+- 硬膜静脈洞 sinus durae matris
+- 精巣上体洞 sinus epididymis
+- 篩骨洞 sinus ethmoidales
+- 前頭洞 sinus frontalis
+- 海綿間静脈洞 sinus intercavernosi
+- 前海綿間静脈洞 sinus intercavernous anterior
+- 乳管洞 sinus lactiferi
+- 脾洞 sinus lienis
+- 縁洞 sinus marginalis
+- 上顎洞 sinus maxillaris
+- 心膜斜洞 sinus obliquus pericardii
+- 後頭静脈洞 sinus occipitalis
+- 副鼻腔 sinus paranasales
+- 側頭錐体鱗部静脈洞 sinus petrosquamosus
+- 下錐体静脈洞 sinus petrosus inferior
+- 上錐体静脈洞 sinus petrosus superior
+- 後洞 sinus posterior
+- 前立腺洞 sinus prostaticus
+- 直静脈洞 sinus rectus
+- 腎洞 sinus renalis
+- 下矢状静脈洞 sinus sagittalis inferior
+- 上矢状静脈洞 sinus sagittalis superior
+- Ｓ状静脈洞 sinus sigmoideus
+- 蝶形骨洞 sinus sphenoidalis
+- 蝶形頭頂静脈洞|蝶形骨頭頂静脈洞 sinus sphenoparietalis
+- 足根洞 sinus tarsi
+- 扁桃洞 sinus tonsillaris
+- 横静脈洞 sinus transversus
+- 心膜横洞 sinus transversus pericardii
+- 肺動脈洞 sinus trunci pulmonalis
+- 鼓室洞 sinus tympani
+- 爪洞 sinus unguis
+- 尿生殖洞 sinus urogenitalis
+- 大静脈洞 sinus venarum cavarum
+- 静脈洞 sinus venosus
+- 強膜静脈洞 sinus venosus sclerae
+- 胸郭 skeleton thoracis
+- 間隙 spatium
+- 虹彩角膜角隙 spatia anguli iridocornealis
+- 硬膜上腔 spatium epidurale
+- 強膜外隙 spatium episclerale
+- 硬膜上腔 spatium extradurale
+- 腹膜外隙 spatium extraperitoneale
+- 中手骨間隙 spatia interossea metacarpi
+- 中足骨間隙 spatia interossea metatarsi
+- 鞘間隙 spatium intervaginale subarachnoidale
+- 鞘間隙 spatium leptomeningeum
+- 脈絡外隙 spatium perichoroideum
+- 硬膜上腔 spatium peridurale
+- 深会陰隙 spatium profundum perinei
+- 腹膜後隙 spatium retroperitoneale
+- 恥骨後壁 spatium retropubicum
+- 小帯後隙 spatium retrozonulare
+- 浅会陰隙 spatium superficiale perinei
+- 胸骨上隙 spatium suprasternale
+- 棘 spina
+- 上オトガイ棘 spina geni superior
+- 耳輪棘 spina helicis
+- 下前腸骨棘 spina iliaca anterior inferior
+- 上前腸骨棘 spina iliaca anterior superior
+- 下後腸骨棘 spina iliaca posterior inferior
+- 上後腸骨棘 spina iliaca posterior superior
+- 坐骨棘 spina ischiadica
+- オトガイ棘 spina mentalis
+- 下オトガイ棘 spina mentalis inferior
+- 上オトガイ棘 spina mentalis superior
+- 鼻棘 spina nasalis
+- 前鼻棘 spina nasalis anterior
+- 後鼻棘 spina nasalis posterior
+- 蝶形骨棘 spina ossis sphenoidalis
+- 口蓋棘 spinae palatinae
+- 肩甲棘 spina scapulae
+- 道上棘 spina suprameatica//spina suprameatalis
+- 滑車棘 spina trochlearis
+- 大鼓室棘 spina tympanica major
+- 小鼓室棘 spina tympanica minor
+- 副脾 splen accessorius
+- 脳梁膨大 splenium corporis callosi
+- 鱗 squama
+- 前頭鱗 squama frontalis
+- 後頭鱗 squama occipitalis
+- あぶみ骨 stapes
+- 胸骨 sternum
+- 層 stratum
+- 基底層 stratum basale
+- 角質層 stratum corneum
+- 爪角質層 stratum corneum unguis
+- 外縦筋層 stratum externum longitudinale
+- 線維層 stratum fibrosum
+- 顆粒層 stratum granulosum
+- 内縦筋層 stratum internum longitudinale
+- 淡明層 stratum lucidum
+- 膜様層 stratum membranosum
+- 上行層∥上昇層 stratum oriens
+- 乳頭層 stratum papillare
+- 色素上皮層、上皮層 stratum pigmentosum
+- 網膜色素上皮層 stratum pigmentosum retinae
+- 放線層、放線状層 stratum radiatum
+- 網状層 stratum reticulare
+- 有棘層 stratum spinosum
+- 子宮内膜海綿層 stratum spongiosum endometrii
+- 中間聴条 stria cochlearis intermedia
+- 背側聴条 stria cochlearis posterior
+- 外帯 stria externa
+- 内側縦条 stria longitudinalis medialis
+- 外側縦条 stria longitudinalis lateralis
+- ツチ骨条 stria mallearis
+- 視床髄条 stria medullaris thalami
+- 第四脳室髄条 striae medullares ventriculi quarti
+- 血管条 stria vascularis
+- 腹側線条体 striatum ventrale
+- 支質 stroma
+- 虹彩支質 stroma iridis
+- 卵巣支質 stroma ovarii
+- 硝子体支質 stroma vitreum
+- 副眼器 structurae oculi accessoriae
+- 岬角支脚 subiculum promotorii
+- 質 substantia
+- 白質 substantia alba
+- 灰白質 substantia grisea
+- 中間質中間部 substantia intermedia centralis
+- 水晶体質 substantia lentis
+- 黒質 substantia nigra
+- 強膜固有質 substantia propria sclerae
+- 溝 sulcus
+- 膨大部溝 sulcus ampullaris
+- 前外側溝 sulcus anterolateralis
+- 中硬膜動脈溝 sulcus arteriae meningeae mediae
+- 後頭動脈溝 sulcus arteriae occipitalis
+- 鎖骨下動脈溝 sulcus arteriae subclaviae
+- 中側頭動脈溝 sulcus arteriae temporalis mediae
+- 椎骨動脈溝 sulcus arteriae vertebralis
+- 外側二頭筋溝 sulcus bicipitalis lateralis
+- 内側二頭筋溝 sulcus bicipitalis medialis
+- 外側二頭筋溝 sulcus bicipitalis radialis
+- 内側二頭筋溝 sulcus bicipitalis ulnaris
+- 脳底溝 sulcus basilaris
+- 踵骨溝 sulcus calcanei
+- 頚動脈溝 sulcus caroticus
+- 手根溝 sulcus carpi
+- 大脳溝 sulci cerebri
+- 視神経交叉溝、交叉溝 sulcus chiasmatis
+- 帯状溝 sulcus cinguli
+- 側副溝 sulcus collareralis
+- 冠状溝 sulcus coronarius
+- 脳梁溝 sulcus corporis callosi
+- 肋骨溝 sulcus costae
+- 篩骨神経溝 sulcus ethmoidalis
+- 采歯状回溝 sulcus fimbriodentatus
+- 前頭溝 sulcus frontalis
+- 下前頭溝 sulcus frontalis inferior
+- 中心後溝 sulcus postcentralis
+- 後外側溝 sulcus posterolateralis
+- 中心前溝 sulcus precentralis
+- 殿溝 sulcus glutealis
+- 翼突鈎溝 sulcus hamului pterygoidei
+- 視床下溝 sulcus hypothalamicus
+- 葉間溝 sulci interlobares
+- 眼窩下溝 sulcus infraorbitalis
+- 乳房間溝 sulcus intermammarius
+- 後中間溝 sulcus intermedius posterior
+- 前室間溝 sulcus interventricularis anterior
+- 後室間溝 sulcus interventricularis posterior
+- 頭頂内溝 sulcus intraparietalis
+- 境界溝 sulcus limitans
+- 月状溝 sulcus lunatus
+- 外果溝 sulcus malleolaris
+- 縁溝 sulcus marginalis
+- 爪床小溝 sulcus matricis unguis
+- 正中溝 sulcus medianus
+- 舌正中溝 sulcus medianus linguae
+- 後正中溝 sulcus medianus posterior
+- 延髄橋溝 sulcus medullopontinus
+- オトガイ唇溝 sulcus mentolabialis
+- 鎖骨下筋溝 sulcus musculi subclavii
+- 顎舌骨筋神経溝 sulcus mylohyoideus
+- 鼻唇溝 sulcus nasolabialis
+- 大錐体神経溝 sulcus nervi petrosi majoris
+- 神経溝 sulcus neuralis
+- 閉鎖溝 sulcus obturatorius
+- 横後頭溝 sulcus occipitalis transversus
+- 後頭側頭溝 sulcus occipitotemporalis
+- 口蓋溝 sulci palatini
+- 大口蓋溝 sulcus palatinus major
+- 口蓋骨鞘突溝 sulcus palatovaginalis
+- 頭頂後頭溝 sulcus parieto-occipitalis
+- 膝窩筋溝 sulcus popliteus
+- 中心後溝 sulcus postcentralis
+- 後耳介溝 sulcus posterior auriculae
+- 後外側溝 sulcus posterolateralis
+- 中心前溝 sulcus precentralis
+- 前視交叉溝 sulcus prechiasmaticus
+- 岬角溝 sulcus promotorii
+- 強膜溝 sulcus sclerae
+- 辺縁洞溝 sulcus sinus marginalis
+- 後頭洞溝 sulcus sinus occipitalis
+- 下椎体洞溝 sulcus sinus petrosi inferior
+- 上矢状洞溝 sulcus sinus sagittalis superioris
+- Ｓ状洞溝 sulcus sinus sigmoidei
+- 横洞溝 sulcus sinus transversi
+- 外ラセン溝 sulcus spiralis externus
+- 内ラセン溝 sulcus spiralis internus
+- 寛骨臼上溝 sulcus supraacetabularis
+- 距骨溝 sulcus tali
+- 上側頭溝 sulcus temporalis superior
+- 長母趾屈筋腱溝 sulcus tendinis musculi flexoris hallucis longus
+- 伸筋腱溝 sulci tendinum musculorum extensorum
+- 分界溝 sulcus terminalis
+- 分界溝 sulcus terminalis cordis
+- 分界溝 sulcus terminalis linguae
+- 鼓膜溝 sulcus tympanicus
+- 大静脈溝 sulcus venae cavae
+- 鎖骨下静脈溝 sulcus venae subclaviae
+- 鋤骨溝 sulcus vomeris
+- 載距突起 sustentaculum tali
+- 縫合 sutura
+- 冠状縫合 sutura coronalis
+- 歯状縫合 sutura dentata
+- 篩骨涙骨縫合 sutura ethmoidolacrimalis
+- 篩骨上顎縫合 sutura ethmoidomaxillaris
+- 前頭縫合 sutura frontalis
+- 前頭篩骨縫合 sutura frontoethmoidalis
+- 前頭涙骨縫合 sutura frontolacrimalis
+- 前頭鼻骨縫合 sutura frontonasalis
+- 前頭頬骨縫合 sutura frontozygomatica
+- 眼窩下縫合 sutura infraorbitalis
+- 上顎間縫合 sutura intermaxillaris
+- 鼻骨間縫合 sutura internasalis
+- 涙骨甲介縫合 sutura lacrimoconchalis
+- 涙骨上顎縫合 sutura lacrimomaxillaris
+- 十字頭蓋 sutura metopica
+- 鼻骨上顎縫合 sutura nasomaxillaris
+- 鼻骨前頭骨縫合 sutura nasofrontalis
+- 後頭乳突縫合 sutura occipitomastoidea
+- 正中口蓋縫合 sutura palatina mediana
+- 横口蓋縫合 sutura palatina transversa
+- 口蓋篩骨縫合 sutura palatoethmoidalis
+- 口蓋上顎縫合 sutura palatomaxillaris
+- 頭頂乳突縫合 sutura parietomastoidea
+- 直線縫合 sutura plana
+- 矢状縫合 sutura sagittalis
+- 鋸状縫合 sutura serrata
+- 蝶前頭縫合 sutura sphenofrontalis
+- 蝶上顎縫合 sutura sphenomaxillaris
+- 蝶頭頂縫合 sutura sphenoparietalis
+- 蝶鱗縫合 sutura sphenosquamosa
+- 篩骨鋤骨縫合 sutura sphenovomeralis
+- 蝶頬骨縫合 sutura sphenozygomatica
+- 鱗乳突縫合 sutura squamomastoidea
+- 鱗状縫合 sutura squamosa
+- 側頭頬骨縫合 sutura temporozygomatica
+- 頬骨上顎縫合 sutura zygomaticomaxillaris
+- [線維軟骨]結合 symphysis
+- 椎間結合 symphysis intervertebralis
+- 下顎結合 symphysis mandibulae
+- 胸骨柄結合 symphysis manubriosternalis
+- 不動関節 synarthrosis
+- 軟骨結合 synchondrosis
+- 前後頭内軟骨結合 synchondrosis intra-occipitalis anterior
+- 蝶篩骨軟骨結合 synchondrosis sphenoethmoidalis
+- 蝶後頭軟骨結合 synchondrosis sphenooccipitalis
+- 錐体後頭軟骨結合 synchondrosis petrooccipitalis
+- 胸骨結合 synchondroses sternales
+- 靭帯結合 syndesmosis
+- 鼓室アブミ骨結合 syndesmosis tympanostapedialis
+- 滑液 synovia
+- 系 systema
+- 関節系 systema articulare
+- 消化器系 systema digestorium
+- 女性生殖器 systema genitale femininum
+- 男性生殖器 systema genitale masculinum
+- リンパ系 systema lymphaticum
+- 神経系 systema nervosum
+- 自律神経系 systema nervosum autonomicum
+- 中枢神経系 systema nervosum centrale
+- 末梢神経系 systema nervosum periphericum
+- 呼吸器系 systema respiratorium
+- 骨格系 systema skeletale
+- 尿生殖器系 systema urogenitale
+-  
+-  
+- 距骨 talus
+- ヒモ taenia
+- 脈絡ヒモ taenia choroidea
+- 灰白ヒモ taenia cinerea
+- 結腸ヒモ taeniae coli
+- 脳弓ヒモ taenia fornicis
+- 自由ヒモ taenia libera
+- 間膜ヒモ taenia mesocolica
+- 大網ヒモ taenia omentalis
+- 視床ヒモ taenia thalami
+- 足根 tarsus
+- 蓋 tectum
+- 中脳蓋 tectum mesencephali
+- 蓋 tegmen
+- 鼓室蓋 tegmen tympani
+- 第四脳室蓋 tegmen ventriculi quarti
+- 中脳被蓋 tegmentum mesencephali
+- 橋被蓋 tegmentum pontis
+- 組織 tela
+- 脈絡組織 tela choroidea
+- 皮下組織 tela subcutanea
+- 腹部の皮下組織 tela subcutanea abdominis
+- 陰茎皮下層 tela subcutanea penis
+- 会陰皮下層 tela subcutanea perinei
+- 終脳 telencephalon
+- 側頭 tempora
+- 腱 tendo
+- アキレス腱 tendo Achillis
+- 踵骨腱 tendo calcaneus
+- 結合腱 tendo conjunctivus
+- 輪状食道腱束 tendo cricoesophageus
+- 中間腱 tendo intermedius
+- ヒモ(紐) tenia
+- 結腸ヒモ tenia coli
+- 脳弓ヒモ tenia fornicis
+- 視床ヒモ tenia thalami
+- 張筋 tensor
+- 小脳テント tentorium cerebelli
+- 視床脳 thalamencephalon
+- 視床 thalamus
+- 胸郭 thorax
+- 胸腺 thymus
+- 扁桃 tonsilla
+- 小脳扁桃 tonsilla cerebelli
+- 喉頭扁桃 tonsilla laryngica
+- 舌扁桃 tonsilla lingualis
+- 口蓋扁桃 tonsilla palatina
+- 咽頭扁桃 tonsilla pharyngea
+- 耳管扁桃 tonsilla tubaria
+- 触覚小球 toruli tactiles
+- 隆起 torus
+- 挙筋隆起 torus levatorius
+- 下顎隆起 torus mandibularis
+- 口蓋隆起 torus palatinus
+- 耳管隆起 torus tubrius
+- 小柱 trabecula
+- 肉柱 trabeculae carneae
+- 陰茎海綿体小柱 trabeculae corporum cavernosorum
+- 尿道海綿体小柱 trabeculae corporis spongiosi
+- 脾柱 trabeculae splenicae
+- 気管 trachea
+- 路∥索 tractus
+- 索外側網様体脊髄路 tractus bulboreticulospinalis
+- 外側皮質脊髄路 tractus corticospinalis lateralis
+- 腸骨恥骨靭帯 tractus ileopubicus
+- 腸脛靭帯 tractus iliotibialis
+- 嗅索 tractus olfactorius
+- 視索 tractus opticus
+- 椎体路 tractus pyramidales
+- 毛様体脊髄路 tractus reticulospinalis
+- 網膜視床下部 tractus retinohypothalamicus
+- 孤束核脊髄路 tractus solitariospinalis
+- 孤束 tractus solitarius
+- 脊髄小脳路 tractus spinocerebellaris
+- 前脊髄視床路 tractus spinothalamicus anterior
+- 外側視蓋延髄路 tractus tectobulbaris lateralis
+- 視蓋橋路 tractus tectopontinus
+- 視蓋脊髄路 tractus tectospinalis
+- 中心被蓋路 tractus tegmentalis centralis
+- 前庭脊髄路 tractus vestibulospinalis
+- 外側前庭脊髄路 tractus vestibulospinalis lateralis
+- 耳珠 tragus
+- 三角 trigonum
+- 房室結節三角 trigonum nodi atrioventricularis
+- 聴診三角 trigonum ausculationis
+- 頚動脈三角 trigonum caroticum
+- 前頚三角 trigonum cervicale anterius/*trigonum colli anterius
+- 側副三角 trigonum collaterale
+- 胆嚢肝三角 trigonum cystohepaticum
+- 大腿三角 trigonum femorale
+- 線維三角 trigonum fibrosum
+- 手綱三角 trigonum habenulae
+- 鼠径三角 trigonum inguinale
+- 腰三角 trigonum lumbale
+- 腰肋三角 trigonum lumbocostale
+- 舌下神経三角 trigonum nervi hypoglossi
+- 迷走神経三角 trigonum nervi vagi
+- 嗅三角 trigonum olfactorium
+- 肩甲鎖骨三角 trigonum omoclaviculare
+- 骨盤側壁三角 trigonum parietale laterale pelvis
+- 臼後三角 trigonum retromolare
+- 胸肋三角 trigonum sternocostale
+- 顎下三角 trigonum submandibulare
+- オトガイ下三角 trigonum submentale
+- 迷走神経三角 trigonum vagale
+- 膀胱三角 trigonum vesicae
+- 転子 trochanter
+- 大転子 trochanter major
+- 滑車 trochlea
+- 上腕骨滑車 trochlea humeri
+- 幹 truncus
+- 副神経幹 truncus nervi accessorii
+- 腕頭動脈 truncus brachiocephalicus
+- 腹腔動脈 truncus coeliacus
+- 脳梁幹 truncus corporis callosi
+- 肋頚動脈 truncus costocervicalis
+- 脳幹 truncus encephali
+- 腸リンパ本幹 trunci intestinales
+- 舌顔面動脈幹 truncus linguofacialis
+- リンパ本幹 trunci lymphatici
+- 肺動脈幹 truncus pulmonalis
+- 前迷走神経幹 truncus vagalis anterior
+- 後迷走神経幹 truncus vagalis posterior
+- 管 tuba
+- 耳管 tuba auditiva
+- 卵管 tuba uterina
+- 隆起 tuber
+- 踵骨隆起 tuber calcanei
+- 灰白隆起 tuber cinereum
+- 前頭結節 tuber frontale
+- 坐骨結節 tuber ischiadicum
+- 上顎結節 tuber maxillae
+- 小網隆起 tuber omentale
+- 小網隆起 tuber omentale
+- 恥骨結節 tuber pubicum
+- 虫部隆起 tuber vermis
+- 結節 tuberculum
+- 前結節 tuberculum anterius
+- 視床前結節 tuberculum anterius thalami
+- 乳輪結節 tubercula areolae
+- 関節結節 tuberculum articulare
+- 耳介結節 tuberculum auriculae
+- 踵骨結節 tuberculum calcanei
+- 円錐靭帯結節 tuberculum conoideum
+- 小角結節 tuberculum corniculatum
+- 肋骨結節 tuberculum costae
+- 楔状結節 tuberculum cuneiforme
+- 三角筋粗面 tuberculum deltoideum
+- 咬頭 tuberculum dentis
+- 咬頭、歯冠結節 tuberculum dentis/*tuberculum coronae dentis/*tuberculum coronae†
+- 背側結節 tuberculum dorsale
+- 喉頭蓋結節 tuberculum epiglotticum
+- 関節下結節 tuberculum infraglenoidale
+- 外側顆間結節 tuberculum intercondylare laterale
+- 内側顆間結節 tuberculum intercondylare mediale
+- 静脈間隆起 tuberculum intervenosum
+- 頚静脈結節 tuberculum jugulare
+- 外側結節 tuberculum laterale
+- オトガイ結節 tuberculum mentale
+- 大結節 tuberculum majus
+- 縁結節 tuberculum marginale
+- 内側結節 tuberculum mediale
+- 小結節 tuberculum minus
+- 臼結節 tuberculum molare
+- 前斜角筋結節 tuberculum musculi scaleni anterioris
+- 前閉鎖結節 tuberculum obturatorium anterius
+- 後閉鎖結節 tuberculum obturatorium posterius
+- 舟状骨結節 tuberculum ossis scaphoidei
+- 大菱形骨結節 tuberculum ossis trapezii
+- 咽頭結節 tuberculum pharyngeum
+- 方形結節 tuberculum quadratum
+- 鞍結節 tuberculum sellae
+- 関節上結節 tuberculum supraglenoidale
+- 珠上結節 tuberculum supratragicum
+- 三叉神経結節 tuberculum trigeminale
+- 粗面 tuberositas
+- 三角筋粗面 tuberositas deltoidea
+- 殿筋粗面 tuberositas glutea
+- 腸骨粗面 tuberositas iliaca
+- 烏口鎖骨靭帯粗面 tuberositas ligamenti coracoclavicularis
+- 咬筋粗面 tuberositas masseterica
+- 立方骨粗面 tuberositas ossis cuboidei
+- 舟状骨粗面 tuberositas ossis navicularis
+- 仙骨粗面 tuberositas ossis sacri
+- 回内筋粗面 tuberositas pronatoria
+- 翼突筋粗面 tuberositas pterygoidea
+- 橈骨粗面 tuberositas radii
+- 脛骨粗面 tuberositas tibiae
+- 尺骨粗面 tuberositas ulnae
+- 細管、小管 tubulus
+- 尿細管 tubuli renales
+- 膜∥層 tunica
+- 外膜 tunica adventitia
+- 白膜 tunica albuginea
+- 尿道海綿体白膜 tunica albuginea corporis spongiosi
+- 陰茎海綿体白膜 tunica albuginea corporum cavernosorum
+- 卵巣白膜 tunica albuginea ovarii
+- 結膜 tunica conjunctiva
+- 結膜 tunica conjunctiva bulbi
+- 結膜 tunica conjunctiva palpebrarum
+- 肉様膜 tunica dartos
+- 外膜 tunica externa
+- 線維膜 tunica fibrosa
+- 眼球線維膜 tunica fibrosa bulbi
+- 内膜 tunica interna
+- 内膜 tunica intima
+- 眼球内膜 tunica interna bulbi
+- 中膜 tunica media
+- 粘膜 tunica mucosa
+- 鼓室粘膜 tunica mucosa cavitatis tympanicae
+- 舌粘膜 tunica mucosa linguae
+- 鼻粘膜 tunica mucosa nasi
+- 口腔粘膜 tunica mucosa oris
+- 筋層 tunica muscularis
+- 漿膜 tunica serosa
+- 精巣鞘膜 tunica vaginalis testis
+- 眼球血管膜 tunica vasculosa bulbi
+-  
+-  
+- 尺骨 ulna
+- 鈎 uncus
+- 椎体鈎 uncus vertebralis
+- 爪 unguis
+- 尿膜管 urachus
+- 尿管 ureter
+- 尿道 urethra
+- 女性尿道 urethra feminina
+- 男性尿道 urethra masculina
+- 子宮 uterus
+- 卵形嚢 utriculus
+- 垂 uvula
+- 口蓋垂 uvula palatina
+- 虫部垂 uvula vermis
+- 膀胱垂 uvula vesicae
+-  
+-  
+- 眼角静脈 V. angularis
+- 前大脳静脈 Vv. anteriores cerebri
+- 蝸牛水管静脈 V. aqueductus cochleae
+- 前庭水管静脈 V. aqueductus vestibuli
+- 弓状静脈 Vv. arcuatae
+- 顎関節静脈 Vv. articulares
+- 前耳介静脈 Vv. auriculares anteriores
+- 後耳介静脈 V. auricularis posterior
+- 腋窩静脈 V. axillaris
+- 奇静脈 V. azygos
+- 脳底静脈 V. basalis
+- 総肺底静脈 V. basalis communis
+- 尺側皮静脈 V. basilica
+- 上腕静脈 V. brachialis
+- 陰茎静脈 V. bulbi penis
+- 翼突管静脈 V. canalis pterygoidei
+- 被膜静脈 Vv. capsulares
+- 大静脈 V. cava
+- 下大静脈 V. cava inferior
+- 上大静脈 V. cava superior
+- 中心静脈 V. centralis
+- 下小脳静脈 Vv. cerebelli inferior
+- 大大脳静脈 V. cerebri magna
+- 浅中大脳静脈 V. cerebri media superficialis
+- 深頚静脈 V. cervicalis profunda
+- 下脈絡叢静脈 V. choroidea inferior
+- 毛様体静脈 Vv. ciliares
+- 内側大腿回旋静脈 Vv. circumflexae femoris mediales
+- 後上腕回旋静脈 V. circumflexa humeri posterior
+- 深腸骨回旋静脈 V. circumflexa ilium profunda
+- 浅腸骨回旋静脈 V. circumflexa ilium superficialis
+- 小脳延髄槽静脈 V. cisternae cerebellomedullaris
+- 右結腸静脈 V. colica dextra
+- 中結腸静脈 V. colica media
+- 脊柱の静脈 Vv. columnae vertebralis
+- 心静脈 Vv. cordis
+- 前心静脈 Vv. cordis anteriores
+- 大心静脈 V. cordis magna
+- 中心静脈 V. cordis media
+- 小心静脈 V. cordis parva
+- 掌側指静脈 Vv. digitales palmares
+- 板間静脈 Vv. diploicae
+- 後頭板間静脈 V. diploica occipitalis
+- 前側頭板間静脈 V. diploica temporalis anterior
+- 後側頭板間静脈 V. diploica temporalis posterior
+- 浅陰核背静脈 Vv. dorsales clitoridis superficiales
+- 深陰核背静脈 V. dorsalis profunda clitoridis
+- 舌背静脈 Vv. dorsales linguae
+- 深陰茎背静脈 V. dorsalis profunda penis
+- 導出静脈 Vv. emissariae
+- 乳突導出静脈 V. emissaria mastoidea
+- 後頭導出静脈 V. emissaria occipitalis
+- 頭頂導出静脈 V. emissaria parietalis
+- 下腹壁静脈 V. epigastrica inferior
+- 浅腹壁静脈 V. epigastrica superficialis
+- 上腹壁静脈 Vv. epigastricae superiores
+- 上強膜静脈 Vv. episclerales
+- 食道静脈 Vv. esophageae
+- 篩骨静脈 Vv. ethmoidales
+- 顔面静脈 V. facialis
+- 深顔面静脈 V. faciei profunda
+- 大腿静脈 V. femoralis
+- 腓骨静脈 Vv. fibulares
+- 右胃静脈 V. gastrica dextra
+- 左胃静脈 V. gastrica sinistra
+- 膝静脈 Vv. genus
+- 膝静脈 Vv. geniculares
+- 下殿静脈 Vv. gluteae inferior
+- 半奇静脈 V. hemiazygos
+- 副半奇静脈 V. hemiazygos accessoria
+- 右肝静脈 V. hepatica dextra
+- 中肝静脈 V. hepatica intermedia
+- 左肝静脈 V. hepatica sinistra
+- 回結腸静脈 V. ileocolica
+- 総腸骨静脈 V. iliaca communis
+- 外腸骨静脈 V. iliaca externa
+- 内腸骨静脈 V. iliaca interna
+- 腸腰静脈 V. iliolumbalis
+- 中手骨頭間静脈 Vv. intercapitulares
+- 骨頭間静脈 Vv. intercapitulares
+- 前肋間静脈 Vv. intercostales anterior
+- 右上肋間静脈 V. intercostalis superior dextra
+- 最上肋間静脈 V. intercostalis suprema
+- 小葉間静脈 Vv. interlobulares
+- 内大脳静脈 Vv. internae cerebri
+- 前骨間静脈 Vv. interosseae anteriores
+- 椎間静脈 Vv. intervertebrales
+- 腎臓の静脈 Vv. intrarenales
+- 空腸静脈 Vv. jejunales
+- 頚静脈 V. jugularis
+- 前頚静脈 V. jugularis anterior
+- 外頚静脈 V. jugularis externa
+- 後外頚静脈 V. jugularis externa posterior
+- 内頚静脈 V. jugularis interna
+- 前陰唇静脈 Vv. labiales anteriores
+- 上唇静脈 V. labialis superior
+- 迷路静脈 Vv. labyrinthi
+- 涙腺静脈 V. lacrimalis
+- 下喉頭静脈 V. laryngea inferior
+- 上喉頭静脈 V. laryngea superior
+- 脾静脈 V. lienalis
+- 舌静脈 V. lingualis
+- 腰静脈 Vv. lumbales
+- 上行腰静脈 V. lumbalis ascendens
+- 内側足縁静脈 V. marginalis medialis
+- 外側足縁静脈 V. marginalis lateralis
+- 顎静脈 Vv. maxillares
+- 深中大脳静脈 V. media profunda cerebri
+- 正中肘静脈 V. mediana cubiti
+- 前硬膜静脈 V. meningeae anterior
+- 中硬膜静脈 Vv. meningeae mediae
+- 外側中脳静脈 V. mesencephalica lateralis
+- 下腸間膜静脈 V. mesenterica inferior
+- 上腸間膜静脈 V. mesenterica superior
+- 背側中手静脈 Vv. metacarpeae dorsales
+- 背側中足静脈 Vv. metatarseae dorsales
+- 底側中足静脈 Vv. metatarsales plantares
+- 筋横隔静脈 Vv. musculophrenicae
+- 鼻前頭静脈 V. nasofrontalis
+- 左心房斜静脈 V. obliqua atrii sinistri
+- 閉鎖静脈 Vv. obturatoriae
+- 後頭静脈 V. occipitalis
+- 下眼静脈 V. ophthalmica inferior
+- 上眼静脈 V. ophthalmica superior
+- 眼窩静脈 Vv. orbitae
+- 右卵巣静脈 V. ovarica dextra
+- 左卵巣静脈 V. ovarica sinistra
+- 外口蓋静脈 V. palatina externa
+- 眼瞼静脈 Vv. palpebrales
+- 下眼瞼静脈 Vv. palpebrales inferiores
+- 上眼瞼静脈 Vv. palpebrales superiores
+- 膵静脈 Vv. pancreaticae
+- 膵十二指腸静脈 Vv. pancreaticoduodenales
+- 後上膵十二指腸静脈 V. pancreaticoduodenalis superior posterior
+- 臍傍静脈 Vv. paraumbilicales
+- 耳下腺静脈 Vv. parotideae
+- 胸筋枝 Vv. pectrales
+- 貫通静脈 Vv. perforantes
+- 心膜静脈 Vv. pericardiacae
+- 心膜横隔静脈 Vv. pericardiacophrenicae
+- 腓骨静脈 Vv. peroneae
+- 咽頭静脈 Vv. pharyngeae
+- 下横隔静脈 Vv. phrenicae inferiores
+- 上横隔静脈 Vv. phrenicae superiores
+- 膝窩静脈 V. poplitea
+- 門脈 V. portae
+- 肝門脈、門脈、門静脈 V. portae hepatis
+- 左心室後静脈 V. posterior ventriculi sinistri
+- 幽門前静脈 V. prepylorica
+- 陰核深静脈 Vv. profundae clitoridis
+- 大腿深静脈 V profunda femoris
+- 舌深静脈 V. profunda linguae
+- 陰茎深静脈 Vv. profundae penis
+- 恥骨静脈 V. pubis
+- 外陰部静脈 Vv. pudendae externae
+- 内陰部静脈 V. pudenda interna
+- 肺静脈 Vv. pulmonales
+- 右肺静脈 Vv. pulmonales dextrae
+- 右下肺静脈 V. pulmonalis inferior dextra
+- 左下肺静脈 V. pulmonalis inferior sinistra
+- 左肺静脈 Vv. pulmonales sinistrae
+- 右上肺静脈 V. pulmonalis superior dextra
+- 左上肺静脈 V. pulmonalis superior sinistra
+- 橈骨静脈 Vv. radiales
+- 下直腸静脈 Vv. rectales inferiores
+- 中直腸静脈 Vv. rectales mediae
+- 上直腸静脈 V. rectalis superior
+- 腎の静脈 Vv. renis
+- 腎静脈 Vv. renales
+- 下顎後静脈 V. retromandibularis
+- 外側仙骨静脈 Vv. sacrales laterales
+- 正中仙骨静脈 V. sacralis mediana
+- 副伏在静脈 V. saphena accessoria
+- 外側副伏在静脈 V. saphena accessoria lateralis
+- 内側副伏在静脈 V. saphena accessoria medialis
+- 大伏在静脈 V. saphena magna
+- 小伏在静脈 V. saphena parva
+- 背側肩甲静脈 V. scapularis dorsalis
+- 前陰嚢静脈 Vv. scrotales anteriores
+- 後陰嚢静脈 Vv. scrotales posteriores
+- 透明中隔静脈 V. septi pellucidi
+- Ｓ結腸静脈 Vv. sigmoideae
+- 脊髄静脈 Vv. spinales
+- 前脊髄静脈 Vv. spinales anteriores
+- 後脊髄静脈 Vv. spinales posteriores
+- 蝸牛軸ラセン静脈 V. spiralis modioli
+- 胸鎖乳突筋静脈 V. sternocleidomastoidea
+- 線条体静脈 V. striata
+- 茎乳突孔静脈 V. stylomastoidea
+- 鎖骨下静脈 V. subclavia
+- 肋下静脈 V. subcostalis
+- 腹皮下静脈 Vv. subcutaneae abdominis
+- 舌下静脈 V. sublingualis
+- オトガイ下静脈 V. submentalis
+- 下肢の浅静脈 Vv. superficiales membri inferioris
+- 上小脳半球静脈 Vv. superiores cerebelli
+- 上大脳静脈 Vv. superiores cerebri
+- 眼窩上静脈 V. supraorbitalis
+- 右副腎静脈 V. suprarenalis dextra
+- 左副腎静脈 V. suprarenalis sinistra
+- 肩甲上静脈 V. suprascapularis
+- 滑車上静脈 Vv. supratrochleares
+- 腓腹静脈 Vv. surales
+- 側頭静脈 Vv. temporales
+- 中側頭静脈 V. temporalis media
+- 深側頭静脈 Vv. temporales profundae
+- 浅側頭静脈 Vv. temporales superficiales
+- 右精巣静脈 V. testicularis dextra
+- 左精巣静脈 V. testicularis sinistra
+- 視床線条体静脈 V. thalamostriata
+- 内胸静脈 Vv. thoracicae internae
+- 外側胸静脈 V. thoracica lateralis
+- 胸肩峰静脈 V. thoracoacromialis
+- 胸背静脈 V. thoracodorsalis
+- 胸腹壁静脈 Vv. thoracoepigastricae
+- 胸腺静脈 Vv. thymicae
+- 下甲状腺静脈 V. thyroidea inferior
+- 中甲状腺静脈 Vv. thyroidea mediae
+- 上甲状腺静脈 V. thyroidea superior
+- 前脛骨静脈 Vv. tibialis anteriores
+- 後脛骨静脈 Vv. tibialis posteriores
+- 気管静脈 Vv. tracheales
+- 頚横静脈 Vv. transversae cervicis
+- 頚横静脈 Vv. transversae colli
+- 顔面横静脈 V. transversa faciei
+- 脳幹静脈 Vv. trunci encephali
+- 鼓室静脈 Vv. tympanicae
+- 尺骨静脈 Vv. ulnares
+- 左臍静脈 V. umbilicalis sinistra
+- 鈎静脈 V. uncalis
+- 子宮静脈 Vv. uterinae
+- 膣静脈 Vv. vaginales
+- 下脳室静脈 V. ventricularis inferior
+- 椎骨静脈 V. vertebralis
+- 副椎骨静脈 V. vertebralis accessoria
+- 前椎骨静脈 V. vertebralis anterior
+- 膀胱静脈 Vv. vescales
+- 前庭静脈 Vv. vestibulares
+- 前前庭静脈 V. vestibularis anterior
+- 後前庭静脈 V. vestibularis posterior
+- 前庭蝸牛静脈 V. vestibulocochlearis
+- 渦静脈 Vv. vorticosae
+- 鞘 vagina
+- 眼球鞘 vagina bulbi
+- 頚動脈鞘 vagina carotica
+- 視神経外鞘 vagina externa
+- 視神経内鞘 vagina interna
+- 腹直筋鞘 vagina musculi recti abdominis
+- 茎状突起鞘 vagina processus styloidei
+- 滑液鞘 vagina synovialis
+- 結節間腱鞘 vagina tendinis intertubercularis
+- 上斜筋腱鞘 vagina tendinis musculi obliqui superioris
+- 手根腱鞘 vaginae tendinum carpales
+- 下肢の腱鞘 vaginae tendinum membri inferioris
+- 前足根腱鞘 vaginae tendinum tarsales anteriores
+- 腓側足根腱鞘 vaginae tendinum tarsales fibulares
+- 脛側足根腱鞘 vaginae tendinum tarsales tibiales
+- 小脳谷 vallecula cerebelli
+- 郭 vallum
+- 爪郭 vallum unguis
+- 弁 valva
+- 大動脈弁 valva aortae
+- 右房室弁 valva atrioventricularis dextra
+- 左房室弁 valva atrioventricularis sinistra
+- 回盲弁 valva ileocecalis
+- 僧帽弁 valva mitralis
+- 三尖弁 valva tricuspidalis
+- 肺動脈弁 valva trunci pulmonalis
+- 弁 valvula
+- 肛門弁 valvulae anales
+- 卵円孔弁 valvula foraminis ovalis
+- 舟状窩弁 valvula fossae navicularis
+- 冠状静脈弁 valvula sinus coronarii
+- 下大静脈弁 valvula venae cavae inferioris
+- 静脈弁 valvula venosa
+- 管∥脈管 vas
+- 輸入管 vas afferens
+- 短管 vasa brevia
+- 毛細管 vas capillare
+- 側副血管 vas collarerale
+- 輸出管 vas efferens
+- リンパ管 vas lymphaticum
+- 浅リンパ管 vas lymphaticum superficiale
+- 隆起血管 vas prominens
+- 内耳血管 vasa sanguinea auris internae
+- 網膜血管 vasa sanguinea retinae
+- ラセン管 vas spirale
+- 帆 velum
+- 下髄帆 velum medullare inferius
+- 上髄帆 velum medullare superius
+- 口蓋帆 velum palatinum
+- 静脈 vena
+- 大静脈 vena cava
+- 下大静脈 vena cava inferior
+- 上大静脈 vena cava superior
+- 腹 venter
+- 前腹 venter anterior
+- 前頭筋 venter frontalis
+- 下腹 venter inferior
+- 後頭筋 venter occipitalis
+- 後腹 venter posterior
+- 上腹 venter superior
+- 胃 ventriculus
+- 心室 ventriculus cordis
+- 右心室 ventriculus dexter
+- 喉頭室 ventriculus laryngis
+- 側脳室 ventriculus lateralis
+- 第四脳室 ventriculus quartus
+- 左心室 ventriculus sinister
+- 終室 ventriculus terminalis
+- 第三脳室 ventriculus tertius
+- 細静脈、小静脈 venula
+- 網膜内側静脈 venula medialis retinae
+- 虫部 vermis
+- 小脳虫部 vermis cerebelli
+- 椎骨 vertebra
+- 頚椎 vertebrae cervicales
+- 胸椎 vertebrae thoracicae
+- 腰椎 vertebrae lumbales
+- 仙椎 vertebrae sacrales
+- 尾椎 vertebrae coccygeae
+- 角膜頂 vertex corneae
+- 膀胱 vesica urinaria
+- 嚢 vesicula
+- 眼胞 vesicula optica
+- 精嚢 vesicula seminalis
+- 前庭 vestibulum
+- 頬前庭 vestibulum buccale
+- 喉頭前庭 vestibulum laryngis
+- 鼻前庭 vestibulum nasi
+- 口腔前庭 vestibulum oris
+- 膣前庭 vestibulum vaginae
+- 絨毛 villus
+- 腸絨毛 villi intestinales
+- 顔面頭蓋 viscerocranium
+- 手掌 vola manus
+- 足底 vola pedis
+- 鋤骨 vomer
+- 渦 vortex
+- 尾骨渦 vortex coccygeus
+- 心渦 vortex cordis
+- 毛渦 vortices pilorum
+-  
+-  
+- 帯 zona
+- 視床下部帯 zonae hypothalamicae
+- 中間帯 zona intermedia
+- 外側帯 zona lateralis
+- 内側帯 zona medialis
+- 輪帯 zona orbicularis
+- 肛門移行帯 zona transitionalis analis
+- 小帯 zonula
+- 毛様体小帯、毛様小帯 zonula ciliaris
